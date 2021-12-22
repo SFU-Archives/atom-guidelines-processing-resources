@@ -103,7 +103,6 @@ The following abbreviations are used in the obligation status columns for each l
 | Field name 	| Fonds 	| Series 	| File 	| Item 	|
 |---	|:---:	|:---:	|:---:	|:---:	|
 | [Physical condition](physical-condition.md) 	| OP 	| OP 	| OP 	| OP 	|
-|---	|---	|---	|---	|---	|
 | [Immediate source of acquisition](immediate-source-of-acquisition.md) 	| NR 	| NR 	| NR 	| NR 	|
 | [Arrangement](arrangement.md) 	| OP 	| OP 	| OP 	| OP 	|
 | [Language of material](language-of-material.md) 	| MA 	| MA 	| MA 	| MA 	|
@@ -165,7 +164,7 @@ The following abbreviations are used in the obligation status columns for each l
 | - [End](rights-basis.md#end) 	| NR 	| NR 	| NR 	| NR 	|
 | - [Rights holder](rights-basis.md#rights-holder) 	| NR 	| NR 	| NR 	| RE 	|
 | - [Rights note(s)](rights-basis.md#rights-notes) 	| NR 	| NR 	| RE 	| RE 	|
-| [Documentation identifier(rights-documentation.md) 	|  	|  	|  	|  	|
+| [Documentation identifier](rights-documentation.md) 	|  	|  	|  	|  	|
 | - [Identifier type](rights-documentation.md#identification-type) 	| NR 	| NR 	| NR 	| NR 	|
 | - [Identifier value](rights-documentation.md#identification-value) 	| NR 	| NR 	| NR 	| NR 	|
 | - [Identifier role](rights-documentation.md#identification-role) 	| NR 	| NR 	| NR 	| NR 	|
