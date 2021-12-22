@@ -1,8 +1,8 @@
 # Archival Description Data Entry: overview
 
+## Title and statement of responsibility area
 | Field name 	| Fonds 	| Series 	| File 	| Item 	|
 |---	|---	|---	|---	|---	|
-| ## Title and   statement of responsibility area 	|  	|  	|  	|  	|
 | Title proper 	| MA 	| MA 	| MA 	| MA 	|
 | GMD 	| MA 	| MA 	| MA 	| MA 	|
 | Parallel titles 	| NR 	| NR 	| NR 	| NR 	|
@@ -24,15 +24,19 @@
 | Edition area 	|  	|  	|  	|  	|
 | Edition statement 	| NA 	| NA 	| NA 	| NR 	|
 | Statement of responsibility relating to the edition 	| NA 	| NA 	| NA 	| NR 	|
-|  	|  	|  	|  	|  	|
-| ## Class of   material specific details 	|  	|  	|  	|  	|
+
+## Class of material specific details area
+| Field name 	| Fonds 	| Series 	| File 	| Item 	|
+|---	|---	|---	|---	|---	|
 | Statement of scale (cartographic) 	| NA 	| NA 	| NA 	| RE 	|
 | Statement of projection (cartographic) 	| NA 	| NA 	| NA 	| RE 	|
 | Statement of coordinates (cartographic) 	| NA 	| NA 	| NA 	| RE 	|
 | Statement of scale (architectural) 	| NA 	| NA 	| NA 	| RE 	|
 | Issuing   jurisdiction and denomination (philatelic) 	| NA 	| NA 	| NA 	| RE 	|
-|  	|  	|  	|  	|  	|
-| ## Dates of creation area 	|  	|  	|  	|  	|
+
+## Dates of creation area
+| Field name 	| Fonds 	| Series 	| File 	| Item 	|
+|---	|---	|---	|---	|---	|
 | Date entry 	| MA 	| MA 	| MA 	| MA 	|
 | Actor name 	| RE 	| RE 	| RE 	| RE 	|
 | Event type (*) 	| MA 	| MA 	| MA 	| MA 	|
