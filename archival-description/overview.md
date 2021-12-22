@@ -17,9 +17,9 @@ The following abbreviations are used in the obligation status columns for each l
 - NR = Not recommended; do not use.
 
 ### Contents
-- [Title and statement of responsibility area](#title-and-statement-of-responsibility-area)
+- [Title and statement of responsibility area](#title-area)
 - [Edition area](#edition-area)
-- [Class of material specific details area](#class-material)
+- [Class of material specific details area](#class-of-material-area)
 - [Dates of creation area](#dates-of-creation-area)
 - [Physical description area](#physical-description-area)
 - [Archival description area](#archival-description-area)
@@ -31,8 +31,9 @@ The following abbreviations are used in the obligation status columns for each l
 
 ### Title and statement of responsibility area
 
-| Field name 	| Fonds 	| Series 	| File 	| Item 	|
+| RAD fields 	|
 |---	|:---:	|:---:	|:---:	|:---:	|
+| <a name="title-area"><b>Title and statement of responsibility area</b></a>| <b>Fonds</b> | <b>Series</b> | <b>File</b> | <b>Item</b> |
 | [Title proper (*)](title-proper.md) 	| MA 	| MA 	| MA 	| MA 	|
 | [GMD](gmd.md) 	| MA 	| MA 	| MA 	| MA 	|
 | [Parallel titles](parallel-titles.md) 	| NR 	| NR 	| NR 	| NR 	|
@@ -51,34 +52,19 @@ The following abbreviations are used in the obligation status columns for each l
 | [Alternative identifier](alternative-identifier.md) 	| RE 	| RE 	| RE 	| RE 	|
 | - [Label](alternative-identifier.md#Label) 	| RE 	| RE 	| RE 	| RE 	|
 | - [Value](alternative-identifier.md#Value)	| RE 	| RE 	| RE 	| RE 	|
-
-### Edition area
-
-| Field name 	| Fonds 	| Series 	| File 	| Item 	|
-|---	|:---:	|:---:	|:---:	|:---:	|
+| <br> |
+| <a name="edition-area"><b>Edition area</b></a>| <b>Fonds</b> | <b>Series</b> | <b>File</b> | <b>Item</b> |
 | [Edition statement](edition-area.md) 	| NA 	| NA 	| NA 	| NR 	|
 | [Statement of responsibility relating to the edition](edition-area.md) 	| NA 	| NA 	| NA 	| NR 	|
-| <br>
-| <a name="class-material"><b>Class of material specific details</b></a>| <b>Fonds</b> | <b>Series</b> | <b>File</b> | <b>Item</b> |
+| <br> |
+| <a name="class-of-material-area"><b>Class of material specific details</b></a>| <b>Fonds</b> | <b>Series</b> | <b>File</b> | <b>Item</b> |
 | [Statement of scale (cartographic)](statement-of-scale-cartographic.md) 	| NA 	| NA 	| NA 	| RE 	|
 | [Statement of projection (cartographic)](statement-of-project.md) 	| NA 	| NA 	| NA 	| RE 	|
 | [Statement of coordinates (cartographic)](statement-of-coordinates.md) 	| NA 	| NA 	| NA 	| RE 	|
 | [Statement of scale (architectural)](statement-of-scale-architectural.md) 	| NA 	| NA 	| NA 	| RE 	|
 | [Issuing jurisdiction and denomination (philatelic)](issuing-jurisdication.md) 	| NA 	| NA 	| NA 	| RE 	|
-### Class of material specific details area
-
-| Field name 	| Fonds 	| Series 	| File 	| Item 	|
-|---	|:---:	|:---:	|:---:	|:---:	|
-| [Statement of scale (cartographic)](statement-of-scale-cartographic.md) 	| NA 	| NA 	| NA 	| RE 	|
-| [Statement of projection (cartographic)](statement-of-project.md) 	| NA 	| NA 	| NA 	| RE 	|
-| [Statement of coordinates (cartographic)](statement-of-coordinates.md) 	| NA 	| NA 	| NA 	| RE 	|
-| [Statement of scale (architectural)](statement-of-scale-architectural.md) 	| NA 	| NA 	| NA 	| RE 	|
-| [Issuing jurisdiction and denomination (philatelic)](issuing-jurisdication.md) 	| NA 	| NA 	| NA 	| RE 	|
-
-### Dates of creation area
-
-| Field name 	| Fonds 	| Series 	| File 	| Item 	|
-|---	|:---:	|:---:	|:---:	|:---:	|
+| <br> |
+| <a name="dates-of-creation-area"><b>Dates of creation area</b></a>| <b>Fonds</b> | <b>Series</b> | <b>File</b> | <b>Item</b> |
 | [Date entry](date-entry.md) 	| MA 	| MA 	| MA 	| MA 	|
 | - [Actor name](date-entry.md#actor-name) 	| RE 	| RE 	| RE 	| RE 	|
 | - [Event type (*)](date-entry.md#event-type) 	| MA 	| MA 	| MA 	| MA 	|
@@ -87,27 +73,18 @@ The following abbreviations are used in the obligation status columns for each l
 | - [Start](date-entry.md#start) 	| MA 	| MA 	| MA 	| MA 	|
 | - [End](date-entry.md#end) 	| MA 	| MA 	| MA 	| MA 	|
 | - [Event note](date-entry.md#event-note) 	| OP 	| OP 	| OP 	| OP 	|
-
-
-### Physical description area
-
-| Field name 	| Fonds 	| Series 	| File 	| Item 	|
-|---	|:---:	|:---:	|:---:	|:---:	|
-| [Physical description](physical-descripton.md) 	| MA 	| MA 	| OP 	| OP 	|
-
-### Archival description area
-
-| Field name 	| Fonds 	| Series 	| File 	| Item 	|
-|---	|:---:	|:---:	|:---:	|:---:	|
+| <br> |
+| <a name="physical-description-area"><b>Physical description area</b></a>| <b>Fonds</b> | <b>Series</b> | <b>File</b> | <b>Item</b> |
+| [Physical description](physical-descripton-area.md) 	| MA 	| MA 	| OP 	| OP 	|
+| <br> |
+| <a name="archival-description-area"><b>Archival description area</b></a>| <b>Fonds</b> | <b>Series</b> | <b>File</b> | <b>Item</b> |
 | [Administrative history](administrative-history.md) 	| RE 	| OP 	| OP 	| OP 	|
 | [Biographical sketch](biographical-sketch.md) 	| RE 	| OP 	| OP 	| OP 	|
 | [Custodial history](custodial-history.md) 	| MA 	| RE 	| OP 	| OP 	|
 | [Scope and content](scope-and-content.md) 	| MA 	| MA 	| OP 	| OP 	|
-
-### Notes area
-
-| Field name 	| Fonds 	| Series 	| File 	| Item 	|
-|---	|:---:	|:---:	|:---:	|:---:	|
+| <br> |
+| <a name="notes-area"><b>Notes area</b></a>| <b>Fonds</b> | <b>Series</b> | <b>File</b> | <b>Item</b> |
+| [Edition statement](edition-area.md) 	| NA 	| NA 	| NA 	| NR 	|
 | [Physical condition](physical-condition.md) 	| OP 	| OP 	| OP 	| OP 	|
 | [Immediate source of acquisition](immediate-source-of-acquisition.md) 	| NR 	| NR 	| NR 	| NR 	|
 | [Arrangement](arrangement.md) 	| OP 	| OP 	| OP 	| OP 	|
@@ -131,25 +108,16 @@ The following abbreviations are used in the obligation status columns for each l
 | [Physical description](physical-description-note.md) 	| OP 	| OP 	| OP 	| OP 	|
 | [Publisher's series](publishers-series.md) 	| NR 	| NR 	| NR 	| NR 	|
 | [Rights](rights.md) 	| NR 	| NR 	| RE 	| RE 	|
-
-### Standard number area
-
-| Field name 	| Fonds 	| Series 	| File 	| Item 	|
-|---	|:---:	|:---:	|:---:	|:---:	|
+| <br> |
+| <a name="standard-number-area"><b>Standard number area</b></a>| <b>Fonds</b> | <b>Series</b> | <b>File</b> | <b>Item</b> |
 | [Standard number](standard-number.md) 	| NA 	| NA 	| NA 	| NR 	|
-
-### Access points
-
-| Field name 	| Fonds 	| Series 	| File 	| Item 	|
-|---	|:---:	|:---:	|:---:	|:---:	|
+| <br> |
+| <a name="access-points"><b>Access points</b></a>| <b>Fonds</b> | <b>Series</b> | <b>File</b> | <b>Item</b> |
 | [Subject access points](subject-access-points.md) 	| MA 	| NR 	| NR 	| NR 	|
 | [Place access points](place-access-points.md) 	| OP 	| OP 	| OP 	| OP 	|
 | [Name access points](name-access-points.md) 	| OP 	| OP 	| OP 	| OP 	|
-
-### Control area
-
-| Field name 	| Fonds 	| Series 	| File 	| Item 	|
-|---	|:---:	|:---:	|:---:	|:---:	|
+| <br> |
+| <a name="control-area"><b>Control area</b></a>| <b>Fonds</b> | <b>Series</b> | <b>File</b> | <b>Item</b> |
 | [Description identifier](description-identifier.md) 	| NR 	| NR 	| NR 	| NR 	|
 | [Institution identifier](institution-identifier.md) 	| NR 	| NR 	| NR 	| NR 	|
 | [Rules or conventions](rules-or-conventions.md) 	| MA 	| NR 	| NR 	| NR 	|
@@ -159,11 +127,8 @@ The following abbreviations are used in the obligation status columns for each l
 | [Language](language.md) 	| MA 	| NR 	| NR 	| NR 	|
 | [Script](script.md) 	| NR 	| NR 	| NR 	| NR 	|
 | [Sources](sources.md) 	| OP 	| OP 	| OP 	| OP 	|
-
-### Rights area
-
-| Field name 	| Fonds 	| Series 	| File 	| Item 	|
-|---	|:---:	|:---:	|:---:	|:---:	|
+| <br> |
+| <a name="rights-area"><b>Rights area</b></a>| <b>Fonds</b> | <b>Series</b> | <b>File</b> | <b>Item</b> |
 | [Rights basis](rights-basis.md) 	|  	|  	|  	|  	|
 | - [Basis](rights-basis.md#basis) 	| RE 	| RE 	| RE 	| RE 	|
 | - [Start](rights-basis.md#start) 	| NR 	| NR 	| NR 	| NR 	|
@@ -180,11 +145,8 @@ The following abbreviations are used in the obligation status columns for each l
 | - [Start](act-granted-rights.md#start) 	| NR 	| NR 	| RE 	| RE 	|
 | - [End](act-granted-rights.md#end) 	| NR 	| NR 	| RE 	| RE 	|
 | - [Note](act-granted-rights.md#note) 	| OP 	| OP 	| OP 	| OP 	|
-
-### Administration area
-
-| Field name 	| Fonds 	| Series 	| File 	| Item 	|
-|---	|:---:	|:---:	|:---:	|:---:	|
+| <br> |
+| <a name="administration-area"><b>Administration area</b></a>| <b>Fonds</b> | <b>Series</b> | <b>File</b> | <b>Item</b> |
 | [Publication status](publication-status.md) 	| MA 	| MA 	| MA 	| MA 	|
 | [Source language](source-language.md) 	| NA 	| NA 	| NA 	| NA 	|
 | [Last updated](last-updated.md) 	| NA 	| NA 	| NA 	| NA 	|
