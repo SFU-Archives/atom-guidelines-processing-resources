@@ -1,4 +1,4 @@
-###### [SFU AtoM Implementation Guidelines](../README.md) `>` [Archival description](archival-description-overview.md) `>` [Title and statement of responsibility area](title-area.md)
+###### [SFU AtoM Implementation Guidelines](../README.md) `>` [Archival description](overview.md) `>` [Title and statement of responsibility area](overview.md#title-and-statement-of-responsibility-area)
 
 # Title proper [RAD 1.1B]
 

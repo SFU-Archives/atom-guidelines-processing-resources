@@ -6,7 +6,7 @@
 - The applicable **RAD rule** (in square brackets after the name).
 - Its **obligation status** (mandatory or not) at each level of description.
 
-Each field name is a link to an entry that includes more detailed guidance.
+Field names link to individual entries that provide more detailed guidance.
 - An asterisk (*) beside the field name indicates that there are outstanding policy issues relating to the field, documented in the field entry.
 
 The following abbreviations are used in the obligation status columns for each level of description:
@@ -30,24 +30,24 @@ The following abbreviations are used in the obligation status columns for each l
 ### Title and statement of responsibility area
 | Field name 	| Fonds 	| Series 	| File 	| Item 	|
 |---	|:---:	|:---:	|:---:	|:---:	|
-| Title proper 	| MA 	| MA 	| MA 	| MA 	|
-| GMD 	| MA 	| MA 	| MA 	| MA 	|
-| Parallel titles 	| NR 	| NR 	| NR 	| NR 	|
-| Other title information 	| NR 	| NR 	| NR 	| NR 	|
-| Statement of responsibility 	| NA 	| NA 	| NA 	| NR 	|
-| Title notes 	| MA 	| MA 	| OP 	| OP 	|
-| Attribution and conjectures 	| NR 	| NR 	| NR 	| NR 	|
-| Continuation of title 	| NR 	| NR 	| NR 	| NR 	|
-| Parallel titles and other title information 	| NR 	| NR 	| NR 	| NR 	|
-| Source of title proper 	| MA 	| MA 	| OP 	| OP 	|
-| Statements of responsibility 	| NR 	| NR 	| NR 	| NR 	|
-| Variations in title 	| OP 	| OP 	| OP 	| OP 	|
-| Level of description (*) 	| MA 	| MA 	| MA 	| MA 	|
-| Repository 	| MA 	| NA 	| NA 	| NA 	|
-| Identifier 	| MA 	| MA 	| MA 	| MA 	|
-| Alternative identifier 	| RE 	| RE 	| RE 	| RE 	|
-| Label 	| RE 	| RE 	| RE 	| RE 	|
-| Value 	| RE 	| RE 	| RE 	| RE 	|
+| [Title proper (*)](title-proper.md) 	| MA 	| MA 	| MA 	| MA 	|
+| [GMD](gmd.md) 	| MA 	| MA 	| MA 	| MA 	|
+| [Parallel titles](parallel-titles.md) 	| NR 	| NR 	| NR 	| NR 	|
+| [Other title information](other-title-information.md) 	| NR 	| NR 	| NR 	| NR 	|
+| [Statement of responsibility](statement-of-responsibility.md) 	| NA 	| NA 	| NA 	| NR 	|
+| [Title notes](title-notes.md) 	| MA 	| MA 	| OP 	| OP 	|
+| - Attribution and conjectures 	| NR 	| NR 	| NR 	| NR 	|
+| - Continuation of title 	| NR 	| NR 	| NR 	| NR 	|
+| - Parallel titles and other title information 	| NR 	| NR 	| NR 	| NR 	|
+| - Source of title proper 	| MA 	| MA 	| OP 	| OP 	|
+| - Statements of responsibility 	| NR 	| NR 	| NR 	| NR 	|
+| - Variations in title 	| OP 	| OP 	| OP 	| OP 	|
+| [Level of description (*)](level-of-description.md) 	| MA 	| MA 	| MA 	| MA 	|
+| [Repository](repository.md) 	| MA 	| NA 	| NA 	| NA 	|
+| [Identifier](identifier.md) 	| MA 	| MA 	| MA 	| MA 	|
+| [Alternative identifier](alternative-identifier.md) 	| RE 	| RE 	| RE 	| RE 	|
+| - Label 	| RE 	| RE 	| RE 	| RE 	|
+| - Value 	| RE 	| RE 	| RE 	| RE 	|
 
 ### Edition area
 | Field name 	| Fonds 	| Series 	| File 	| Item 	|
