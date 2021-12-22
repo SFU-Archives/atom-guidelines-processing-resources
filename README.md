@@ -1,9 +1,9 @@
 # SFU AtoM Implementation Guidelines
 [SFU AtoM](https://atom.archives.sfu.ca) is a web-based application for archival description and access, running on the open-source software [Access-to-Memory (AtoM)](https://www.accesstomemory.org/en/). It is shared by [SFU Archives](https://www.sfu.ca/archives.html) and the [Special Collections and Rare Books](https://www.lib.sfu.ca/about/branches-depts/special-collections) division of [SFU Library](https://www.lib.sfu.ca), providing a single public platform for access to archival holdings at the university.
 
- This site provides documentation for use of SFU AtoM. It includes data-entry guidelines, information to support site administration (e.g. management of user accounts and static pages), as well as various tasks related to archival arrangement and description / processing (e.g. printing file labels, maintaining pdf finding aids).
+ This site provides documentation for the implementation use of AtoM at SFU. It includes data-entry guidelines, information to support site administration (e.g. management of user accounts and static pages), as well as various tasks related to archival processing (e.g. printing file labels, maintaining pdf finding aids).
 
- SFU AtoM is a shared resource, and the Archives and Special Collections strive to align their practices to ensure consistency throughout the application. But practices may sometimes diverge, and some pages may pertain more to one unit than the other.
+ SFU Archives and SFU Special Collections are separate institutions. As joint users of a shared resource, we try to align our practices to ensure consistency throughout SFU AtoM. But practices may sometimes diverge, and some documentation may pertain more to one unit than the other.
 
 ### Data entry guidelines
 - [Archival descriptions](archival-description/overview.md)
