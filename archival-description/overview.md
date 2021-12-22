@@ -1,7 +1,33 @@
-# Archival Description Data Entry: overview
+###### [SFU AtoM Implementation Guidelines](../README.md)
 
-## Title and statement of responsibility area
-<div style="width:90%">
+# Archival Description Data Entry
+[SFU AtoM](https://atom.archives.sfu.ca) follows the Canadian Rules for Archival Description (RAD) and uses the RAD data entry template for **Archival description** records. This page provides a listing each field in its order of appearance and for each gives:
+- The **name** of the field as it appears on screen.
+- The applicable **RAD rule** (in square brackets after the name).
+- Its **obligation status** (mandatory or not) at each level of description.
+
+Each field name is a link to an entry that includes more detailed guidance.
+- An asterisk (*) beside the field name indicates that there are outstanding policy issues relating to the field, documented in the field entry.
+
+The following abbreviations are used in the obligation status columns for each level of description:
+- MA = Mandatory; field must be entered.
+- RE = Recommended; use if applicable.
+- OP = Optional; use for more detail if desired and if applicable.
+- NA = Not applicable at the indicated level of description; do not use.
+- NR = Not recommended; do not use.
+
+### Contents
+- [Title and statement of responsibility area](#title-and-statement-of-responsibility-area)
+- [Edition area](#edition-area)
+- [Class of material specific details area](#class-of-material-specific-details-area)
+- [Dates of creation area](#dates-of-creation-area)
+- [Physical description area](#physical-description-area)
+- [Archival description area](#archival-description-area)
+- [Notes area](#notes-area)
+- [Access points](#access-points)
+- [Control area](#control-area)
+
+### Title and statement of responsibility area
 | Field name 	| Fonds 	| Series 	| File 	| Item 	|
 |---	|:---:	|:---:	|:---:	|:---:	|
 | Title proper 	| MA 	| MA 	| MA 	| MA 	|
@@ -22,15 +48,13 @@
 | Alternative identifier 	| RE 	| RE 	| RE 	| RE 	|
 | Label 	| RE 	| RE 	| RE 	| RE 	|
 | Value 	| RE 	| RE 	| RE 	| RE 	|
-</div>
 
-## Edition area
-|---	|:---:	|:---:	|:---:	|:---:	|
-| **Field name** 	| **Fonds** 	| **Series** 	| **File** 	| **Item** 	|
-| Edition statement 	| NA 	| NA 	| NA 	| NR 	|
+### Edition area
+| Field name 	| Fonds 	| Series 	| File 	| Item 	|
+|---	|:---:	|:---:	|:---:	|:---:	|| Edition statement 	| NA 	| NA 	| NA 	| NR 	|
 | Statement of responsibility relating to the edition 	| NA 	| NA 	| NA 	| NR 	|
 
-## Class of material specific details area
+### Class of material specific details area
 | Field name 	| Fonds 	| Series 	| File 	| Item 	|
 |---	|---	|---	|---	|---	|
 | Statement of scale (cartographic) 	| NA 	| NA 	| NA 	| RE 	|
@@ -39,7 +63,7 @@
 | Statement of scale (architectural) 	| NA 	| NA 	| NA 	| RE 	|
 | Issuing   jurisdiction and denomination (philatelic) 	| NA 	| NA 	| NA 	| RE 	|
 
-## Dates of creation area
+### Dates of creation area
 | Field name 	| Fonds 	| Series 	| File 	| Item 	|
 |---	|---	|---	|---	|---	|
 | Date entry 	| MA 	| MA 	| MA 	| MA 	|
@@ -50,8 +74,9 @@
 | Start 	| MA 	| MA 	| MA 	| MA 	|
 | End 	| MA 	| MA 	| MA 	| MA 	|
 | Event note 	| OP 	| OP 	| OP 	| OP 	|
-|  	|  	|  	|  	|  	|
-| Physical   description area 	|  	|  	|  	|  	|
+
+
+### Physical description area
 | Physical description 	| MA 	| MA 	| OP 	| OP 	|
 |  	|  	|  	|  	|  	|
 | Archival   description area 	|  	|  	|  	|  	|
@@ -102,3 +127,6 @@
 | Language 	| MA 	| NR 	| NR 	| NR 	|
 | Script 	| NR 	| NR 	| NR 	| NR 	|
 | Sources 	| OP 	| OP 	| OP 	| OP 	|
+
+---
+###### Last updated: Dec 22, 2021
