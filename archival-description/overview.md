@@ -52,18 +52,18 @@ The following abbreviations are used in the obligation status columns for each l
 | [Alternative identifier](alternative-identifier.md) 	| RE 	| RE 	| RE 	| RE 	|
 | - [Label](alternative-identifier.md#Label) 	| RE 	| RE 	| RE 	| RE 	|
 | - [Value](alternative-identifier.md#Value)	| RE 	| RE 	| RE 	| RE 	|
-| <br> |
+| <br>
 | <a name="edition-area"><b>Edition area</b></a>| <b>Fonds</b> | <b>Series</b> | <b>File</b> | <b>Item</b> |
 | [Edition statement](edition-area.md) 	| NA 	| NA 	| NA 	| NR 	|
 | [Statement of responsibility relating to the edition](edition-area.md) 	| NA 	| NA 	| NA 	| NR 	|
-| <br> |
+| <br>
 | <a name="class-of-material-area"><b>Class of material specific details</b></a>| <b>Fonds</b> | <b>Series</b> | <b>File</b> | <b>Item</b> |
 | [Statement of scale (cartographic)](statement-of-scale-cartographic.md) 	| NA 	| NA 	| NA 	| RE 	|
 | [Statement of projection (cartographic)](statement-of-project.md) 	| NA 	| NA 	| NA 	| RE 	|
 | [Statement of coordinates (cartographic)](statement-of-coordinates.md) 	| NA 	| NA 	| NA 	| RE 	|
 | [Statement of scale (architectural)](statement-of-scale-architectural.md) 	| NA 	| NA 	| NA 	| RE 	|
 | [Issuing jurisdiction and denomination (philatelic)](issuing-jurisdication.md) 	| NA 	| NA 	| NA 	| RE 	|
-| <br> |
+| <br>
 | <a name="dates-of-creation-area"><b>Dates of creation area</b></a>| <b>Fonds</b> | <b>Series</b> | <b>File</b> | <b>Item</b> |
 | [Date entry](date-entry.md) 	| MA 	| MA 	| MA 	| MA 	|
 | - [Actor name](date-entry.md#actor-name) 	| RE 	| RE 	| RE 	| RE 	|
@@ -73,16 +73,16 @@ The following abbreviations are used in the obligation status columns for each l
 | - [Start](date-entry.md#start) 	| MA 	| MA 	| MA 	| MA 	|
 | - [End](date-entry.md#end) 	| MA 	| MA 	| MA 	| MA 	|
 | - [Event note](date-entry.md#event-note) 	| OP 	| OP 	| OP 	| OP 	|
-| <br> |
+| <br>
 | <a name="physical-description-area"><b>Physical description area</b></a>| <b>Fonds</b> | <b>Series</b> | <b>File</b> | <b>Item</b> |
 | [Physical description](physical-descripton-area.md) 	| MA 	| MA 	| OP 	| OP 	|
-| <br> |
+| <br>
 | <a name="archival-description-area"><b>Archival description area</b></a>| <b>Fonds</b> | <b>Series</b> | <b>File</b> | <b>Item</b> |
 | [Administrative history](administrative-history.md) 	| RE 	| OP 	| OP 	| OP 	|
 | [Biographical sketch](biographical-sketch.md) 	| RE 	| OP 	| OP 	| OP 	|
 | [Custodial history](custodial-history.md) 	| MA 	| RE 	| OP 	| OP 	|
 | [Scope and content](scope-and-content.md) 	| MA 	| MA 	| OP 	| OP 	|
-| <br> |
+| <br>
 | <a name="notes-area"><b>Notes area</b></a>| <b>Fonds</b> | <b>Series</b> | <b>File</b> | <b>Item</b> |
 | [Edition statement](edition-area.md) 	| NA 	| NA 	| NA 	| NR 	|
 | [Physical condition](physical-condition.md) 	| OP 	| OP 	| OP 	| OP 	|
@@ -108,7 +108,7 @@ The following abbreviations are used in the obligation status columns for each l
 | [Physical description](physical-description-note.md) 	| OP 	| OP 	| OP 	| OP 	|
 | [Publisher's series](publishers-series.md) 	| NR 	| NR 	| NR 	| NR 	|
 | [Rights](rights.md) 	| NR 	| NR 	| RE 	| RE 	|
-| <br> |
+| <br>
 | <a name="standard-number-area"><b>Standard number area</b></a>| <b>Fonds</b> | <b>Series</b> | <b>File</b> | <b>Item</b> |
 | [Standard number](standard-number.md) 	| NA 	| NA 	| NA 	| NR 	|
 | <br> |
@@ -127,7 +127,7 @@ The following abbreviations are used in the obligation status columns for each l
 | [Language](language.md) 	| MA 	| NR 	| NR 	| NR 	|
 | [Script](script.md) 	| NR 	| NR 	| NR 	| NR 	|
 | [Sources](sources.md) 	| OP 	| OP 	| OP 	| OP 	|
-| <br> |
+| <br>
 | <a name="rights-area"><b>Rights area</b></a>| <b>Fonds</b> | <b>Series</b> | <b>File</b> | <b>Item</b> |
 | [Rights basis](rights-basis.md) 	|  	|  	|  	|  	|
 | - [Basis](rights-basis.md#basis) 	| RE 	| RE 	| RE 	| RE 	|
@@ -145,7 +145,7 @@ The following abbreviations are used in the obligation status columns for each l
 | - [Start](act-granted-rights.md#start) 	| NR 	| NR 	| RE 	| RE 	|
 | - [End](act-granted-rights.md#end) 	| NR 	| NR 	| RE 	| RE 	|
 | - [Note](act-granted-rights.md#note) 	| OP 	| OP 	| OP 	| OP 	|
-| <br> |
+| <br> 
 | <a name="administration-area"><b>Administration area</b></a>| <b>Fonds</b> | <b>Series</b> | <b>File</b> | <b>Item</b> |
 | [Publication status](publication-status.md) 	| MA 	| MA 	| MA 	| MA 	|
 | [Source language](source-language.md) 	| NA 	| NA 	| NA 	| NA 	|
