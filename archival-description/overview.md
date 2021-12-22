@@ -1,6 +1,7 @@
 # Archival Description Data Entry: overview
 
 ## Title and statement of responsibility area
+<div style="width:90%">
 | Field name 	| Fonds 	| Series 	| File 	| Item 	|
 |---	|:---:	|:---:	|:---:	|:---:	|
 | Title proper 	| MA 	| MA 	| MA 	| MA 	|
@@ -21,6 +22,7 @@
 | Alternative identifier 	| RE 	| RE 	| RE 	| RE 	|
 | Label 	| RE 	| RE 	| RE 	| RE 	|
 | Value 	| RE 	| RE 	| RE 	| RE 	|
+</div>
 
 ## Edition area
 |---	|:---:	|:---:	|:---:	|:---:	|
