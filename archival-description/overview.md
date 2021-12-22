@@ -36,8 +36,8 @@ The following abbreviations are used in the obligation status columns for each l
 | [Other title information](other-title-information.md) 	| NR 	| NR 	| NR 	| NR 	|
 | [Statement of responsibility](statement-of-responsibility.md) 	| NA 	| NA 	| NA 	| NR 	|
 | [Title notes](title-notes.md) 	| MA 	| MA 	| OP 	| OP 	|
-| - Attribution and conjectures 	| NR 	| NR 	| NR 	| NR 	|
-| - Continuation of title 	| NR 	| NR 	| NR 	| NR 	|
+| &nbsp &nbsp Attribution and conjectures 	| NR 	| NR 	| NR 	| NR 	|
+| &nbsp &nbsp Continuation of title 	| NR 	| NR 	| NR 	| NR 	|
 | - Parallel titles and other title information 	| NR 	| NR 	| NR 	| NR 	|
 | - Source of title proper 	| MA 	| MA 	| OP 	| OP 	|
 | - Statements of responsibility 	| NR 	| NR 	| NR 	| NR 	|
