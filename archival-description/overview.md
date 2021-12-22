@@ -2,7 +2,7 @@
 
 ## Title and statement of responsibility area
 | Field name 	| Fonds 	| Series 	| File 	| Item 	|
-|---	|---	|---	|---	|---	|
+|---	|:---:	|:---:	|:---:	|:---:	|
 | Title proper 	| MA 	| MA 	| MA 	| MA 	|
 | GMD 	| MA 	| MA 	| MA 	| MA 	|
 | Parallel titles 	| NR 	| NR 	| NR 	| NR 	|
@@ -21,7 +21,10 @@
 | Alternative identifier 	| RE 	| RE 	| RE 	| RE 	|
 | Label 	| RE 	| RE 	| RE 	| RE 	|
 | Value 	| RE 	| RE 	| RE 	| RE 	|
-| Edition area 	|  	|  	|  	|  	|
+
+## Edition area
+|---	|:---:	|:---:	|:---:	|:---:	|
+| **Field name** 	| **Fonds** 	| **Series** 	| **File** 	| **Item** 	|
 | Edition statement 	| NA 	| NA 	| NA 	| NR 	|
 | Statement of responsibility relating to the edition 	| NA 	| NA 	| NA 	| NR 	|
 
