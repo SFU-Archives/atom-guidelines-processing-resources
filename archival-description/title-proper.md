@@ -7,9 +7,10 @@
 |   MA    |   MA    |   MA  	|   MA  	|
 
 Do not use square brackets for **supplied titles**.
-- Explain in [Source of title proper](source-of-title-proper.md) note.
+- Give explanation in [Source of title proper](source-of-title-proper.md) note.
 
-**Outstanding policy issue:** Archives should develop a standard for consistently titling descriptive units.
+### Outstanding policy issues
+Archives should develop a standard for consistently titling descriptive units.
 - May be different at different levels of description.
 
 ---

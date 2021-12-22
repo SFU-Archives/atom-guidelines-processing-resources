@@ -36,18 +36,18 @@ The following abbreviations are used in the obligation status columns for each l
 | [Other title information](other-title-information.md) 	| NR 	| NR 	| NR 	| NR 	|
 | [Statement of responsibility](statement-of-responsibility.md) 	| NA 	| NA 	| NA 	| NR 	|
 | [Title notes](title-notes.md) 	| MA 	| MA 	| OP 	| OP 	|
-| &nbsp &nbsp Attribution and conjectures 	| NR 	| NR 	| NR 	| NR 	|
-| &nbsp &nbsp Continuation of title 	| NR 	| NR 	| NR 	| NR 	|
-| - Parallel titles and other title information 	| NR 	| NR 	| NR 	| NR 	|
-| - Source of title proper 	| MA 	| MA 	| OP 	| OP 	|
-| - Statements of responsibility 	| NR 	| NR 	| NR 	| NR 	|
-| - Variations in title 	| OP 	| OP 	| OP 	| OP 	|
+|   [Attribution and conjectures](title-notes.md#attribution-and-conjectures)	| NR 	| NR 	| NR 	| NR 	|
+|   [Continuation of title](title-notes.md#continuation-of-title) 	| NR 	| NR 	| NR 	| NR 	|
+|   [Parallel titles and other title information](title-notes.md#parallel-titles-and-other-title-information) 	| NR 	| NR 	| NR 	| NR 	|
+|    [Source of title proper](title-notes.md#source-of-title-proper) 	| MA 	| MA 	| OP 	| OP 	|
+|    [Statements of responsibility](title-notes.md#statements-of-responsibility) 	| NR 	| NR 	| NR 	| NR 	|
+|    [Variations in title](title-notes.md#variations-in-title) 	| OP 	| OP 	| OP 	| OP 	|
 | [Level of description (*)](level-of-description.md) 	| MA 	| MA 	| MA 	| MA 	|
 | [Repository](repository.md) 	| MA 	| NA 	| NA 	| NA 	|
 | [Identifier](identifier.md) 	| MA 	| MA 	| MA 	| MA 	|
 | [Alternative identifier](alternative-identifier.md) 	| RE 	| RE 	| RE 	| RE 	|
-| - Label 	| RE 	| RE 	| RE 	| RE 	|
-| - Value 	| RE 	| RE 	| RE 	| RE 	|
+| [Alternative identifier: label](alternative-identifier.md#Label) 	| RE 	| RE 	| RE 	| RE 	|
+| [Alternative identifer: value](alternative-identifier.md#Value)	| RE 	| RE 	| RE 	| RE 	|
 
 ### Edition area
 | Field name 	| Fonds 	| Series 	| File 	| Item 	|
