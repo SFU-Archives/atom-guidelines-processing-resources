@@ -51,40 +51,47 @@ The following abbreviations are used in the obligation status columns for each l
 
 ### Edition area
 | Field name 	| Fonds 	| Series 	| File 	| Item 	|
-|---	|:---:	|:---:	|:---:	|:---:	|| Edition statement 	| NA 	| NA 	| NA 	| NR 	|
-| Statement of responsibility relating to the edition 	| NA 	| NA 	| NA 	| NR 	|
+|---	|:---:	|:---:	|:---:	|:---:	|
+| [Edition statement](edition-area.md) 	| NA 	| NA 	| NA 	| NR 	|
+| [Statement of responsibility relating to the edition](edition-area.md) 	| NA 	| NA 	| NA 	| NR 	|
 
 ### Class of material specific details area
 | Field name 	| Fonds 	| Series 	| File 	| Item 	|
 |---	|---	|---	|---	|---	|
-| Statement of scale (cartographic) 	| NA 	| NA 	| NA 	| RE 	|
-| Statement of projection (cartographic) 	| NA 	| NA 	| NA 	| RE 	|
-| Statement of coordinates (cartographic) 	| NA 	| NA 	| NA 	| RE 	|
-| Statement of scale (architectural) 	| NA 	| NA 	| NA 	| RE 	|
-| Issuing   jurisdiction and denomination (philatelic) 	| NA 	| NA 	| NA 	| RE 	|
+| [Statement of scale (cartographic)](statement-of-scale-cartographic.md) 	| NA 	| NA 	| NA 	| RE 	|
+| [Statement of projection (cartographic)](statement-of-project.md) 	| NA 	| NA 	| NA 	| RE 	|
+| [Statement of coordinates (cartographic)](statement-of-coordinates.md) 	| NA 	| NA 	| NA 	| RE 	|
+| [Statement of scale (architectural)](statement-of-scale-architectural.md) 	| NA 	| NA 	| NA 	| RE 	|
+| [Issuing jurisdiction and denomination (philatelic)](issuing-jurisdication.md) 	| NA 	| NA 	| NA 	| RE 	|
 
 ### Dates of creation area
 | Field name 	| Fonds 	| Series 	| File 	| Item 	|
-|---	|---	|---	|---	|---	|
-| Date entry 	| MA 	| MA 	| MA 	| MA 	|
-| Actor name 	| RE 	| RE 	| RE 	| RE 	|
-| Event type (*) 	| MA 	| MA 	| MA 	| MA 	|
-| Place 	| NR 	| NR 	| NR 	| NR 	|
-| Date 	| MA 	| MA 	| MA 	| MA 	|
-| Start 	| MA 	| MA 	| MA 	| MA 	|
-| End 	| MA 	| MA 	| MA 	| MA 	|
-| Event note 	| OP 	| OP 	| OP 	| OP 	|
+|---	|:---:	|:---:	|:---:	|:---:	|
+| [Date entry](date-entry.md) 	| MA 	| MA 	| MA 	| MA 	|
+| - Actor name 	| RE 	| RE 	| RE 	| RE 	|
+| - Event type (*) 	| MA 	| MA 	| MA 	| MA 	|
+| - Place 	| NR 	| NR 	| NR 	| NR 	|
+| - Date 	| MA 	| MA 	| MA 	| MA 	|
+| - Start 	| MA 	| MA 	| MA 	| MA 	|
+| - End 	| MA 	| MA 	| MA 	| MA 	|
+| - Event note 	| OP 	| OP 	| OP 	| OP 	|
 
 
 ### Physical description area
+| Field name 	| Fonds 	| Series 	| File 	| Item 	|
+|---	|:---:	|:---:	|:---:	|:---:	|
 | Physical description 	| MA 	| MA 	| OP 	| OP 	|
-|  	|  	|  	|  	|  	|
-| Archival   description area 	|  	|  	|  	|  	|
-| Administrative history / Biographical   sketch 	| MA 	| OP 	| OP 	| OP 	|
+
+### Archival description area
+| Field name 	| Fonds 	| Series 	| File 	| Item 	|
+|---	|:---:	|:---:	|:---:	|:---:	|
+| Administrative history / Biographical sketch 	| MA 	| OP 	| OP 	| OP 	|
 | Custodial history 	| MA 	| RE 	| OP 	| OP 	|
 | Scope and content 	| MA 	| MA 	| OP 	| OP 	|
-|  	|  	|  	|  	|  	|
-| Notes area 	|  	|  	|  	|  	|
+
+### Notes area
+| Field name 	| Fonds 	| Series 	| File 	| Item 	|
+|---	|:---:	|:---:	|:---:	|:---:	|
 | Physical condition 	| OP 	| OP 	| OP 	| OP 	|
 | Immediate source of acquisition 	| NR 	| NR 	| NR 	| NR 	|
 | Arrangement 	| OP 	| OP 	| OP 	| OP 	|
@@ -108,16 +115,22 @@ The following abbreviations are used in the obligation status columns for each l
 | Physical description 	| OP 	| OP 	| OP 	| OP 	|
 | Publisher's series 	| NR 	| NR 	| NR 	| NR 	|
 | Rights 	| NR 	| NR 	| RE 	| RE 	|
-|  	|  	|  	|  	|  	|
-| Standard   number area 	|  	|  	|  	|  	|
+
+### Standard number area
+| Field name 	| Fonds 	| Series 	| File 	| Item 	|
+|---	|:---:	|:---:	|:---:	|:---:	|
 | Standard number 	| NA 	| NA 	| NA 	| NR 	|
-|  	|  	|  	|  	|  	|
-| Access points 	|  	|  	|  	|  	|
+
+### Access points
+| Field name 	| Fonds 	| Series 	| File 	| Item 	|
+|---	|:---:	|:---:	|:---:	|:---:	|
 | Subject access points 	| MA 	| NR 	| NR 	| NR 	|
 | Place access points 	| OP 	| OP 	| OP 	| OP 	|
 | Name access points 	| OP 	| OP 	| OP 	| OP 	|
-|  	|  	|  	|  	|  	|
-| Control area 	|  	|  	|  	|  	|
+
+### Control area
+| Field name 	| Fonds 	| Series 	| File 	| Item 	|
+|---	|:---:	|:---:	|:---:	|:---:	|
 | Description identifier 	| NR 	| NR 	| NR 	| NR 	|
 | Institution identifier 	| NR 	| NR 	| NR 	| NR 	|
 | Rules or conventions 	| MA 	| NR 	| NR 	| NR 	|
