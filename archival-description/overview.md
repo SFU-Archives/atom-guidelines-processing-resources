@@ -19,7 +19,7 @@ The following abbreviations are used in the obligation status columns for each l
 ### Contents
 - [Title and statement of responsibility area](#title-and-statement-of-responsibility-area)
 - [Edition area](#edition-area)
-- [Class of material specific details area](#class-of-material-specific-details-area)
+- [Class of material specific details area](#class-material)
 - [Dates of creation area](#dates-of-creation-area)
 - [Physical description area](#physical-description-area)
 - [Archival description area](#archival-description-area)
@@ -59,7 +59,7 @@ The following abbreviations are used in the obligation status columns for each l
 | [Edition statement](edition-area.md) 	| NA 	| NA 	| NA 	| NR 	|
 | [Statement of responsibility relating to the edition](edition-area.md) 	| NA 	| NA 	| NA 	| NR 	|
 | <br>
-| <b>Class of material specific details</b>| Fonds 	| Series 	| File 	| Item 	|
+| <a name="class-material"><b>Class of material specific details</b></a>| <b>Fonds</b> | <b>Series</b> | <b>File</b> | <b>Item</b> |
 | [Statement of scale (cartographic)](statement-of-scale-cartographic.md) 	| NA 	| NA 	| NA 	| RE 	|
 | [Statement of projection (cartographic)](statement-of-project.md) 	| NA 	| NA 	| NA 	| RE 	|
 | [Statement of coordinates (cartographic)](statement-of-coordinates.md) 	| NA 	| NA 	| NA 	| RE 	|
