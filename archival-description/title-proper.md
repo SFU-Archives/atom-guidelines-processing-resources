@@ -4,7 +4,7 @@
 
 | Fonds 	| Series 	| Files 	| Items 	|
 |:-----:	|:------:	|:-----:	|:-----:	|
-| **MA**  | **MA** 	|   OP  	|   OP  	|
+|`**MA**` |`**MA**` |   OP  	|   OP  	|
 
 Do not use square brackets for supplied titles; explain in Source of title proper note.
 
