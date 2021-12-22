@@ -58,7 +58,13 @@ The following abbreviations are used in the obligation status columns for each l
 |---	|:---:	|:---:	|:---:	|:---:	|
 | [Edition statement](edition-area.md) 	| NA 	| NA 	| NA 	| NR 	|
 | [Statement of responsibility relating to the edition](edition-area.md) 	| NA 	| NA 	| NA 	| NR 	|
-
+| <br>
+| <em>Class of material specific details</em>|
+| [Statement of scale (cartographic)](statement-of-scale-cartographic.md) 	| NA 	| NA 	| NA 	| RE 	|
+| [Statement of projection (cartographic)](statement-of-project.md) 	| NA 	| NA 	| NA 	| RE 	|
+| [Statement of coordinates (cartographic)](statement-of-coordinates.md) 	| NA 	| NA 	| NA 	| RE 	|
+| [Statement of scale (architectural)](statement-of-scale-architectural.md) 	| NA 	| NA 	| NA 	| RE 	|
+| [Issuing jurisdiction and denomination (philatelic)](issuing-jurisdication.md) 	| NA 	| NA 	| NA 	| RE 	|
 ### Class of material specific details area
 
 | Field name 	| Fonds 	| Series 	| File 	| Item 	|
