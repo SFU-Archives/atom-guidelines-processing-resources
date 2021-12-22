@@ -4,10 +4,13 @@
 
 | Fonds 	| Series 	| Files 	| Items 	|
 |:-----:	|:------:	|:-----:	|:-----:	|
-|**`MA`** |**`MA`** |   OP  	|   OP  	|
+|   MA    |   MA    |   MA  	|   MA  	|
 
 Do not use square brackets for supplied titles; explain in Source of title proper note.
 
 Outstanding policy issue:
 - Should have standard for consistently titling descriptive units; may be different at different levels
 of description.
+
+###### Last updated: Dec 22, 2021
+###### MA = Mandatory `|` RE = Recommended `|` OP = Optional `|` NA = Not applicable `|` NR = Not recommended
