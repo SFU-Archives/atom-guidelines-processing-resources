@@ -12,6 +12,7 @@ Do not use square brackets for **supplied titles**.
 **Outstanding policy issue:** Archives should develop a standard for consistently titling descriptive units.
 - May be different at different levels of description.
 
+---
 ###### Next: [GMD >>](gmd.md)
 ---
 ###### Last updated: Dec 22, 2021
