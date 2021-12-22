@@ -31,7 +31,7 @@ The following abbreviations are used in the obligation status columns for each l
 
 ### Title and statement of responsibility area
 
-| RAD fields 	|       |       |       |
+| RAD fields 	|     |     |     |     |
 |---	|:---:	|:---:	|:---:	|:---:	|
 | <a name="title-area"><b>Title and statement of responsibility area</b></a>| <b>Fonds</b> | <b>Series</b> | <b>File</b> | <b>Item</b> |
 | [Title proper (*)](title-proper.md) 	| MA 	| MA 	| MA 	| MA 	|
@@ -145,7 +145,7 @@ The following abbreviations are used in the obligation status columns for each l
 | - [Start](act-granted-rights.md#start) 	| NR 	| NR 	| RE 	| RE 	|
 | - [End](act-granted-rights.md#end) 	| NR 	| NR 	| RE 	| RE 	|
 | - [Note](act-granted-rights.md#note) 	| OP 	| OP 	| OP 	| OP 	|
-| <br> 
+| <br>
 | <a name="administration-area"><b>Administration area</b></a>| <b>Fonds</b> | <b>Series</b> | <b>File</b> | <b>Item</b> |
 | [Publication status](publication-status.md) 	| MA 	| MA 	| MA 	| MA 	|
 | [Source language](source-language.md) 	| NA 	| NA 	| NA 	| NA 	|
