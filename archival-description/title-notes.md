@@ -46,7 +46,7 @@ Use to indicate the basis of the title.
 - Typically base the [Title](title-proper.md) on the content of the unit or on the creator's original title.
 - Creator's titles are rare above the **item** level.
 
-**Template text**
+Template text:
 ```
 Title supplied by the archivist based on the <<LEVEL>>'s content.
 ```
@@ -65,12 +65,20 @@ Do not use this type.
 |:-----:	|:------:	|:-----:	|:-----:	|
 |   OP    |   OP    |   OP  	|   OP  	|
 
-Use is optional; possible use cases include:
-- Archives previously used different titles for the unit (include effective dates)
+Possible use cases include:
+- Archives previously used different titles for the unit (include effective dates).
+- Creator's original title is problematic and Archives used a supplied title instead (e.g. original title too abbreviated or required anonymization).
 - Creator had multiple names for the unit.
 
+If changing the creator's file or item title, give the original title in this note.
+
+Template text:
+```
+Creator's original title was "<<title>>"; changed by the archivist because <<reason>>.
+```
+
 ---
-###### [<< Previous: GMD](gmd.md) `|` [Next: Other title information >>](other-title-information.md)
+###### [<< Previous: Statement of responsibility](statement-of-responsibility.md) `|` [Next: Level of description >>](level-of-description.md)
 ---
 ###### Last updated: Dec 22, 2021
 ###### MA = Mandatory `|` RE = Recommended `|` OP = Optional `|` NA = Not applicable `|` NR = Not recommended
