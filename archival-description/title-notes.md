@@ -6,11 +6,7 @@
 |:-----:	|:------:	|:-----:	|:-----:	|
 |   MA    |   MA    |   OP  	|   OP  	|
 
-At least one **Title note** is required at Fonds and Series levels for [Source of title proper](#source-of-title-proper).
-
-Of the six types of title note available, use only two:
-- [Source of title proper](#source-of-title-proper).
-- [Variations in title](#variations-in-title).
+At least one **Title note** is required at **fonds** and **series** levels for [Source of title proper](#source-of-title-proper-rad-18b1). Use [Variations in title](#variations-in-title-rad-18b1) for units that have or have been known by more than one name. Use [Parallel titles](#parallel-titles-and-other-information-rad-18b3) only for multi-lingual items that had official titles in multiple languages.
 
 ## Attribution and conjectures [RAD 1.8B6]
 
@@ -32,9 +28,9 @@ Do not use this type.
 
 | Fonds 	| Series 	| Files 	| Items 	|
 |:-----:	|:------:	|:-----:	|:-----:	|
-|   NR    |   NR    |   NR  	|   NR  	|
+|   NR    |   NR    |   NR  	|   OP  	|
 
-Do not use this type.
+Rarely used; typically only at the **item** level for publications or grey literature (e.g. reports) that are produced in multi-lingual versions and have different titles in the different languages (e.g. a report issued in both French and English).
 
 ## Source of title proper [RAD 1.8B2]
 
@@ -44,7 +40,7 @@ Do not use this type.
 
 Use to indicate the basis of the title.
 - Typically base the [Title](title-proper.md) on the content of the unit or on the creator's original title.
-- Creator's titles are rare above the **item** level.
+- Creator's titles are rare above the **file** and **item** levels.
 
 Template text:
 ```
@@ -80,5 +76,5 @@ Creator's original title was "<<title>>"; changed by the archivist because <<rea
 ---
 ###### [<< Previous: Statement of responsibility](statement-of-responsibility.md) `|` [Next: Level of description >>](level-of-description.md)
 ---
-###### Last updated: Dec 22, 2021
+###### Last updated: Jan 6, 2022
 ###### MA = Mandatory `|` RE = Recommended `|` OP = Optional `|` NA = Not applicable `|` NR = Not recommended

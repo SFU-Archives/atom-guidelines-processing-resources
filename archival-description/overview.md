@@ -1,15 +1,13 @@
 ###### [SFU AtoM Implementation Guidelines](../README.md)
 
 # Archival Description Data Entry
-[SFU AtoM](https://atom.archives.sfu.ca) follows the Canadian Rules for Archival Description (RAD) and uses the RAD data entry template for **Archival description** records. This page provides a listing each field in its order of appearance and for each gives:
-- The **name** of the field as it appears on screen.
-- The applicable **RAD rule** (in square brackets after the name).
-- Its **obligation status** (mandatory or not) at each level of description.
+[SFU AtoM](https://atom.archives.sfu.ca) follows the [Canadian Rules for Archival Description (RAD)](http://www.cdncouncilarchives.ca/archdesrules.html) and uses the RAD data entry template for **Archival description** records.
 
-Field names link to individual entries that provide more detailed guidance.
-- An asterisk (*) beside the field name indicates that there are outstanding policy issues relating to the field, documented in the field entry.
+This page lists each AtoM field in its order of appearance and its **obligation status** (mandatory or not) at each level of description. Field names link to individual entries that provide more detailed guidance. An asterisk (*) beside the field name indicates that there are outstanding policy issues relating to the field, documented in the field entry.
 
-The following abbreviations are used in the obligation status columns for each level of description:
+These guidelines were initially prepared by SFU Archives in 2015 and reflect the Archives' decisions and practices. SFU Special Collections' practices may diverge in places.
+
+Key to abbreviations:
 - MA = Mandatory; field must be entered.
 - RE = Recommended; use if applicable.
 - OP = Optional; use for more detail if desired and if applicable.
@@ -42,7 +40,7 @@ The following abbreviations are used in the obligation status columns for each l
 | [Title notes](title-notes.md) 	| MA 	| MA 	| OP 	| OP 	|
 | - [Attribution and conjectures](title-notes.md#attribution-and-conjectures)	| NR 	| NR 	| NR 	| NR 	|
 | - [Continuation of title](title-notes.md#continuation-of-title) 	| NR 	| NR 	| NR 	| NR 	|
-| - [Parallel titles and other title information](title-notes.md#parallel-titles-and-other-title-information) 	| NR 	| NR 	| NR 	| NR 	|
+| - [Parallel titles and other title information](title-notes.md#parallel-titles-and-other-title-information) 	| NR 	| NR 	| NR 	| OP 	|
 | - [Source of title proper](title-notes.md#source-of-title-proper) 	| MA 	| MA 	| OP 	| OP 	|
 | - [Statements of responsibility](title-notes.md#statements-of-responsibility) 	| NR 	| NR 	| NR 	| NR 	|
 | - [Variations in title](title-notes.md#variations-in-title) 	| OP 	| OP 	| OP 	| OP 	|
@@ -50,19 +48,17 @@ The following abbreviations are used in the obligation status columns for each l
 | [Repository](repository.md) 	| MA 	| NA 	| NA 	| NA 	|
 | [Identifier](identifier.md) 	| MA 	| MA 	| MA 	| MA 	|
 | [Alternative identifier](alternative-identifier.md) 	| RE 	| RE 	| RE 	| RE 	|
-| - [Label](alternative-identifier.md#Label) 	| RE 	| RE 	| RE 	| RE 	|
-| - [Value](alternative-identifier.md#Value)	| RE 	| RE 	| RE 	| RE 	|
 | <br>
 | <a name="edition-area"><b>Edition area</b></a>| <b>Fonds</b> | <b>Series</b> | <b>File</b> | <b>Item</b> |
-| [Edition statement](edition-area.md) 	| NA 	| NA 	| NA 	| NR 	|
-| [Statement of responsibility relating to the edition](edition-area.md) 	| NA 	| NA 	| NA 	| NR 	|
+| [Edition statement](edition-area.md#edition-statement-rad-12b) 	| NA 	| NA 	| NA 	| NR 	|
+| [Statement of responsibility relating to the edition](edition-area.md#statement-of-responsibility-relating-to-the-edition-rad-12c) 	| NA 	| NA 	| NA 	| NR 	|
 | <br>
-| <a name="class-of-material-area"><b>Class of material specific details</b></a>| <b>Fonds</b> | <b>Series</b> | <b>File</b> | <b>Item</b> |
-| [Statement of scale (cartographic)](statement-of-scale-cartographic.md) 	| NA 	| NA 	| NA 	| RE 	|
-| [Statement of projection (cartographic)](statement-of-project.md) 	| NA 	| NA 	| NA 	| RE 	|
-| [Statement of coordinates (cartographic)](statement-of-coordinates.md) 	| NA 	| NA 	| NA 	| RE 	|
-| [Statement of scale (architectural)](statement-of-scale-architectural.md) 	| NA 	| NA 	| NA 	| RE 	|
-| [Issuing jurisdiction and denomination (philatelic)](issuing-jurisdication.md) 	| NA 	| NA 	| NA 	| RE 	|
+| <a name="class-of-material-area"><b>Class of material specific details area</b></a>| <b>Fonds</b> | <b>Series</b> | <b>File</b> | <b>Item</b> |
+| [Statement of scale (cartographic)](class-material-specific-details.md#statement-of-scale-cartographic) 	| NA 	| NA 	| NA 	| RE 	|
+| [Statement of projection (cartographic)](class-material-specific-details.md#statement-of-project) 	| NA 	| NA 	| NA 	| RE 	|
+| [Statement of coordinates (cartographic)](class-material-specific-detalils..md#statement-of-coordinates) 	| NA 	| NA 	| NA 	| RE 	|
+| [Statement of scale (architectural)](class-material-specific-details.md#statement-of-scale-architectural) 	| NA 	| NA 	| NA 	| RE 	|
+| [Issuing jurisdiction and denomination (philatelic)](class-material-specific-details.md#issuing-jurisdication) 	| NA 	| NA 	| NA 	| RE 	|
 | <br>
 | <a name="dates-of-creation-area"><b>Dates of creation area</b></a>| <b>Fonds</b> | <b>Series</b> | <b>File</b> | <b>Item</b> |
 | [Date entry](date-entry.md) 	| MA 	| MA 	| MA 	| MA 	|
@@ -153,4 +149,4 @@ The following abbreviations are used in the obligation status columns for each l
 | [Display standard](display-standard.md) 	| NR 	| NR 	| NR 	| NR 	|
 
 ---
-###### Last updated: Dec 22, 2021
+###### Last updated: Jan 6, 2022

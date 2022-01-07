@@ -27,7 +27,7 @@ SFU AtoM customizes the AtoM `Levels of description` taxonomy:
 - For now, continue to use "item" as the level of description for sub-items.
 
 ---
-###### [<< Previous: GMD](gmd.md) `|` [Next: Other title information >>](other-title-information.md)
+###### [<< Previous: Statement of responsibility](statement-of-responsibility.md) `|` [Next: Repository >>](repository.md)
 ---
-###### Last updated: Dec 22, 2021
+###### Last updated: Jan 6, 2022
 ###### MA = Mandatory `|` RE = Recommended `|` OP = Optional `|` NA = Not applicable `|` NR = Not recommended

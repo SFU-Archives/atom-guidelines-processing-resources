@@ -18,10 +18,10 @@ Do not use the `Generate identifier` link in AtoM to automatically assign the re
 At aggregate levels (fonds, series) obligation is **mandatory**.
 
 At the file level, obligation is **mandatory**, but there may be exceptional circumstances where the creator's original code is used in place of the Archives' normal reference code.
-- For example, photographic materials in three fonds (see series [F-17-1](https://atom.archives.sfu.ca/f-17-1), [F-18-1](https://atom.archives.sfu.ca/f-18-1), [F-61-1](https://atom.archives.sfu.ca/f-16-1)) will eventually use the creator's numbering scheme as the **Identifier** at the file level (= one contact sheet) in order to simplify digitization and upload to AtoM, as well as reference requests.
+- For example, photographic materials in three fonds (see series [F-17-1](https://atom.archives.sfu.ca/f-17-1), [F-18-1](https://atom.archives.sfu.ca/f-18-1), [F-61-1](https://atom.archives.sfu.ca/f-16-1)) will eventually use the creator's numbering scheme as the `Identifier` at the file level (= one contact sheet) in order to simplify digitization and upload to AtoM, as well as reference requests.
 
 Obligation is **optional** at the item level:
-- When creating records manually or via csv import, include the **Identifier**.
+- When creating records manually or via csv import, include the `Identifier`.
 - When item records are created via Archivematica DIP upload, they will not automatically be assigned identifiers; it is not required to manually assign identifiers following DIP upload.
 
 Assess DIP upload scenarios on a case-by-case basis:
@@ -30,5 +30,5 @@ Assess DIP upload scenarios on a case-by-case basis:
 ---
 ###### [<< Previous: Repository](repository.md) `|` [Next: Alternative identifier >>](alternative-identifier.md)
 ---
-###### Last updated: Dec 22, 2021
+###### Last updated: Jan 6, 2022
 ###### MA = Mandatory `|` RE = Recommended `|` OP = Optional `|` NA = Not applicable `|` NR = Not recommended
