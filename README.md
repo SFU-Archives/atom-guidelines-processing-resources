@@ -1,20 +1,20 @@
 # SFU AtoM and Archival Processing Guidelines
-This site provides guidelines for the use of [Access-to-Memory (AtoM)](https://www.accesstomemory.org/en/) at SFU, as well as other resources supporting archival arrangement and description more generally.
+This site provides guidelines for the use of [SFU AtoM](https://atom.archives.sfu.ca) and other resources that support archival arrangement and description more generally.
 
-[SFU AtoM](https://atom.archives.sfu.ca) is shared by [SFU Archives](https://www.sfu.ca/archives.html) and the [Special Collections and Rare Books](https://www.lib.sfu.ca/about/branches-depts/special-collections) division of [SFU Library](https://www.lib.sfu.ca), providing a single public platform for access to archival holdings at the university.
+[Access-to-Memory (AtoM)](https://www.accesstomemory.org/en/) is an open-source application for archival description and access. [SFU Archives](https://www.sfu.ca/archives.html) and the [Special Collections and Rare Books](https://www.lib.sfu.ca/about/branches-depts/special-collections) division of [SFU Library](https://www.lib.sfu.ca) maintain a shared AtoM site ([SFU AtoM](https://atom.archives.sfu.ca)), providing a single platform for public access to archival holdings at the university.
 
  SFU Archives and SFU Special Collections are separate institutions. As joint users of a shared resource, we try to align our practices to ensure consistency throughout SFU AtoM. But practices may sometimes diverge, and some documentation may pertain more to one unit than the other.
 
 ### AtoM data entry guidelines
-- [Archival descriptions](archival-description/overview.md): field-by-field guidelines for AtoM archival descriptions.
+- [Archival descriptions](archival-description/overview.md): field-by-field guidelines for data entry in AtoM archival descriptions.
 
-- [Authority records](authority-records/overview.md): field-by-field guidelines for AtoM authority records.
+- [Authority records](authority-records/overview.md): field-by-field guidelines for data entry in AtoM authority records.
 
-- [Description template and boilerplate text](resources/description-template.md): guidance and commonly used wording for for fields typically used in fonds- and series-level descriptions.
+- [Description template and boilerplate text](resources/description-template.md): guidance and commonly used wording for for fields typically used in **fonds** and **series** descriptions.
 
 - Note that neither Archives nor Special Collections currently use the AtoM **Accessions module**.
 
-### Processing resources
+### Resources for arrangement and description
 - [Archival Processing Checklist](resources/archival-processing-checklist.md): steps involved in a processing project (SFU Archives).
 
 - [AtoM csv import templates](https://wiki.accesstomemory.org/wiki/Resources/CSV_templates): link to AtoM documentation for download of latest import templates.
@@ -23,7 +23,7 @@ This site provides guidelines for the use of [Access-to-Memory (AtoM)](https://w
 
     - [Online AtoM Import app](resrouces/online-atom-import-app.md): web-based app written in R.
 
-    - [FileMaker Excel2AtoM utility](resources/atom2excel-utility.md): standalone FileMaker app, similar to above, but with some additional functionality (e.g. print file folder labels).
+    - [Excel2AtoM FileMaker utility](resources/atom2excel-utility.md): standalone FileMaker app, similar to above, but with some additional functionality (e.g. print file folder labels).
 
 - [Extent Calculator](resources/extent-calculator.md): online app for calculating fonds and series extents based on box types.
 
