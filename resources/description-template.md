@@ -4,8 +4,8 @@
 
 This page contains common wording and examples for fields typically used in fonds- and series-level descriptions in SFU AtoM. `Boilerplate text is highlighted for copying like so.` For more detailed guidance, see the [Archival Description Data Entry Guidelines](../archival-description/overview.md).
 
-## Title note
-- For data entry guidance, see [Title proper (RAD 1.1B)](../archival-description/title-proper.md)
+## Title notes
+Data entry guidelines: [Title notes (RAD 1.8B2-6)](../archival-description/title-notes.md)
 
 ```
 Source of title proper (fonds) – Fonds title based on the name of the records creator at the date of the latest records transferred.
@@ -18,14 +18,14 @@ Variations in title – The LEVEL was previously titled TITLE (YYYY-YYYY). The a
 ```
 
 ## Dates
-- For data entry guidance, see [Dates area](../archival-description/dates-area.md)
+Data entry guidelines: [Dates area (RAD 1.4)](../archival-description/dates-area.md)
 
 `Creation: 1965-1972` [= accumulation]
 
 `Dates of document: 1955-1972` [= dates of individual documents if earlier than dates of accumulation]
 
 ## Physical description
-- For data entry guidance, see [Physical description area](../archival-description/physical-description-area.md)
+Data entry guidelines: [Physical description area (RAD 1.5)](../archival-description/physical-description-area.md)
 
 Example for hybrid (paper and digital) unit:
 
@@ -41,7 +41,9 @@ Digitized copies:
 ```
 
 ## Administrative history
-- For data entry guidance, see [Administrative history](../archival-description/admin-history.md)
+Data entry guidelines: [Administrative history (RAD 1.7B1)](../archival-description/admin-history.md)
+
+Start narrative with a succinct overview.
 
 Include the following elements:
 - Dates of founding and / or dissolution
@@ -64,17 +66,23 @@ Chief officers:
 ```
 
 ## Biographical sketch
-- For data entry guidance, see [Biographical sketch](../archival-description/admin-history.md)
+Data entry guidelines: [Biographical sketch (RAD 1.7B2)](../archival-description/admin-history.md)
+
+Start narrative with a succinct summary. Example ([Michael Fellman fonds](https://atom.archives.sfu.ca/f-260)):
+
+```
+Michael Fellman was Professor Emeritus in the Department of History at Simon Fraser University, best-known for his work on nineteenth-century American history and the American Civil War period. Fellman taught at SFU from 1969 to 2008. He passed away on June 11, 2012 at age 69.
+```
 
 Include the following elements:
-- Name(s) [birth, death, marriage, children)
+- Name(s) [birth, death, marriage, children]
 - Place of residence
 - Education
 - Occupation, life and activities
 - Other significant information
 
 ## Custodial history
-- For data entry guidance, see [Custodial history](../archival-description/custodial-history.md)
+Data entry guidelines: [Custodial history](../archival-description/custodial-history.md)
 
 `The records were in the custody and control of the creator prior to their transfer to Archives in YYYY.`
 
