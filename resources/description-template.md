@@ -72,7 +72,7 @@ Start narrative with a succinct summary. Example ([Michael Fellman fonds](https:
 
 `Michael Fellman was Professor Emeritus in the Department of History at Simon Fraser University, best-known for his work on nineteenth-century American history and the American Civil War period. Fellman taught at SFU from 1969 to 2008. He passed away on June 11, 2012 at age 69.`
 
-Include the following elements in fuller narrative:
+Include the following elements for the fuller narrative:
 - Name(s) [birth, death, marriage, children]
 - Place of residence
 - Education
@@ -97,8 +97,7 @@ Include the following elements:
 
 **Item**: Subject matter and form; Data; Time period; Geographical area
 
-```
-LEVEL consists of records relating to FUNCTIONS
+`LEVEL consists of records relating to FUNCTIONS
 
 Activities and topics documented include ACTIVITIES
 
@@ -106,8 +105,7 @@ Records include DOCUMENTARY_FORMS
 
 File formats include FORMATS
 
-Files arranged chronologically.
-```
+Files arranged chronologically.`
 
 ## Arrangement
 Data entry guidelines: [Arrangement](../archival-description/arrangement.md)
@@ -128,49 +126,39 @@ Use for discussion of digitization and born-digital / normalized file formats.
 Data entry guidelines: [Restrictions on access](../archival-description/restrictions-on-access.md)
 
 **University records**
-```
-University records are subject to British Columbia's Freedom of Information and Protection of Privacy Act (FIPPA). Aaccess restrictions may apply to records containing personal information or confidential information (e.g. legal advice). Files marked "pending review" must be reviewed by an archivist prior to release. See the file lists and consult the reference archivist for more information.
+`University records are subject to British Columbia's Freedom of Information and Protection of Privacy Act (FIPPA). Aaccess restrictions may apply to records containing personal information or confidential information (e.g. legal advice). Files marked "pending review" must be reviewed by an archivist prior to release. See the file lists and consult the reference archivist for more information.
 
-Series with known restrictions include XXX.
-```
+Series with known restrictions include XXX.`
 
 **Private records**
-```
-The bulk of the files are open with no restrictions. There are XXX main exceptions. DESCRIBE_EXCEPTIONS
-```
+`The bulk of the files are open with no restrictions. There are XXX main exceptions. DESCRIBE_EXCEPTIONS`
 
 ## Terms governing use, reproduction, and publication
 Data entry guidelines: [Terms governing use, reproduction, and publication](../archival-description/terms-governing-use.md)
 
 **University records**
-```
-Copyright in records authored by SFU employees belongs to SFU. The Archives provides access to these materials under a Creative Commons Attribution-NonCommercial license (CC BY-NC). Users are free to copy, share and adapt the materials as they like provided they credit SFU as the creator, indicate any changes they have made, and use the works for a non-commercial purpose. All requests for commercial use should be made in writing to SFU Archives.
+`Copyright in records authored by SFU employees belongs to SFU. The Archives provides access to these materials under a Creative Commons Attribution-NonCommercial license (CC BY-NC). Users are free to copy, share and adapt the materials as they like provided they credit SFU as the creator, indicate any changes they have made, and use the works for a non-commercial purpose. All requests for commercial use should be made in writing to SFU Archives.
 
 The LEVEL also includes copyright-protected materials for which SFU does not own copyright (e.g. all incoming records received that were authored by non-SFU third parties). For  these materials, the Archives makes copies available for private study or research purposes under the fair dealing provisions of Canada's Copyright Act. Use for any other purpose may require the permission of the copyright owner. SFU Archives can assist researchers in attempting to identify copyright owners, but it is the users' responsibility to contact owners and secure any permissions.
 
-See individual series descriptions for more information about the application of copyright to specific sets of records.
-```
+See individual series descriptions for more information about the application of copyright to specific sets of records.`
 
 **Private records**
-```
-The donor (NAME) retained copyright in records he / she authored, but has agreed to make these materials available under a Creative Commons Attribution-NonCommercial license (CC BY-NC). OR
+`The donor (NAME) retained copyright in records he / she authored, but has agreed to make these materials available under a Creative Commons Attribution-NonCommercial license (CC BY-NC). OR
 The donor (NAME) transferred copyright in records he / she authored to SFU Archives, and the Archives makes these materials available under a Creative Commons Attribution-NonCommercial license (CC BY-NC).
 
 Users are free to copy, share and adapt the materials as they like provided they credit DONOR as the creator, indicate any changes they have made, and use the works for a non-commercial purpose. All requests for commercial use should be made to NAME; contact the reference archivist for more information.
 
 The LEVEL also includes copyright-protected materials for which the donor did not own copyright (e.g. all incoming records received that were authored by other persons). For  these materials, the Archives makes copies available for private study or research purposes under the fair dealing provisions of Canada's Copyright Act. Use for any other purpose may require the permission of the copyright owner. SFU Archives can assist researchers in attempting to identify copyright owners, but it is the users' responsibility to contact owners and secure any permissions.
 
-See individual series descriptions for more information about the application of copyright to specific sets of records.
-```
+See individual series descriptions for more information about the application of copyright to specific sets of records.`
 
 ## Finding aids
 Data entry guidelines: [Finding aids](../archival-description/finding-aids.md)
 
-```
-The pdf version of this finding aid includes XXX appendices:
+`The pdf version of this finding aid includes XXX appendices:
 * Appendix A: CREATOR Administrative History Data (visual chart)
-* Appendix B: TITLE
-```
+* Appendix B: TITLE`
 
 ## Associated materials
 Data entry guidelines: [Associated materials](../archival-description/associated-materials.md)
@@ -185,11 +173,9 @@ Links to materials in other fonds at SFU Archives and / or within the same fonds
 ## Accruals
 Data entry guidelines: [Accruals](../archival-description/accruals.md)
 
-```
-No further accruals are expected.
+`No further accruals are expected.`
 
-Further accruals are expected.
-```
+`Further accruals are expected.`
 
 ## General note(s)
 Data entry guidelines: [General notes](../archival-description/general-notes.md)
@@ -202,13 +188,13 @@ If there are non-textual media, indicate in which series or files they are found
 ## Rights
 Data entry guidelines: [Rights](../archival-description/rights.md)
 
-Use to document informal access reviews. Examples from [SFU Childcare Society fonds](https://cottonwood.archives.sfu.ca/f-203)
+Use to document informal access reviews.
 
-```
-File reviewed for access: Nov 23, 2021 (RD). File includes records containing the personal information of identifiable individuals (employment history). File restricted in whole.
+`File reviewed for access: Nov 23, 2021 (RD). File includes records containing the personal information of identifiable individuals (employment history). File restricted in whole.` ([SFU Childcare Society fonds](https://cottonwood.archives.sfu.ca/f-203-8-0-0-2))
 
-File reviewed for access: Nov 23, 2021 (RD). No restricted information identified.
-```
+`File reviewed for access: MMM DD, YYYY (initials). File includes records containing the personal information of identifiable individuals (TYPE_PI). Restricted documents enclosed; the rest of the file is open.`
+
+`File reviewed for access: Nov 23, 2021 (RD). No restricted information identified.` ([SFU Childcare Society fonds](https://cottonwood.archives.sfu.ca/f-203-8-0-0-1))
 
 ---
 ###### Last updated: Jan 10, 2022
