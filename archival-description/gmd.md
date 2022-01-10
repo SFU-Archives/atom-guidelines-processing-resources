@@ -1,13 +1,13 @@
 ###### [SFU AtoM Implementation Guidelines](../README.md) `>` [Archival description](overview.md) `>` [Title and statement of responsibility area](overview.md#title-area)
 
 # General Material Designation (GMD) [RAD 1.1C]
-
 | Fonds 	| Series 	| Files 	| Items 	|
 |:-----:	|:------:	|:-----:	|:-----:	|
 |   MA    |   MA    |   MA  	|   MA  	|
 
-Select any GMD terms that apply to the unit of description.
-- You must select at least one GMD.
+Select any `GMD` terms that apply to the unit of description.
+- You should must at least one GMD at the **fonds** and **series** levels.
+- **Files** and **items** created by Archivematica DIP-upload or AtoM csv import will not automatically get `GMD` values on import; it is **not** necessary to manually add values.
 
 Terms are managed by AtoM's `Material type taxonomy`. This list is customizable and we generally follow RAD's prescribed terms:
 - Architectural drawing
@@ -46,5 +46,5 @@ Use the [Physical description note](physical-description-note.md) to indicate wh
 ---
 ###### [<< Previous: Title proper](title-proper.md) `|` [Next: Parallel titles >>](parallel-titles.md)
 ---
-###### Last updated: Dec 22, 2021
+###### Last updated: Jan 10, 2022
 ###### MA = Mandatory `|` RE = Recommended `|` OP = Optional `|` NA = Not applicable `|` NR = Not recommended
