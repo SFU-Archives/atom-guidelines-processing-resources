@@ -68,13 +68,11 @@ Chief officers:
 ## Biographical sketch
 Data entry guidelines: [Biographical sketch (RAD 1.7B2)](../archival-description/admin-history.md)
 
-Start narrative with a succinct summary. Example ([Michael Fellman fonds](https://atom.archives.sfu.ca/f-260)):
+Start narrative with a succinct summary. Example ([Michael Fellman fonds](https://cottonwood.archives.sfu.ca/f-260)):
 
-```
-Michael Fellman was Professor Emeritus in the Department of History at Simon Fraser University, best-known for his work on nineteenth-century American history and the American Civil War period. Fellman taught at SFU from 1969 to 2008. He passed away on June 11, 2012 at age 69.
-```
+`Michael Fellman was Professor Emeritus in the Department of History at Simon Fraser University, best-known for his work on nineteenth-century American history and the American Civil War period. Fellman taught at SFU from 1969 to 2008. He passed away on June 11, 2012 at age 69.`
 
-Include the following elements:
+Include the following elements in fuller narrative:
 - Name(s) [birth, death, marriage, children]
 - Place of residence
 - Education
@@ -87,7 +85,7 @@ Data entry guidelines: [Custodial history](../archival-description/custodial-his
 `The records were in the custody and control of the creator prior to their transfer to Archives in YYYY.`
 
 ## Scope and content
-- For data entry guidance, see [Scope and content](../archival-description/scope-and-content.md)
+Data entry guidelines: [Scope and content](../archival-description/scope-and-content.md)
 
 Include the following elements:
 
@@ -112,15 +110,23 @@ Files arranged chronologically.
 ```
 
 ## Arrangement
+Data entry guidelines: [Arrangement](../archival-description/arrangement.md)
+
 Use only when a fuller explanation of the arrangement is useful; otherwise just use a simple statement in [Scope and content](#scope-and-cntent).]
 
 ## Language of material
+Data entry guidelines: [:Language of material](../archival-description/language-of-material.md)
+
 Select all applicable language; if other languages than  English are included, use a `General note` to indicate in which series or files those records can be found.
 
 ## Availability of other formats
+Data entry guidelines: [Availability of other formats](../archival-description/availability-other-formats.md)
+
 Use for discussion of digitization and born-digital / normalized file formats.
 
 ## Restrictions on access
+Data entry guidelines: [Restrictions on access](../archival-description/restrictions-on-access.md)
+
 **University records**
 ```
 University records are subject to British Columbia's Freedom of Information and Protection of Privacy Act (FIPPA). Aaccess restrictions may apply to records containing personal information or confidential information (e.g. legal advice). Files marked "pending review" must be reviewed by an archivist prior to release. See the file lists and consult the reference archivist for more information.
@@ -134,6 +140,8 @@ The bulk of the files are open with no restrictions. There are XXX main exceptio
 ```
 
 ## Terms governing use, reproduction, and publication
+Data entry guidelines: [Terms governing use, reproduction, and publication](../archival-description/terms-governing-use.md)
+
 **University records**
 ```
 Copyright in records authored by SFU employees belongs to SFU. The Archives provides access to these materials under a Creative Commons Attribution-NonCommercial license (CC BY-NC). Users are free to copy, share and adapt the materials as they like provided they credit SFU as the creator, indicate any changes they have made, and use the works for a non-commercial purpose. All requests for commercial use should be made in writing to SFU Archives.
@@ -156,6 +164,8 @@ See individual series descriptions for more information about the application of
 ```
 
 ## Finding aids
+Data entry guidelines: [Finding aids](../archival-description/finding-aids.md)
+
 ```
 The pdf version of this finding aid includes XXX appendices:
 * Appendix A: CREATOR Administrative History Data (visual chart)
@@ -163,12 +173,18 @@ The pdf version of this finding aid includes XXX appendices:
 ```
 
 ## Associated materials
+Data entry guidelines: [Associated materials](../archival-description/associated-materials.md)
+
 Describe materials at other institutions.
 
 ## Related materials
+Data entry guidelines: [Related materials](../archival-description/related-materials.md)
+
 Links to materials in other fonds at SFU Archives and / or within the same fonds
 
 ## Accruals
+Data entry guidelines: [Accruals](../archival-description/accruals.md)
+
 ```
 No further accruals are expected.
 
@@ -176,10 +192,23 @@ Further accruals are expected.
 ```
 
 ## General note(s)
+Data entry guidelines: [General notes](../archival-description/general-notes.md)
+
 ## Physical description
+Data entry guidelines: [Physical description](../archival-description/physical-description-note.md)
+
 If there are non-textual media, indicate in which series or files they are found if it is not obvious from the series names.
 
 ## Rights
+Data entry guidelines: [Rights](../archival-description/rights.md)
+
+Use to document informal access reviews. Examples from [SFU Childcare Society fonds](https://cottonwood.archives.sfu.ca/f-203)
+
+```
+File reviewed for access: Nov 23, 2021 (RD). File includes records containing the personal information of identifiable individuals (employment history). File restricted in whole.
+
+File reviewed for access: Nov 23, 2021 (RD). No restricted information identified.
+```
 
 ---
 ###### Last updated: Jan 10, 2022
