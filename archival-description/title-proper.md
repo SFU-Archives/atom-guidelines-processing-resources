@@ -1,6 +1,8 @@
 ###### [SFU AtoM Implementation Guidelines](../README.md) `>` [Archival description](overview.md) `>` [Title and statement of responsibility area](overview.md#title-area)
 
-# Title proper [RAD 1.1B]
+# Title and statement of responsibility area [RAD 1.1]
+
+## Title proper [RAD 1.1B]
 
 | Fonds 	| Series 	| Files 	| Items 	|
 |:-----:	|:------:	|:-----:	|:-----:	|
@@ -9,9 +11,8 @@
 Do not use square brackets for **supplied titles**.
 - Give explanation in [Source of title proper](source-of-title-proper.md) note.
 
-### Outstanding policy issues
-Archives should develop a standard for consistently titling descriptive units.
-- May be different at different levels of description.
+**Outstanding policy issues:**
+- Archives should develop a standard for consistently titling descriptive units (may be different at different levels of description).
 
 ---
 ###### [Next: GMD >>](gmd.md)
