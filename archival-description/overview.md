@@ -61,21 +61,21 @@ Key to abbreviations:
 | [Issuing jurisdiction and denomination (philatelic)](class-material-specific-details.md#issuing-jurisdication) 	| NA 	| NA 	| NA 	| OP 	|
 | <br>
 | <a name="dates-of-creation-area"><b>Dates of creation area</b></a>| <b>Fonds</b> | <b>Series</b> | <b>File</b> | <b>Item</b> |
-| [Date entry](date-entry.md) 	| MA 	| MA 	| MA 	| MA 	|
-| - [Actor name](date-entry.md#actor-name) 	| RE 	| RE 	| RE 	| RE 	|
-| - [Event type (*)](date-entry.md#event-type) 	| MA 	| MA 	| MA 	| MA 	|
-| - [Place](date-entry.md#place) 	| NR 	| NR 	| NR 	| NR 	|
-| - [Date](date-entry.md#date) 	| MA 	| MA 	| MA 	| MA 	|
-| - [Start](date-entry.md#start) 	| MA 	| MA 	| MA 	| MA 	|
-| - [End](date-entry.md#end) 	| MA 	| MA 	| MA 	| MA 	|
-| - [Event note](date-entry.md#event-note) 	| OP 	| OP 	| OP 	| OP 	|
+| [Date entry](dates-of-creation-area.md) 	| MA 	| MA 	| MA 	| MA 	|
+| - [Actor name](dates-of-creation-area.md#actor-name) 	| RE 	| RE 	| RE 	| RE 	|
+| - [Event type (*)](dates-of-creation-area.md#event-type) 	| MA 	| MA 	| MA 	| MA 	|
+| - [Place](dates-of-creation-area.md#place) 	| NR 	| NR 	| NR 	| NR 	|
+| - [Date](dates-of-creation-area.md#date) 	| MA 	| MA 	| MA 	| MA 	|
+| - [Start](dates-of-creation-area.md#start-end) 	| MA 	| MA 	| MA 	| MA 	|
+| - [End](dates-of-creation-area.md#start-end) 	| MA 	| MA 	| MA 	| MA 	|
+| - [Event note](dates-of-creation-area.md#event-note) 	| OP 	| OP 	| OP 	| OP 	|
 | <br>
 | <a name="physical-description-area"><b>Physical description area</b></a>| <b>Fonds</b> | <b>Series</b> | <b>File</b> | <b>Item</b> |
-| [Physical description](physical-descripton-area.md) 	| MA 	| MA 	| OP 	| OP 	|
+| [Physical description](physical-description-area.md) 	| MA 	| MA 	| OP 	| OP 	|
 | <br>
 | <a name="archival-description-area"><b>Archival description area</b></a>| <b>Fonds</b> | <b>Series</b> | <b>File</b> | <b>Item</b> |
-| [Administrative history](administrative-history.md) 	| RE 	| OP 	| OP 	| OP 	|
-| [Biographical sketch](biographical-sketch.md) 	| RE 	| OP 	| OP 	| OP 	|
+| [Administrative history](admin-history-bio-sketch.md) 	| RE 	| OP 	| OP 	| OP 	|
+| [Biographical sketch](admin-history-bio-sketch.md) 	| RE 	| OP 	| OP 	| OP 	|
 | [Custodial history](custodial-history.md) 	| MA 	| RE 	| OP 	| OP 	|
 | [Scope and content](scope-and-content.md) 	| MA 	| MA 	| OP 	| OP 	|
 | <br>

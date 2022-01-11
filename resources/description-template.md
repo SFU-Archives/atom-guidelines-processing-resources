@@ -2,7 +2,32 @@
 
 # Archival Description: Boilerplate Text and Examples
 
-This page contains common wording and examples for fields typically used in fonds- and series-level descriptions in SFU AtoM. `Boilerplate text is highlighted for copying like so.` For more detailed guidance, see the [Archival Description Data Entry Guidelines](../archival-description/overview.md).
+This template shows the fields typically used by SFU Archives in **fonds** and **series** descriptions in SFU AtoM, with examples and common wording. `Boilerplate text is highlighted for copying like so.` For more detailed guidance, see the [Archival Description Data Entry Guidelines](../archival-description/overview.md).
+- [Download the template as a text file](../downloads/description-template.txt)
+
+## Title proper
+Data entry guidelines: [Title proper (RAD 1.8B1)](../archival-description/title-proper.md)
+
+`Department of Geography fonds` (fonds: `Name of creator` + "fonds")
+
+## GMD
+Data entry guidelines: [GMD (RAD 1.1C)](../archival-description/gmd.md)
+
+```
+Architectural drawing
+Cartographic material
+Graphic material
+Microform
+Moving images
+Object
+Philatelic record
+Photographic material
+Records in electronic form (born-digital)
+Records in electronic form (digitized)
+Sound recording
+Technical drawing
+Textual record
+```
 
 ## Title notes
 Data entry guidelines: [Title notes (RAD 1.8B2-6)](../archival-description/title-notes.md)
@@ -25,7 +50,7 @@ Data entry guidelines: [Dates area (RAD 1.4)](../archival-description/dates-area
 ## Physical description
 Data entry guidelines: [Physical description area (RAD 1.5)](../archival-description/physical-description-area.md)
 
-Example for hybrid (paper and digital) unit:
+Example for hybrid (paper and digital) fonds:
 
 ```
 Paper and analog originals:
@@ -42,14 +67,7 @@ Digitized copies:
 Data entry guidelines: [Administrative history (RAD 1.7B1)](../archival-description/admin-history.md)
 
 Start narrative with a succinct overview.
-
-Include the following elements:
-- Dates of founding and / or dissolution
-- Mandate / sphere of functional responsibility
-- Predecessor and successor bodies
-- Administrative relationships
-- Administrative structure
-- Other significant information
+`Facilities Services has responsibility for stewardship of buildings and lands at SFU on all three university campuses. For a visual representation of the department's administrative history (name changes, reporting relationships, chief officers), see Appendix A in the pdf version of the finding aid for the Facilities Services fonds (F-11).` (Facilities Services fonds, draft)
 
 At the end of the narrative description, provide listing of name changes and officers:
 
@@ -66,16 +84,9 @@ Chief officers:
 ## Biographical sketch
 Data entry guidelines: [Biographical sketch (RAD 1.7B2)](../archival-description/admin-history.md)
 
-Start narrative with a succinct summary. Example ([Michael Fellman fonds](https://cottonwood.archives.sfu.ca/f-260)):
+Start narrative with a succinct summary paragraph.
 
-`Michael Fellman was Professor Emeritus in the Department of History at Simon Fraser University, best-known for his work on nineteenth-century American history and the American Civil War period. Fellman taught at SFU from 1969 to 2008. He passed away on June 11, 2012 at age 69.`
-
-Include the following elements for the fuller narrative:
-- Name(s) [birth, death, marriage, children]
-- Place of residence
-- Education
-- Occupation, life and activities
-- Other significant information
+`Michael Fellman was Professor Emeritus in the Department of History at Simon Fraser University, best-known for his work on nineteenth-century American history and the American Civil War period. Fellman taught at SFU from 1969 to 2008. He passed away on June 11, 2012 at age 69.` ([Michael Fellman fonds](https://cottonwood.archives.sfu.ca/f-260))
 
 ## Custodial history
 Data entry guidelines: [Custodial history](../archival-description/custodial-history.md)
@@ -84,16 +95,6 @@ Data entry guidelines: [Custodial history](../archival-description/custodial-his
 
 ## Scope and content
 Data entry guidelines: [Scope and content](../archival-description/scope-and-content.md)
-
-Include the following elements:
-
-**Highest level:** Functions / activities; Period of time; Subject matter; Geographical area; Arrangement, organization; May enumerate next lowest level; Documentary forms.
-
-**Series:** Activities; Period of time; Subject matter; Geographical area; Documentary procedures; Kinds of information (if uniform); Arrangement; Classification scheme; Documentary forms
-
-**File:** Subject matter; Time period; Geographical area; Procedures generating the file; Transactions; Arrangement; Documentary forms and their relationship.
-
-**Item**: Subject matter and form; Data; Time period; Geographical area
 
 `LEVEL consists of records relating to FUNCTIONS`
 
@@ -104,6 +105,13 @@ Include the following elements:
 `File formats include FORMATS`
 
 `Files arranged chronologically.`
+
+At the end of the narrative include listing of sub-units:
+```
+Fonds is arranged into the NN series:
+* Series F-x-x, TITLE (dates)
+* Series F-x-x, TITLE (dates)
+```
 
 ## Arrangement
 Data entry guidelines: [Arrangement](../archival-description/arrangement.md)
@@ -202,4 +210,4 @@ Use to document informal access reviews.
 `File reviewed for access: Nov 23, 2021 (RD). No restricted information identified.` ([SFU Childcare Society fonds](https://cottonwood.archives.sfu.ca/f-203-8-0-0-1))`
 
 ---
-###### Last updated: Jan 10, 2022
+###### Last updated: Jan 11, 2022
