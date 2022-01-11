@@ -46,7 +46,7 @@ Key to abbreviations:
 | - [Variations in title](title-notes.md#variations-in-title) 	| OP 	| OP 	| OP 	| OP 	|
 | [Level of description (*)](level-of-description.md) 	| MA 	| MA 	| MA 	| MA 	|
 | [Repository](repository.md) 	| MA 	| NA 	| NA 	| NA 	|
-| [Identifier](identifier.md) 	| MA 	| MA 	| MA 	| MA 	|
+| [Identifier](identifier.md) 	| MA 	| MA 	| RE 	| OP 	|
 | [Alternative identifier](alternative-identifier.md) 	| RE 	| RE 	| RE 	| RE 	|
 | <br>
 | <a name="edition-area"><b>Edition area</b></a>| <b>Fonds</b> | <b>Series</b> | <b>File</b> | <b>Item</b> |
@@ -54,11 +54,11 @@ Key to abbreviations:
 | [Statement of responsibility relating to the edition](edition-area.md#statement-of-responsibility-relating-to-the-edition-rad-12c) 	| NA 	| NA 	| NA 	| NR 	|
 | <br>
 | <a name="class-of-material-area"><b>Class of material specific details area</b></a>| <b>Fonds</b> | <b>Series</b> | <b>File</b> | <b>Item</b> |
-| [Statement of scale (cartographic)](class-material-specific-details.md#statement-of-scale-cartographic) 	| NA 	| NA 	| NA 	| RE 	|
-| [Statement of projection (cartographic)](class-material-specific-details.md#statement-of-project) 	| NA 	| NA 	| NA 	| RE 	|
-| [Statement of coordinates (cartographic)](class-material-specific-detalils..md#statement-of-coordinates) 	| NA 	| NA 	| NA 	| RE 	|
-| [Statement of scale (architectural)](class-material-specific-details.md#statement-of-scale-architectural) 	| NA 	| NA 	| NA 	| RE 	|
-| [Issuing jurisdiction and denomination (philatelic)](class-material-specific-details.md#issuing-jurisdication) 	| NA 	| NA 	| NA 	| RE 	|
+| [Statement of scale (cartographic)](class-material-specific-details.md#statement-of-scale-cartographic) | NA 	| NA 	| NA 	| OP 	|
+| [Statement of projection (cartographic)](class-material-specific-details.md#statement-of-project) 	| NA 	| NA 	| NA 	| OP 	|
+| [Statement of coordinates (cartographic)](class-material-specific-detalils..md#statement-of-coordinates) 	| NA 	| NA 	| NA 	| OP 	|
+| [Statement of scale (architectural)](class-material-specific-details.md#statement-of-scale-architectural) 	| NA 	| NA 	| NA 	| OP 	|
+| [Issuing jurisdiction and denomination (philatelic)](class-material-specific-details.md#issuing-jurisdication) 	| NA 	| NA 	| NA 	| OP 	|
 | <br>
 | <a name="dates-of-creation-area"><b>Dates of creation area</b></a>| <b>Fonds</b> | <b>Series</b> | <b>File</b> | <b>Item</b> |
 | [Date entry](date-entry.md) 	| MA 	| MA 	| MA 	| MA 	|
