@@ -124,17 +124,20 @@ Use for discussion of digitization and born-digital / normalized file formats.
 Data entry guidelines: [Restrictions on access](../archival-description/restrictions-on-access.md)
 
 **University records**
+
 `University records are subject to British Columbia's Freedom of Information and Protection of Privacy Act (FIPPA). Aaccess restrictions may apply to records containing personal information or confidential information (e.g. legal advice). Files marked "pending review" must be reviewed by an archivist prior to release. See the file lists and consult the reference archivist for more information.`
 
 `Series with known restrictions include XXX.`
 
 **Private records**
+
 `The bulk of the files are open with no restrictions. There are XXX main exceptions. DESCRIBE_EXCEPTIONS`
 
 ## Terms governing use, reproduction, and publication
 Data entry guidelines: [Terms governing use, reproduction, and publication](../archival-description/terms-governing-use.md)
 
 **University records**
+
 `Copyright in records authored by SFU employees belongs to SFU. The Archives provides access to these materials under a Creative Commons Attribution-NonCommercial license (CC BY-NC). Users are free to copy, share and adapt the materials as they like provided they credit SFU as the creator, indicate any changes they have made, and use the works for a non-commercial purpose. All requests for commercial use should be made in writing to SFU Archives.`
 
 `The LEVEL also includes copyright-protected materials for which SFU does not own copyright (e.g. all incoming records received that were authored by non-SFU third parties). For  these materials, the Archives makes copies available for private study or research purposes under the fair dealing provisions of Canada's Copyright Act. Use for any other purpose may require the permission of the copyright owner. SFU Archives can assist researchers in attempting to identify copyright owners, but it is the users' responsibility to contact owners and secure any permissions.`
@@ -142,8 +145,10 @@ Data entry guidelines: [Terms governing use, reproduction, and publication](../a
 `See individual series descriptions for more information about the application of copyright to specific sets of records.`
 
 **Private records**
-`The donor (NAME) retained copyright in records he / she authored, but has agreed to make these materials available under a Creative Commons Attribution-NonCommercial license (CC BY-NC). OR
-The donor (NAME) transferred copyright in records he / she authored to SFU Archives, and the Archives makes these materials available under a Creative Commons Attribution-NonCommercial license (CC BY-NC).`
+
+`The donor (NAME) retained copyright in records he / she authored, but has agreed to make these materials available under a Creative Commons Attribution-NonCommercial license (CC BY-NC).`
+
+`The donor (NAME) transferred copyright in records he / she authored to SFU Archives, and the Archives makes these materials available under a Creative Commons Attribution-NonCommercial license (CC BY-NC).`
 
 `Users are free to copy, share and adapt the materials as they like provided they credit DONOR as the creator, indicate any changes they have made, and use the works for a non-commercial purpose. All requests for commercial use should be made to NAME; contact the reference archivist for more information.`
 
