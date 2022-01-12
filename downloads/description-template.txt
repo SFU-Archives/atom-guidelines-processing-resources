@@ -1,4 +1,7 @@
-Title proper
+***** Title proper *****
+Department of Geography fonds [fonds]
+Barbara Bates SFU Childcare Society interview collection [collection]
+Acadmeic Planning Committee files [series]
 
 
 ***** GMD *****
@@ -23,7 +26,8 @@ Source of title proper (series, file) – Title supplied by the archivist based 
 
 Variations in title – The creator's original title was TITLE. The archivist altered this ... REASON.
 
-Variations in title – The LEVEL was previously titled TITLE (YYYY-YYYY). The archivist changed the title in YEAR to reflect ... REASON.
+Variations in title – The LEVEL was previously known as the XXXX (YYYY-YYYY). Title was revised in YYYY to reflect a change in the name of the department.
+
 
 ***** Dates *****
 Creation: 1965-1972 [= accumulation]
@@ -87,7 +91,7 @@ Digitized and born-digital materials may or may not be directly available from t
 
 
 ***** Restrictions on access ***** 
-University records are subject to British Columbia's Freedom of Information and Protection of Privacy Act (FIPPA). Aaccess restrictions may apply to records containing personal information or confidential information (e.g. legal advice). Files marked "pending review" must be reviewed by an archivist prior to release. See the file lists and consult the reference archivist for more information.
+Fonds comprises university records subject to British Columbia's Freedom of Information and Protection of Privacy Act (FIPPA). Access restrictions may apply to records containing personal information or confidential information (e.g. legal advice). Files marked "pending review" must be reviewed by an archivist prior to release. See the file lists and consult the reference archivist for more information.
 
 Series with known restrictions include XXX.
 

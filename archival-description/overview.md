@@ -3,9 +3,9 @@
 # Archival Description Data Entry
 [SFU AtoM](https://atom.archives.sfu.ca) follows the [Canadian Rules for Archival Description (RAD)](http://www.cdncouncilarchives.ca/archdesrules.html) and uses the RAD data entry template for **Archival description** records.
 
-This page lists each AtoM field in its order of appearance and its **obligation status** (mandatory or not) at each level of description. Field names link to individual entries that provide more detailed guidance. An asterisk (*) beside the field name indicates that there are outstanding policy issues relating to the field, documented in the field entry.
+This page lists each AtoM field in its order of appearance and its **obligation status** (mandatory or not) at each level of description. Field names link to individual entries that provide more detailed guidance.
 
-These guidelines were initially prepared by SFU Archives in 2015 and reflect the Archives' decisions and practices. SFU Special Collections' practices may diverge in places.
+These guidelines were initially prepared by SFU Archives in 2015 in Word / pdf form. They were reviewed with minor revisions and reformatting for this GitHub site. The guidelines reflect the Archives' decisions and choices, and SFU Special Collections' practices may diverge in places.
 
 Key to abbreviations:
 - MA = Mandatory; field must be entered.
@@ -149,4 +149,4 @@ Key to abbreviations:
 | [Display standard](display-standard.md) 	| NR 	| NR 	| NR 	| NR 	|
 
 ---
-###### Last updated: Jan 6, 2022
+###### Last updated: Jan 11, 2022

@@ -10,6 +10,10 @@ Include any information relating to past custody as well as transfer of the reco
 
 For digital records, use this element to discuss issues relating to data migrations, conversions, transformations, corruption prior to or during transfer.
 
+**Example:**
+
+`The records were in the custody and control of the creator prior to their transfer to Archives in YYYY.`
+
 ---
 ###### [<< Previous: Administrative history / Biographical sketch](admin-history-bio-sketch.md) `|` [Next: Scope and content >>](scope-and-content.md)
 ---

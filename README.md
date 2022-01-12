@@ -10,7 +10,7 @@ This site provides guidelines for the use of [SFU AtoM](https://atom.archives.sf
 
 - [Authority records](authority-records/overview.md): field-by-field guidelines for data entry in AtoM authority records.
 
-- [Description template and boilerplate text](resources/description-template.md): guidance and commonly used wording for for fields typically used in **fonds** and **series** descriptions.
+- [Description template and boilerplate text (text file)](downloads/description-template.txt): guidance and commonly used wording for for fields typically used in **fonds** and **series** descriptions.
 
 - Note that neither Archives nor Special Collections currently use the AtoM **Accessions module**.
 

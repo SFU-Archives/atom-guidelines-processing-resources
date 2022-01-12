@@ -42,10 +42,11 @@ Use to indicate the basis of the title.
 - Typically base the [Title](title-proper.md) on the content of the unit or on the creator's original title.
 - Creator's titles are rare above the **file** and **item** levels.
 
-Template text:
-```
-Title supplied by the archivist based on the <<LEVEL>>'s content.
-```
+**Examples:**
+
+`Fonds title based on the name of the creator at the date of the lastest records transferred.1`
+
+`Title supplied by the archivist based on the series content.`
 
 ## Statements of responsibility [RAD 1.8B5]
 
@@ -68,13 +69,14 @@ Possible use cases include:
 
 If changing the creator's file or item title, give the original title in this note.
 
-Template text:
-```
-Creator's original title was "<<title>>"; changed by the archivist because <<reason>>.
-```
+**Examples:**
+
+`Creator's original title was "TITLE"; changed by the archivist in YYYY because <<reason>>.`
+
+`The fonds was previously known as XXXX (YYYY-YYYY). Title was revised in YYYY to reflect a change in the name of the department.`
 
 ---
 ###### [<< Previous: Statement of responsibility](statement-of-responsibility.md) `|` [Next: Level of description >>](level-of-description.md)
 ---
-###### Last updated: Jan 6, 2022
+###### Last updated: Jan 11, 2022
 ###### MA = Mandatory `|` RE = Recommended `|` OP = Optional `|` NA = Not applicable `|` NR = Not recommended

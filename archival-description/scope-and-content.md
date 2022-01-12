@@ -22,6 +22,17 @@ Following RAD, include the following elements:
 
 **Item**: Subject matter and form; Data; Time period; Geographical area.
 
+**Template text:**
+`LEVEL consists of records relating to FUNCTIONS`
+
+`Activities and topics documented include ACTIVITIES`
+
+`Records include DOCUMENTARY_FORMS`
+
+`File formats include FORMATS`
+
+`Files arranged chronologically.`
+
 Include information relating to arrangement unless you need to comment at length on arrangement issues (then use the [Arrangement](arrangement.md) note field).
 
 At the end of the narrative include a list of child series to give an overview of arrangement.

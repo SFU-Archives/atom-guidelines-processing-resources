@@ -18,6 +18,9 @@ In both [Administrative histories](#administrative-history) and [Biographical sk
 - Allows researchers to get quick overview and decide whether to continue with detailed description.
 
 ## Administrative history
+Example opening summary paragraph:
+`Facilities Services has responsibility for stewardship of buildings and lands at SFU on all three university campuses. For a visual representation of the department's administrative history (name changes, reporting relationships, chief officers), see Appendix A in the pdf version of the finding aid for the Facilities Services fonds (F-11).` (Facilities Services fonds, draft)
+
 In the full narrative, include the following elements:
 - Dates of founding and / or dissolution
 - Mandate / sphere of functional responsibility
@@ -39,6 +42,9 @@ Chief officers:
 ```
 
 ## Biographical sketch
+Example opening summary paragraph:
+`Michael Fellman was Professor Emeritus in the Department of History at Simon Fraser University, best-known for his work on nineteenth-century American history and the American Civil War period. Fellman taught at SFU from 1969 to 2008. He passed away on June 11, 2012 at age 69.` ([Michael Fellman fonds](https://cottonwood.archives.sfu.ca/f-260))
+
 Include the following elements for the full narrative:
 - Name(s)
 - Birth, death, marriage, children
