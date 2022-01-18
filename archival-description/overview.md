@@ -109,9 +109,10 @@ Key to abbreviations:
 | [Standard number](standard-number.md) 	| NA 	| NA 	| NA 	| NR 	|
 | <br> |
 | <a name="access-points"><b>Access points</b></a>| <b>Fonds</b> | <b>Series</b> | <b>File</b> | <b>Item</b> |
-| [Subject access points](subject-access-points.md) 	| MA 	| NR 	| NR 	| NR 	|
-| [Place access points](place-access-points.md) 	| OP 	| OP 	| OP 	| OP 	|
-| [Name access points](name-access-points.md) 	| OP 	| OP 	| OP 	| OP 	|
+| [Subject access points](access-points.md#subject-access-points.md) 	| MA 	| NR 	| NR 	| NR 	|
+| [Place access points](access-points.md#place-access-points.md) 	| OP 	| OP 	| OP 	| OP 	|
+| [Genre access points](access-points.md#genre-access-points.md) 	| OP 	| OP 	| OP 	| OP 	|
+| [Name access points](naccess-points.md#ame-access-points.md) 	| OP 	| OP 	| OP 	| OP 	|
 | <br> |
 | <a name="control-area"><b>Control area</b></a>| <b>Fonds</b> | <b>Series</b> | <b>File</b> | <b>Item</b> |
 | [Description identifier](description-identifier.md) 	| NR 	| NR 	| NR 	| NR 	|

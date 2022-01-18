@@ -18,7 +18,7 @@ Do not use at the **file** and **item** levels.
 `Additional material has been accessioned but not yet processed (as of DATE: XX m., YYYY-YYYY). Consult the reference archivist for more information; restrictions may apply. Further accruals are expected.`
 
 ---
-###### [<< Previous: Related materials](related-materials.md) `|` [Next: Physical description >>](physical-description-note.md)
+###### [<< Previous: Related materials](related-materials.md) `|` [Next: Other notes >>](other-notes.md)
 ---
 ###### Last updated: Jan 17, 2022
 ###### MA = Mandatory `|` RE = Recommended `|` OP = Optional `|` NA = Not applicable `|` NR = Not recommended
