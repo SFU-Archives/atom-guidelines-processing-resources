@@ -1,4 +1,4 @@
-###### [SFU AtoM Implementation Guidelines](../README.md) `>` [Archival description](overview.md) `>` [xxx area](overview.md#xxx-area)
+###### [SFU AtoM Guidelines](../README.md) `>` [Archival description](overview.md) `>` [xxx area](overview.md#xxx-area)
 
 # ElementName [RAD ##]
 | Fonds 	| Series 	| Files 	| Items 	|

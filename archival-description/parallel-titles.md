@@ -1,4 +1,4 @@
-###### [SFU AtoM Implementation Guidelines](../README.md) `>` [Archival description](overview.md) `>` [Title and statement of responsibility area](overview.md#title-area)
+###### [SFU AtoM Guidelines](../README.md) `>` [Archival description](overview.md) `>` [Title and statement of responsibility area](overview.md#title-area)
 
 # Parallel titles [RAD 1.1D]
 | Fonds 	| Series 	| Files 	| Items 	|

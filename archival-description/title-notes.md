@@ -1,4 +1,4 @@
-###### [SFU AtoM Implementation Guidelines](../README.md) `>` [Archival description](overview.md) `>` [Title and statement of responsibility area](overview.md#title-area)
+###### [SFU AtoM Guidelines](../README.md) `>` [Archival description](overview.md) `>` [Title and statement of responsibility area](overview.md#title-area)
 
 # Title notes
 
@@ -42,7 +42,7 @@ Use to indicate the basis of the title.
 - Typically base the [Title](title-proper.md) on the content of the unit or on the creator's original title.
 - Creator's titles are rare above the **file** and **item** levels.
 
-**Examples:**
+**Template text / examples:**
 
 `Fonds title based on the name of the creator at the date of the lastest records transferred.1`
 

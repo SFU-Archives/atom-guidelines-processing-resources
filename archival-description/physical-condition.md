@@ -1,4 +1,4 @@
-###### [SFU AtoM Implementation Guidelines](../README.md) `>` [Archival description](overview.md) `>` [Notes area](overview.md#notes-area)
+###### [SFU AtoM Guidelines](../README.md) `>` [Archival description](overview.md) `>` [Notes area](overview.md#notes-area)
 
 # Physical condition [RAD 1.8B9]
 | Fonds 	| Series 	| Files 	| Items 	|

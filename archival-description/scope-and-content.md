@@ -1,4 +1,4 @@
-###### [SFU AtoM Implementation Guidelines](../README.md) `>` [Archival description](overview.md) `>` [Archival description area](overview.md#archival-description-area)
+###### [SFU AtoM Guidelines](../README.md) `>` [Archival description](overview.md) `>` [Archival description area](overview.md#archival-description-area)
 
 # Scope and content [RAD 1.7D]
 | Fonds 	| Series 	| Files 	| Items 	|

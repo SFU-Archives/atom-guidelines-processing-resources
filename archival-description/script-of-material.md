@@ -1,4 +1,4 @@
-###### [SFU AtoM Implementation Guidelines](../README.md) `>` [Archival description](overview.md) `>` [Notes area](overview.md#notes-area)
+###### [SFU AtoM Guidelines](../README.md) `>` [Archival description](overview.md) `>` [Notes area](overview.md#notes-area)
 
 # Script of material [RAD 1.8B14]
 | Fonds 	| Series 	| Files 	| Items 	|

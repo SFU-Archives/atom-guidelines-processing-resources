@@ -1,4 +1,4 @@
-###### [SFU AtoM Implementation Guidelines](../README.md)
+###### [SFU AtoM Guidelines](../README.md)
 
 # Archival Description Data Entry
 [SFU AtoM](https://atom.archives.sfu.ca) follows the [Canadian Rules for Archival Description (RAD)](http://www.cdncouncilarchives.ca/archdesrules.html) and uses the RAD data entry template for **Archival description** records.

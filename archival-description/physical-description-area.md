@@ -1,4 +1,4 @@
-###### [SFU AtoM Implementation Guidelines](../README.md) `>` [Archival description](overview.md) `>` [Physical description area](overview.md#physical-description-area)
+###### [SFU AtoM Guidelines](../README.md) `>` [Archival description](overview.md) `>` [Physical description area](overview.md#physical-description-area)
 
 # Physical description area [RAD 1.5
 | Fonds 	| Series 	| Files 	| Items 	|

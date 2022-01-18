@@ -1,4 +1,4 @@
-###### [SFU AtoM Implementation Guidelines](../README.md) `>` [Archival description](overview.md) `>` [Notes area](overview.md#notes-area)
+###### [SFU AtoM Guidelines](../README.md) `>` [Archival description](overview.md) `>` [Notes area](overview.md#notes-area)
 
 # Language [RAD 1.8B14]
 | Fonds 	| Series 	| Files 	| Items 	|
@@ -10,7 +10,7 @@
 - Include `English` even though this applies to most our of holdings.
 
 Rationale:
-- This information will be included in our descriptions that are exported to multi-language union list databases.
+- This information will be included in our descriptions that may be exported to multi-language union list databases.
 
 ---
 ###### [<< Previous: Arrangement](arrangement.md) `|` [Next: Script of material >>](script-of-material.md)

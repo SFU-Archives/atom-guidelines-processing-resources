@@ -1,4 +1,4 @@
-###### [SFU AtoM Implementation Guidelines](../README.md) `>` [Archival description](overview.md) `>` [Edition area](overview.md#edition-area)
+###### [SFU AtoM Guidelines](../README.md) `>` [Archival description](overview.md) `>` [Edition area](overview.md#edition-area)
 
 # Edition Area
 In RAD, the **Edition area** is only for **item-level** description, used to "record statements relating to versions of items existing in two or more versions or states in single or multiple copies" (RAD 1.2A1). The Archives does not use these fields.

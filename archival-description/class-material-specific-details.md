@@ -1,4 +1,4 @@
-###### [SFU AtoM Implementation Guidelines](../README.md) `>` [Archival description](overview.md) `>` [Class of material specific details area](overview.md#class-of-material-specific-details-area)
+###### [SFU AtoM Guidelines](../README.md) `>` [Archival description](overview.md) `>` [Class of material specific details area](overview.md#class-of-material-specific-details-area)
 
 # Class of Material Specific Details Area [RAD 1.3]
 | Fonds 	| Series 	| Files 	| Items 	|

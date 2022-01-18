@@ -1,4 +1,4 @@
-###### [SFU AtoM Implementation Guidelines](../README.md) `>` [Archival description](overview.md) `>` [Dates of creation area](overview.md#dates-of-creation-area)
+###### [SFU AtoM Guidelines](../README.md) `>` [Archival description](overview.md) `>` [Dates of creation area](overview.md#dates-of-creation-area)
 
 # Dates of creation area [RAD 1.4]
 | Fonds 	| Series 	| Files 	| Items 	|

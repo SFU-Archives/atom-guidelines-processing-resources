@@ -97,8 +97,12 @@ Series with known restrictions include XXX.
 
 The bulk of the files are open with no restrictions. There are XXX main exceptions. DESCRIBE_EXCEPTIONS
 
+Access restrictions may apply. See the file / item list and the note on restrictions at the fonds level for more detail.
+
 
 ***** Terms governing use, reproduction, and publication *****
+Most records in the fonds are subject to copyright, but copyright ownership is mixed.
+
 [university records]
 Copyright in records authored by SFU employees belongs to SFU. The Archives provides access to these materials under a Creative Commons Attribution-NonCommercial license (CC BY-NC). Users are free to copy, share and adapt the materials as they like provided they credit SFU as the creator, indicate any changes they have made, and use the works for a non-commercial purpose. All requests for commercial use should be made in writing to SFU Archives.
 
@@ -123,14 +127,19 @@ The pdf version of this finding aid includes XXX appendices:
 * Appendix B: TITLE
 
 ***** Associated materials *****
+For other records relating to XXXX, see XXXX
 
+For other records held by SFU relating to XXXX, see the links below in Related materials: DESCRPTION.
 
 ***** Related materials *****
 
 
 ***** Accruals *****
 No further accruals are expected.
+
 Further accruals are expected.
+
+Additional material has been accessioned but not yet processed (as of DATE: XX m., YYYY-YYYY). Consult the reference archivist for more information; restrictions may apply. Further accruals are expected.
 
 
 ***** Physical description *****
