@@ -21,7 +21,8 @@ The following list shows the **mandatory** (MA) and **recommended** (RE) element
 
 | Mandatory elements | Recommended elements |
 |:-----   |:----- |
-| - Title proper
+|
+- Title proper
 - GMD
 - Source of title proper
 - Level of description
