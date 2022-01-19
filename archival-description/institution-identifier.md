@@ -1,6 +1,6 @@
 ###### [SFU AtoM Guidelines](../README.md) `>` [Archival description](overview.md) `>` [Control area](overview.md#control-area)
 
-# Institutional identifier
+# Institution identifier
 | Fonds 	| Series 	| Files 	| Items 	|
 |:-----:	|:------:	|:-----:	|:-----:	|
 |   NR    |   NR    |   NR  	|   NR  	|
@@ -14,7 +14,7 @@ Not used by SFU Archives.
 
 
 ---
-###### [<< Previous: Access points](access-points.md) `|` [Next: Institution identifier >>](institution-identifier.md)
+###### [<< Previous: Description identifier](description-identifier.md) `|` [Next: Rules or conventions >>](rules-or-conventions.md)
 ---
 ###### Last updated: Jan 18, 2022
 ###### MA = Mandatory `|` RE = Recommended `|` OP = Optional `|` NA = Not applicable `|` NR = Not recommended
