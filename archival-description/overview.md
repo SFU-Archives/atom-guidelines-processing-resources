@@ -3,19 +3,19 @@
 # Archival Description Data Entry
 [SFU AtoM](https://atom.archives.sfu.ca) follows the [Canadian Rules for Archival Description (RAD)](http://www.cdncouncilarchives.ca/archdesrules.html) and uses the RAD data entry template for **Archival description** records.
 
-This page lists each AtoM field in its order of appearance and its **obligation status** (mandatory or not) at each level of description. Field names link to individual entries that provide more detailed guidance.
+This page lists each AtoM field in its order of appearance and gives its **obligation status** at each level of description. Field names link to individual entries that provide more detailed guidance.
 
-These guidelines were initially prepared by SFU Archives in 2015 in Word / pdf form. They were reviewed with minor revisions and reformatting for this GitHub site. The guidelines reflect the Archives' decisions and choices, and SFU Special Collections' practices may diverge in places.
+These guidelines were initially prepared by SFU Archives in 2015 in Word / pdf form. They were reviewed with minor revisions and reformatting for this GitHub site in 2022. The guidelines reflect the Archives' decisions and choices; SFU Special Collections' practices may diverge in places.
 
 Key to **obligation status** abbreviations:
-- MA = Mandatory; core field must be entered.
-- RE = Required; use if aiming at a full description.
-- IA = If applicable; required if the element applies to the particular records.
-- OP = Optional; use for more detail if desired.
+- MA = Mandatory – core field, must be entered.
+- RE = Required – use if aiming at a full description.
+- IA = If applicable – required if the element applies to the particular records under description.
+- OP = Optional – use for more detail if desired.
 - NA = Not applicable at the indicated level of description; do not use.
-- DN = Do not use; Archives' policy decision to not use.
+- DN = Do not use – reflect an Archives' policy decision.
 
-Note that the Archives typically aims a **full** description only at the **fonds** and **series** levels; at the **file** and **item** levels we generally provide only **partial** descriptions (= core set of **mandatory** fields). For a more visual representation, download the [Archival Description Checklist: Obligation Status by Level of Description (pdf)](../downloads/checklist-obligation-status.pdf).
+Note that the Archives typically aims a **full** description only at the fonds and series levels; **we typically provide only partial descriptions at the file and item levels** (= core set of mandatory fields). See the entry for [Level of description](level-of-description.md). For a more visual representation, download the [Archival Description Checklist: Obligation Status by Level of Description (pdf)](../downloads/checklist-obligation-status.pdf).
 
 ### Contents
 - [Title and statement of responsibility area](#title-area)
@@ -28,6 +28,7 @@ Note that the Archives typically aims a **full** description only at the **fonds
 - [Access points](#access-points)
 - [Control area](#control-area)
 - [Rights area](#rights-area)
+- [Physical storage](#physical-storage)
 - [Administration area](#administration-area)
 
 ### Title and statement of responsibility area
@@ -87,7 +88,7 @@ Note that the Archives typically aims a **full** description only at the **fonds
 | [Immediate source of acquisition](immediate-source-of-acquisition.md) 	| DN 	| DN 	| DN 	| DN 	|
 | [Arrangement](arrangement.md) 	| IA 	| IA 	| OP 	| OP 	|
 | [Language of material](language-of-material.md) 	| MA 	| MA 	| MA 	| MA 	|
-| [Script of material](script-of-material.md) 	| DN 	| DN 	| DN 	| DN 	|
+| [Script of material](script-of-material.md) 	| OP 	| OP 	| OP 	| OP 	|
 | [Language and script notes](language-and-script-notes.md) 	| IA 	| IA 	| OP 	| OP 	|
 | [Location of originals](location-of-originals.md) 	| OP 	| OP 	| OP 	| OP 	|
 | [Availability of other formats](availability-of-other-formats.md) 	| IA 	| IA 	| OP 	| OP 	|
@@ -130,7 +131,7 @@ Note that the Archives typically aims a **full** description only at the **fonds
 | <a name="rights-area"><b>Rights area</b></a>| <b>Fonds</b> | <b>Series</b> | <b>File</b> | <b>Item</b> |
 | [Rights statement](rights-area.md) 	| OP	| OP 	| IA 	| IA	|
 | <br>
-| <a name="rights-area"><b>Link to physical storage</b></a>| <b>Fonds</b> | <b>Series</b> | <b>File</b> | <b>Item</b> |
+| <a name="physical-storage"><b>Link to physical storage</b></a>| <b>Fonds</b> | <b>Series</b> | <b>File</b> | <b>Item</b> |
 | [Physical storage](physical-storage.md) 	| DN	| DN 	| MA 	| MA	|
 | <br>
 | <a name="administration-area"><b>Administration area</b></a>| <b>Fonds</b> | <b>Series</b> | <b>File</b> | <b>Item</b> |
