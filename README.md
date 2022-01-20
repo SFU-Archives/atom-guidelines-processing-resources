@@ -5,7 +5,7 @@ This site provides guidelines for the use of [SFU AtoM](https://atom.archives.sf
 
  SFU Archives and SFU Special Collections are separate institutions. As joint users of a shared resource, we try to align our practices to ensure consistency throughout SFU AtoM. But practices may sometimes diverge, and some documentation may pertain more to one unit than the other.
 
- This site is a work-in-progress and some pages / links may not yet be completed.
+ This site is a work-in-progress and a number of pages / links are still in preparation.
 
 ### AtoM data entry guidelines
 - [Archival descriptions](archival-description/overview.md)
@@ -16,8 +16,8 @@ This site provides guidelines for the use of [SFU AtoM](https://atom.archives.sf
 ### Import file / item lists
 - [AtoM csv import templates (link)](https://wiki.accesstomemory.org/wiki/Resources/CSV_templates)
 - [Apps for converting Excel file lists to AtoM csv templates](resources/file-item-lists.md)
-    - [Online AtoM Import app](resrouces/online-atom-import-app.md) (web-based app written in R).
-    - [Excel2AtoM FileMaker utility](resources/atom2excel-utility.md) (standalone FileMaker app).
+    - Online AtoM Import app (web-based app written in R).
+    - Excel2AtoM FileMaker utility (standalone FileMaker app).
 
 ### Other resources for arrangement and description
 - [Archival Processing Checklist (SFU Archives)](resources/archival-processing-checklist.md).

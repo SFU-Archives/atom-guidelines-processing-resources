@@ -13,14 +13,14 @@ The Archives has developed two different utilities for this purpose: the [Online
 - Both apps will output an AtoM-ready csv import file. They use similar but different Excel templates for listing files and items; **always use only the template appropriate to the utility.**
 
 ### Online AtoM Import App
-- [Description / instructions](online-atom-import-app.md)
-- [Excel import template (download)](../downloads/online-atom-import-app.zip)
-- [Link to online app (on the Archives' shinyapps site)](https://sfuarchives.shinyapps.io/atom_import/)
+- Description / instructions (in preparation)
+- Excel import template (in preparation)
+- Link to online app (on the Archives' shinyapps site (in preparation)
 - [Developer's GitHub page](https://github.com/kpoloney/atom_import_template)
 
 ### FileMaker Excel2AtoM Utility
-- [Descripton / instructions](excel2atom-utility.md)
-- [Excel import template + FileMaker database](../downloads/excel2atom-utility.zip)
+- Descripton / instructions (in preparation)
+- Excel import template + FileMaker database (in preparation)
 
 ---
-###### Last updated: Jan 10, 2022
+###### Last updated: Jan 22, 2022
