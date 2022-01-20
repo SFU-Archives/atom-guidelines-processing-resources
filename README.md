@@ -9,7 +9,7 @@ This site provides guidelines for the use of [SFU AtoM](https://atom.archives.sf
 
 ### AtoM data entry guidelines
 - [Archival descriptions](archival-description/overview.md)
-- Authority records(in progress)
+- Authority records (in progress)
 - [Description template and boilerplate text (text file)](downloads/description-template.txt)
 - Note that neither Archives nor Special Collections currently use the AtoM **Accessions module**.
 
@@ -21,11 +21,13 @@ This site provides guidelines for the use of [SFU AtoM](https://atom.archives.sf
 
 ### Other resources for arrangement and description
 - [Archival Processing Checklist (SFU Archives)](resources/archival-processing-checklist.md).
-- [Extent Calculator](resources/extent-calculator.md).
-- [Admin History Data template (description page](resources/admin-history-data-template.md) | ([Word doc](downloads/admin-history-data-template.docx) | [pdf example](downloads/admin-history-data-example.pdf)).
+- [Extent Calculator](resources/extent-calculator.md)
+- Admin History Data template – Description page | ([Word doc](downloads/admin-history-data-template.docx) | [pdf example](downloads/admin-history-data-example.pdf)
 
 ### AIS database documentation
-The Archives' AIS (Archives Information System) is a custom FileMaker database to support the department's programs and functions. User and technical documentation is maintained on the department's internal wiki, accessible only to SFU Archives' staff (links below will only work if you are logged in on the wiki). The **Processing Projects** table in the **Archives** module supports activities involved in arrangement and description (removal of processed boxes from the storage system; creation of new containers, objects, and AIPs; creation of standardized statistical and project reports).
+The Archives' AIS (Archives Information System) is a custom FileMaker database to support the department's programs and functions. User and technical documentation is maintained on the department's internal wiki, accessible only to SFU Archives' staff (links below will only work if you are logged in on the wiki).
+
+The `Processing Projects` table in the `Archives module` supports activities involved in arrangement and description, e.g. removal of processed boxes from the storage system; creation of new containers, objects, and AIPs; creation of standardized statistical and project reports.
 - [AIS Documentation](https://wiki.its.sfu.ca/departments/archives/index.php/AIS_User_Documentation).
 - [Processing Projects](https://wiki.its.sfu.ca/departments/archives/index.php/Processing_Projects).
 
