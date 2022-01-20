@@ -16,13 +16,14 @@ This site provides guidelines for the use of [SFU AtoM](https://atom.archives.sf
 ### Import file / item lists
 - [AtoM csv import templates (link)](https://wiki.accesstomemory.org/wiki/Resources/CSV_templates)
 - [Apps for converting Excel file lists to AtoM csv templates](resources/file-item-lists.md)
-    - Online AtoM Import app (web-based app written in R).
-    - Excel2AtoM FileMaker utility (standalone FileMaker app).
+    - Online AtoM Import app (web-based app written in R)
+    - Excel2AtoM FileMaker utility (standalone FileMaker app)
 
 ### Other resources for arrangement and description
 - [Archival Processing Checklist (SFU Archives)](resources/archival-processing-checklist.md).
 - [Extent Calculator](resources/extent-calculator.md)
-- Admin History Data template – Description page | ([Word doc](downloads/admin-history-data-template.docx) | [pdf example](downloads/admin-history-data-example.pdf)
+- Admin History Data template – description page | [Word doc](downloads/admin-history-data-template.docx) | [pdf example](downloads/admin-history-data-example.pdf)
+- [Finding aid appendices – description page](resources/finding-aid-appendices.md) | [Word template](downloads/finding-aid-appdenices.docx)
 
 ### AIS database documentation
 The Archives' AIS (Archives Information System) is a custom FileMaker database to support the department's programs and functions. User and technical documentation is maintained on the department's internal wiki, accessible only to SFU Archives' staff (links below will only work if you are logged in on the wiki).
