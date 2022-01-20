@@ -135,7 +135,7 @@ Note that the Archives typically aims a **full** description only at the fonds a
 | [Physical storage](physical-storage.md) 	| DN	| DN 	| MA 	| MA	|
 | <br>
 | <a name="administration-area"><b>Administration area</b></a>| <b>Fonds</b> | <b>Series</b> | <b>File</b> | <b>Item</b> |
-| Display standard (administration-area.md#display-standard) 	| IA 	|  IA	| IA 	|  IA	|
+| Display standard (administration-area.md#display-standard) 	| DN 	|  DN	| DN 	|  DN	|
 | Publication status (administration-area.md#publication-status) 	| MA 	|  MA	| MA 	|  MA	|
 
 ---
