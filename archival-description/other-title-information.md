@@ -4,12 +4,12 @@
 
 | Fonds 	| Series 	| Files 	| Items 	|
 |:-----:	|:------:	|:-----:	|:-----:	|
-|   NR    |   NR    |   NR  	|   NR  	|
+|   DN    |   DN    |   DN  	|   DN  	|
 
-Do not use this field.
+Not used by SFU Archives.
 
 ---
 ###### [<< Previous: Parallel titles](parallel-titles).md) `|` [Next: Statement of responsibility >>](statement-of-responsibility.md)
 ---
 ###### Last updated: Dec 22, 2021
-###### MA = Mandatory `|` RE = Recommended `|` OP = Optional `|` NA = Not applicable `|` NR = Not recommended
+###### MA = Mandatory `|` RE = Required for full description `|` IA = Required if applicable `|` OP = Optional `|` NA = Not applicable `|` DN = Do not use

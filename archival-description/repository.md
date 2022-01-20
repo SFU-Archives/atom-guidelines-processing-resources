@@ -4,7 +4,7 @@
 
 | Fonds 	| Series 	| Files 	| Items 	|
 |:-----:	|:------:	|:-----:	|:-----:	|
-|   MA    |   NR    |   NR  	|   NR  	|
+|   MA    |   DN    |   DN  	|   DN  	|
 
 There is no RAD rule for this element.
 
@@ -21,4 +21,4 @@ If we get a use case (e.g. material from the same fonds held in different reposi
 ###### [<< Previous: Level of description](level-of-description.md) `|` [Next: Identifier >>](identifier.md)
 ---
 ###### Last updated: Dec 22, 2021
-###### MA = Mandatory `|` RE = Recommended `|` OP = Optional `|` NA = Not applicable `|` NR = Not recommended
+###### MA = Mandatory `|` RE = Required for full description `|` IA = Required if applicable `|` OP = Optional `|` NA = Not applicable `|` DN = Do not use

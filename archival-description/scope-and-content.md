@@ -3,13 +3,13 @@
 # Scope and content [RAD 1.7D]
 | Fonds 	| Series 	| Files 	| Items 	|
 |:-----:	|:------:	|:-----:	|:-----:	|
-|   MA    |   MA    |   OP  	|   OP  	|
+|   RE    |   RE    |   RE  	|   RE  	|
 
-This element is **mandatory** at the **fonds** and **series** level.
+**Required** at the **fonds** and **series** level.
 - Past practices sometimes omitted it as sub- and sub-sub-series levels, but you should include it at all series levels.
 
-The element is optional at the **file** and **item** levels.
-- The Archives does not typically include it at these lower levels.
+Only include at the **file** and **item** levels if you are aiming at a full description.
+- The Archives does not typically include it at these lower levels (partial description)
 - Use case for inclusion: description of non-textual items (e.g. films).
 
 Following RAD, include the following elements:
@@ -48,4 +48,4 @@ Fonds is arranged into the NN series:
 ###### [<< Previous: Scope and content >>](scope-and-content.md) `|` [Next: Physical condition note >>](physical-condition.md)
 ---
 ###### Last updated: Jan 11, 2022
-###### MA = Mandatory `|` RE = Recommended `|` OP = Optional `|` NA = Not applicable `|` NR = Not recommended
+###### MA = Mandatory `|` RE = Required for full description `|` IA = Required if applicable `|` OP = Optional `|` NA = Not applicable `|` DN = Do not use

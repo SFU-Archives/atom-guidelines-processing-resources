@@ -1,9 +1,9 @@
-###### [SFU AtoM Guidelines](../README.md) `>` [Archival description](overview.md) `>` [Notes area](overview.md#notes-area)
+###### [SFU AtoM Guidelines](../README.md) `>` [Archival description](overview.md) `>` [Notes area](overview.md#notes-area) `|` [Key to obligation status](key-to-obligation-status.md)
 
 # Accruals [RAD 1.8B19]
 | Fonds 	| Series 	| Files 	| Items 	|
 |:-----:	|:------:	|:-----:	|:-----:	|
-|   RE    |   OP    |   NR  	|   NR  	|
+|   RE    |   RE    |   DN  	|   DN  	|
 
 At the **fonds** or **series** levels, indicate whether or not future accruals are expected. At the **fonds** level, indicate if there are backlog accessions not yet processed.
 
@@ -21,4 +21,4 @@ Do not use at the **file** and **item** levels.
 ###### [<< Previous: Related materials](related-materials.md) `|` [Next: Other notes >>](other-notes.md)
 ---
 ###### Last updated: Jan 17, 2022
-###### MA = Mandatory `|` RE = Recommended `|` OP = Optional `|` NA = Not applicable `|` NR = Not recommended
+###### MA = Mandatory `|` RE = Required for full description `|` IA = Required if applicable `|` OP = Optional `|` NA = Not applicable `|` DN = Do not use

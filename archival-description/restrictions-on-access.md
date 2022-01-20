@@ -12,11 +12,11 @@ Use for access restrictions arising from donor, privacy, confidentiality or phys
 ## Fonds and series level
 At the **fonds** and **series** level, make a narrative note.
 
-This violates RAD's "non-repetition" rule, i.e. the injunction not to repeat information at lower levels if it has already been provided at a higher level.
+To a certain extent, this violates RAD's "non-repetition" rues, which states not to repeat information at lower levels if it has already been provided at a higher level.
 
-The main rationale here is that awareness of restrictions is critical for researchers, but it is likely that many will come to a series directly via search results in AtoM rather than proceeding from the "general to the specific" from a parent fonds description. Some repetition on this element therefore seems warranted.
+The main rationale here is that awareness of restrictions is critical for researchers. It is likely that many will come to a description directly from AtoM search results rather than proceeding from the "general to the specific" from a parent fonds description. Some repetition on this element therefore seems warranted.
 
-Try to minimize the amount of repetition by referring back to the **fonds** description, e.g. when all files are "pending review." But if there are **known** restrictions at the series level, highlight these specificallyl
+Try to minimize the amount of repetition by referring back to the **fonds** description, e.g. when all files are "pending review." But if there are **known** restrictions at the series level, highlight these specifically.
 
 
 ## File and item level
@@ -28,9 +28,7 @@ At the **file** and **item** levels, use the following terms:
 - `Restricted in whole` = file / item can only be accessed via research agreement.
 - `Closed` = file / item can only be accessed by SFU staff for an SFU business purpose (typically because it contains legal advice).
 
-You can elaborate with more narrative if required.
-- But be aware that a narrative note will not display attractively in file or item lists in reports and finding aids.
-- Narrative notes on restrictions should be avoided at this level.
+Narrative notes on restrictions should be avoided at this level: text will not display attractively in file or item lists in reports and finding aids.
 
 ## Informal access reviews
 Reviews of `pending review` files and items should be documented in the general [Rights](rights.md) field.
@@ -50,4 +48,4 @@ Reviews of `pending review` files and items should be documented in the general 
 
 ---
 ###### Last updated: Jan 17, 2022
-###### MA = Mandatory `|` RE = Recommended `|` OP = Optional `|` NA = Not applicable `|` NR = Not recommended
+###### MA = Mandatory `|` RE = Required for full description `|` IA = Required if applicable `|` OP = Optional `|` NA = Not applicable `|` DN = Do not use

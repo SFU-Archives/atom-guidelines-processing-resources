@@ -22,4 +22,4 @@ Use these fields only at the **item** level only with items of the appropriate G
 ###### [<< Previous: Edition area](edition-area.md) `|` [Next: Dates of creation area >>](dates-of-creation-area.md)
 ---
 ###### Last updated: Jan 11, 2022
-###### MA = Mandatory `|` RE = Recommended `|` OP = Optional `|` NA = Not applicable `|` NR = Not recommended
+###### MA = Mandatory `|` RE = Required for full description `|` IA = Required if applicable `|` OP = Optional `|` NA = Not applicable `|` DN = Do not use

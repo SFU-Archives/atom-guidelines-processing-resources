@@ -58,4 +58,4 @@ Include the following elements for the full narrative:
 
 ---
 ###### Last updated: Jan 11, 2022
-###### MA = Mandatory `|` RE = Recommended `|` OP = Optional `|` NA = Not applicable `|` NR = Not recommended
+###### MA = Mandatory `|` RE = Required for full description `|` IA = Required if applicable `|` OP = Optional `|` NA = Not applicable `|` DN = Do not use

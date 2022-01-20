@@ -6,7 +6,7 @@ In RAD, the **Edition area** is only for **item-level** description, used to "re
 ## Edition statement [RAD 1.2B]
 | Fonds 	| Series 	| Files 	| Items 	|
 |:-----:	|:------:	|:-----:	|:-----:	|
-|   NA    |   NA    |   NA  	|   NR  	|
+|   NA    |   NA    |   NA  	|   DN  	|
 
 Do not use this field.
 
@@ -18,7 +18,7 @@ Rationale:
 ## Statement of responsibility relating to the edition [RAD 1.2B]
 | Fonds 	| Series 	| Files 	| Items 	|
 |:-----:	|:------:	|:-----:	|:-----:	|
-|   NA    |   NA    |   NA  	|   NR  	|
+|   NA    |   NA    |   NA  	|   DN  	|
 
 Do not use this field.
 
@@ -28,4 +28,4 @@ The Archives uses [Date events](dates-of-creation-area.md) to capture statements
 ###### [<< Previous: Alternative identifier](alternative-identifier.md) `|` [Next: Class of material specific details area >>](class-materials-specific-details.md)
 ---
 ###### Last updated: Jan 10, 2022
-###### MA = Mandatory `|` RE = Recommended `|` OP = Optional `|` NA = Not applicable `|` NR = Not recommended
+###### MA = Mandatory `|` RE = Required for full description `|` IA = Required if applicable `|` OP = Optional `|` NA = Not applicable `|` DN = Do not use

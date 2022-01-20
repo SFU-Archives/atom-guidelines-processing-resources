@@ -4,7 +4,7 @@
 
 | Fonds 	| Series 	| Files 	| Items 	|
 |:-----:	|:------:	|:-----:	|:-----:	|
-|   MA    |   MA    |   RE  	|   OP  	|
+|   MA    |   MA    |   IA  	|   IA  	|
 
 There is no RAD rule for this element.
 
@@ -17,7 +17,7 @@ Do not use the `Generate identifier` link in AtoM to automatically assign the re
 
 At aggregate levels (fonds, series) obligation is **mandatory**.
 
-At the file level, obligation is **recommended**.
+At the file level, obligation is **required if applicable**.
 - It should only be omitted in exceptional circumstances where the creator's original code is used in place of the Archives' normal reference code.
 - For example, photographic materials in three fonds (see series [F-17-1](https://atom.archives.sfu.ca/f-17-1), [F-18-1](https://atom.archives.sfu.ca/f-18-1), [F-61-1](https://atom.archives.sfu.ca/f-16-1)) will eventually use the creator's numbering scheme as the `Identifier` at the file level (= one contact sheet) in order to simplify digitization and upload to AtoM, as well as reference requests.
 
@@ -32,4 +32,4 @@ Assess DIP upload scenarios on a case-by-case basis:
 ###### [<< Previous: Repository](repository.md) `|` [Next: Alternative identifier >>](alternative-identifier.md)
 ---
 ###### Last updated: Jan 10, 2022
-###### MA = Mandatory `|` RE = Recommended `|` OP = Optional `|` NA = Not applicable `|` NR = Not recommended
+###### MA = Mandatory `|` RE = Required for full description `|` IA = Required if applicable `|` OP = Optional `|` NA = Not applicable `|` DN = Do not use

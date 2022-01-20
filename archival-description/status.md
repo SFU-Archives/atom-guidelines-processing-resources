@@ -3,11 +3,11 @@
 # Status
 | Fonds 	| Series 	| Files 	| Items 	|
 |:-----:	|:------:	|:-----:	|:-----:	|
-|   MA    |   MA    |   OP  	|   OP  	|
+|   RE    |   RE    |   OP  	|   OP  	|
 
 Not a RAD element.
 
-**Mandatory** at **fonds** and **series** levels, **optional** at lower levels.
+**Required** at **fonds** and **series** levels, **optional** at lower levels.
 
 Select from the list of controlled terms (AtoM `Status` taxonomy):
 - `Provisional` = draft or known to be incomplete
@@ -24,4 +24,4 @@ It is fine to publish a description (via the [Publication status](publication-st
 ###### [<< Previous: Rules of conventions](rules-or-conventions.md) `|` [Next: Level of detail >>](level-of-detail.md)
 ---
 ###### Last updated: Jan 18, 2022
-###### MA = Mandatory `|` RE = Recommended `|` OP = Optional `|` NA = Not applicable `|` NR = Not recommended
+###### MA = Mandatory `|` RE = Required for full description `|` IA = Required if applicable `|` OP = Optional `|` NA = Not applicable `|` DN = Do not use

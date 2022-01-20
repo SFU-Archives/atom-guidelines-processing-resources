@@ -3,7 +3,7 @@
 # Availability of other formats [RAD 1.8B15b]
 | Fonds 	| Series 	| Files 	| Items 	|
 |:-----:	|:------:	|:-----:	|:-----:	|
-|   OP    |   OP    |   OP  	|   OP  	|
+|   IA    |   IA    |   OP  	|   OP  	|
 
 The main use cases relate to units for which the Archives has made **access** or **preservation** copies of the origins, especially where the copies are in digital form.
 
@@ -23,4 +23,4 @@ Use in addition the [Restrictions on access](restrictions-on-access.md) field if
 ###### [<< Previous: Location of originals](location-of-originals.md) `|` [Next: Restrictions on access >>](restrictions-on-access.md)
 ---
 ###### Last updated: Jan 17, 2022
-###### MA = Mandatory `|` RE = Recommended `|` OP = Optional `|` NA = Not applicable `|` NR = Not recommended
+###### MA = Mandatory `|` RE = Required for full description `|` IA = Required if applicable `|` OP = Optional `|` NA = Not applicable `|` DN = Do not use

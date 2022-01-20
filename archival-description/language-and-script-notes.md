@@ -3,12 +3,16 @@
 # Language and script notes [RAD 1.8B14]
 | Fonds 	| Series 	| Files 	| Items 	|
 |:-----:	|:------:	|:-----:	|:-----:	|
-|   OP    |   OP    |   OP  	|   OP  	|
+|   IA    |   IA    |   OP  	|   OP  	|
 
-**Optional** at all levels. Where desired, use to provide a narrative note to elaborate on issues relating to selected [languages](language.md) and [scripts](script-of-material.md).
+Use **if applicable** at the **fonds** and **series** levels, **optional** at lower levels
+**Optional** at all levels.
+
+Use case:
+- Unit includes materials in non-English language, use the note field to indicate their location (series or files) if it is not obvious.
 
 ---
 ###### [<< Previous: Script of material](script-of-material.md) `|` [Next: Location of originals >>](location-of-originals.md)
 ---
-###### Last updated: Jan 12, 2022
-###### MA = Mandatory `|` RE = Recommended `|` OP = Optional `|` NA = Not applicable `|` NR = Not recommended
+###### Last updated: Jan 19, 2022
+###### MA = Mandatory `|` RE = Required for full description `|` IA = Required if applicable `|` OP = Optional `|` NA = Not applicable `|` DN = Do not use

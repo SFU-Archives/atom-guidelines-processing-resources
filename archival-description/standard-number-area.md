@@ -4,7 +4,7 @@
 
 | Fonds 	| Series 	| Files 	| Items 	|
 |:-----:	|:------:	|:-----:	|:-----:	|
-|   NA    |   NA    |   NA  	|   NR  	|
+|   NA    |   NA    |   NA  	|   DN  	|
 
 Not used by SFU Archives.
 
@@ -15,4 +15,4 @@ In RAD, this element only applies at the **item** level to international standar
 ###### [<< Previous: Other notes](other-notes.md) `|` [Next: Access points >>](access-points.md)
 ---
 ###### Last updated: Jan 18, 2022
-###### MA = Mandatory `|` RE = Recommended `|` OP = Optional `|` NA = Not applicable `|` NR = Not recommended
+###### MA = Mandatory `|` RE = Required for full description `|` IA = Required if applicable `|` OP = Optional `|` NA = Not applicable `|` DN = Do not use

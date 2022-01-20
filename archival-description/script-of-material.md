@@ -15,4 +15,4 @@ Do not select `Latin`.
 ###### [<< Previous: Language](language.md) `|` [Next: Language and script notes >>](language-and-script-notes.md)
 ---
 ###### Last updated: Jan 12, 2022
-###### MA = Mandatory `|` RE = Recommended `|` OP = Optional `|` NA = Not applicable `|` NR = Not recommended
+###### MA = Mandatory `|` RE = Required for full description `|` IA = Required if applicable `|` OP = Optional `|` NA = Not applicable `|` DN = Do not use

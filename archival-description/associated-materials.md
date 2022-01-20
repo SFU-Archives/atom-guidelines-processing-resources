@@ -3,9 +3,9 @@
 # Associated materials [RAD 1.8B18]
 | Fonds 	| Series 	| Files 	| Items 	|
 |:-----:	|:------:	|:-----:	|:-----:	|
-|   OP    |   OP    |   OP  	|   OP  	|
+|   IA    |   IA    |   OP  	|   OP  	|
 
-**Optional** at all levels.
+**Required if applicable** at the **fonds** and **series** levels; **optional** at lower levels.
 
 Use to indicate the existence of related materials held at other institutions.
 
@@ -23,4 +23,4 @@ In the case of materials held at Special Collections, you can also use a [Name a
 ###### [<< Previous: Finding aids](finding-aids.md) `|` [Next: Related materials >>](related-materials.md)
 ---
 ###### Last updated: Jan 17, 2022
-###### MA = Mandatory `|` RE = Recommended `|` OP = Optional `|` NA = Not applicable `|` NR = Not recommended
+###### MA = Mandatory `|` RE = Required for full description `|` IA = Required if applicable `|` OP = Optional `|` NA = Not applicable `|` DN = Do not use

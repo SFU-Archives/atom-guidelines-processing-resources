@@ -38,4 +38,4 @@ A **title** is **mandatory** at all levels of descriptions.
 ###### [Next: Parallel titles >>](parallel-titles.md)
 ---
 ###### Last updated: Jan 11, 2022
-###### MA = Mandatory `|` RE = Recommended `|` OP = Optional `|` NA = Not applicable `|` NR = Not recommended
+###### MA = Mandatory `|` RE = Required for full description `|` IA = Required if applicable `|` OP = Optional `|` NA = Not applicable `|` DN = Do not use

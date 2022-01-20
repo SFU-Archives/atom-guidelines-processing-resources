@@ -1,18 +1,13 @@
 ###### [SFU AtoM Guidelines](../README.md) `>` [Archival description](overview.md) `>` [Title and statement of responsibility area](overview.md#title-area)
 
 # Title notes
-
-| Fonds 	| Series 	| Files 	| Items 	|
-|:-----:	|:------:	|:-----:	|:-----:	|
-|   MA    |   MA    |   OP  	|   OP  	|
-
 At least one **Title note** is required at **fonds** and **series** levels for [Source of title proper](#source-of-title-proper-rad-18b1). Use [Variations in title](#variations-in-title-rad-18b1) for units that have or have been known by more than one name. Use [Parallel titles](#parallel-titles-and-other-information-rad-18b3) only for multi-lingual items that had official titles in multiple languages.
 
 ## Attribution and conjectures [RAD 1.8B6]
 
 | Fonds 	| Series 	| Files 	| Items 	|
 |:-----:	|:------:	|:-----:	|:-----:	|
-|   NR    |   NR    |   NR  	|   NR  	|
+|   DN    |   DN    |   DN  	|   DN  	|
 
 Do not use this type.
 
@@ -20,7 +15,7 @@ Do not use this type.
 
 | Fonds 	| Series 	| Files 	| Items 	|
 |:-----:	|:------:	|:-----:	|:-----:	|
-|   NR    |   NR    |   NR  	|   NR  	|
+|   NA    |   NA    |   NA  	|   DN  	|
 
 Do not use this type.
 
@@ -28,19 +23,21 @@ Do not use this type.
 
 | Fonds 	| Series 	| Files 	| Items 	|
 |:-----:	|:------:	|:-----:	|:-----:	|
-|   NR    |   NR    |   NR  	|   OP  	|
+|   NA    |   NA    |   NA  	|   IA  	|
 
-Rarely used; typically only at the **item** level for publications or grey literature (e.g. reports) that are produced in multi-lingual versions and have different titles in the different languages (e.g. a report issued in both French and English).
+Use at the **item** level if applicable, typically for publications or grey literature (e.g. reports) that are produced in multi-lingual versions and have different titles in the different languages (e.g. a report issued in both French and English).
 
 ## Source of title proper [RAD 1.8B2]
 
 | Fonds 	| Series 	| Files 	| Items 	|
 |:-----:	|:------:	|:-----:	|:-----:	|
-|   MA    |   MA    |   OP  	|   OP  	|
+|   RE    |   RE    |   RE  	|   RE  	|
 
-Use to indicate the basis of the title.
+Use at the **fonds** and **series** levels to indicate the basis of the title.
 - Typically base the [Title](title-proper.md) on the content of the unit or on the creator's original title.
 - Creator's titles are rare above the **file** and **item** levels.
+
+Can be used at the **file** and **item** levels if you are aiming at a **full** description (not typically produced).
 
 **Template text / examples:**
 
@@ -52,15 +49,15 @@ Use to indicate the basis of the title.
 
 | Fonds 	| Series 	| Files 	| Items 	|
 |:-----:	|:------:	|:-----:	|:-----:	|
-|   NR    |   NR    |   NR  	|   NR  	|
+|   DN    |   DN    |   DN  	|   DN  	|
 
-Do not use this type.
+Not used by SFU Archives.
 
 ## Variations in title [RAD 1.8B1]
 
 | Fonds 	| Series 	| Files 	| Items 	|
 |:-----:	|:------:	|:-----:	|:-----:	|
-|   OP    |   OP    |   OP  	|   OP  	|
+|   IA    |   IA    |   IA  	|   IA  	|
 
 Possible use cases include:
 - Archives previously used different titles for the unit (include effective dates).
@@ -79,4 +76,4 @@ If changing the creator's file or item title, give the original title in this no
 ###### [<< Previous: Statement of responsibility](statement-of-responsibility.md) `|` [Next: Level of description >>](level-of-description.md)
 ---
 ###### Last updated: Jan 11, 2022
-###### MA = Mandatory `|` RE = Recommended `|` OP = Optional `|` NA = Not applicable `|` NR = Not recommended
+###### MA = Mandatory `|` RE = Required for full description `|` IA = Required if applicable `|` OP = Optional `|` NA = Not applicable `|` DN = Do not use

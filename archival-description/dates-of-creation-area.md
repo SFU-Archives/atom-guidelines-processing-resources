@@ -14,12 +14,11 @@ For a **collection**, make two entries:
 ## Actor name
 | Fonds 	| Series 	| Files 	| Items 	|
 |:-----:	|:------:	|:-----:	|:-----:	|
-|   RE    |   RE    |   RE  	|   RE  	|
+|   RE    |   IA    |   IA  	|   IA  	|
 
-Always enter at the highest level.
-- When left blank, unit inherits from the parent level.
-
-At lower levels, only enter if different than parent level.
+Always enter at the highest level for the date of creation.
+- Use at lower levels only if `Creator` is different than for the fonds as a whole.
+- When left blank at lower levels, unit inherits from the parent level.
 
 ## Event type
 | Fonds 	| Series 	| Files 	| Items 	|
@@ -37,13 +36,13 @@ Aggregate levels (fonds, series, files):
 At the item level:
 - Select any of the entries in `Event types` taxonomy.
 
-**Outstanding policy issue:**
-- Should Archives "clean up" item-level data relating to production credits for films that were handled as events during AIS migration?
+Note that there is a large volume of item-level legacy data for the Archives:
+- Item-level data relating to production credits for films were handled as events during AIS migration.
 
 ## Place
 | Fonds 	| Series 	| Files 	| Items 	|
 |:-----:	|:------:	|:-----:	|:-----:	|
-|   NR    |   NR    |   NR  	|   NR  	|
+|   DN    |   DN    |   DN  	|   DN  	|
 
 Do not use; capture place as an [Access point](access-points.md) rather than enter here.
 
@@ -89,4 +88,4 @@ Use for narrative information elaborating on date
 
 ---
 ###### Last updated: Jan 11, 2022
-###### MA = Mandatory `|` RE = Recommended `|` OP = Optional `|` NA = Not applicable `|` NR = Not recommended
+###### MA = Mandatory `|` RE = Required for full description `|` IA = Required if applicable `|` OP = Optional `|` NA = Not applicable `|` DN = Do not use

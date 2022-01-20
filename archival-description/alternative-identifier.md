@@ -4,7 +4,7 @@
 
 | Fonds 	| Series 	| Files 	| Items 	|
 |:-----:	|:------:	|:-----:	|:-----:	|
-|   RE    |   RE    |   RE  	|   RE  	|
+|   IA    |   IA    |   IA  	|   IA  	|
 
 There is no RAD rule for this element; use when applicable.
 
@@ -20,4 +20,4 @@ If using, enter data in both sub-fields:
 ###### [<< Previous: Identifier](identifier.md) `|` [Next: Edition area >>](edition-area.md)
 ---
 ###### Last updated: Jan 10, 2022
-###### MA = Mandatory `|` RE = Recommended `|` OP = Optional `|` NA = Not applicable `|` NR = Not recommended
+###### MA = Mandatory `|` RE = Required for full description `|` IA = Required if applicable `|` OP = Optional `|` NA = Not applicable `|` DN = Do not use

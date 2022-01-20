@@ -7,9 +7,9 @@ Apply **access points** to link descriptions to other AtoM entities: subjects, p
 
 | Fonds 	| Series 	| Files 	| Items 	|
 |:-----:	|:------:	|:-----:	|:-----:	|
-|   MA    |   NR    |   NR  	|   NR  	|
+|   MA    |   DN    |   DN  	|   DN  	|
 
-Apply only at the **fonds** level. You should create at least subject access point using terms drawn from the top-level terms of the BC Thesaurus.
+Apply only at the **fonds** level. You should create at least one subject access point using a term drawn from the top-level terms of the [BC Thesaurus](xx).
 - Terms are controlled by AtoM's `Subjects > BC Thesaurus` taxonomy.
 
 Both Archives and Special Collections may develop their own custom subject taxonomies, but these have not yet been fully worked out.
@@ -18,9 +18,11 @@ Both Archives and Special Collections may develop their own custom subject taxon
 
 | Fonds 	| Series 	| Files 	| Items 	|
 |:-----:	|:------:	|:-----:	|:-----:	|
-|   OP    |   OP    |   OP  	|   OP  	|
+|   IA    |   IA    |  IA  	|   IA  	|
 
-**Optional** at all levels. Use to indicate the geographic location in which the records were generated or to which they relate.
+Apply **if applicable** at the most appropriate level(s).
+
+Use to indicate the geographic location in which the records were generated or to which they otherwise relate.
 - **Only use if outside the Lower Mainland.**
 - Terms are controlled by AtoM's `Places` taxonomy.
 
@@ -37,20 +39,20 @@ Both Archives and Special Collections may develop their own custom subject taxon
 
 | Fonds 	| Series 	| Files 	| Items 	|
 |:-----:	|:------:	|:-----:	|:-----:	|
-|   OP    |   OP    |   OP  	|   OP  	|
+|   IA    |   IA    |   IA  	|   IA  	|
 
-**Optional** at all levels.
+Apply **if applicable** at the most appropriate level(s).
 
 AtoM will automatically create a name access point for the entity registered as the [Creator](dates-of-creation-area.md#actor-name).
 
-Create additional access points to indicate the existence of records in the unit that relate to other persons, organizations or families – e.g. **correspondent** or **record subject**.
+Create additional access points to indicate the existence of records in the unit that relate to other persons, organizations or families – e.g. **correspondents** or **record subjects**.
 
 See RAD 21.0B: "All access points must be apparent from the archival description to which they relate."
 - E.g. the name should appear in file title or in series description.
-- Alternatively, use phrasing such as "For the list of correspondents, see Access Points."
+- Alternatively, use phrasing in the [Scope and content](scope-and-content.md) such as "For the list of correspondents, see Access Points."
 
 ---
 ###### [<< Previous: Standard number area](standard-number-area.md) `|` [Next: Description identifier >>](description-identifier.md)
 ---
 ###### Last updated: Jan 18, 2022
-###### MA = Mandatory `|` RE = Recommended `|` OP = Optional `|` NA = Not applicable `|` NR = Not recommended
+###### MA = Mandatory `|` RE = Required for full description `|` IA = Required if applicable `|` OP = Optional `|` NA = Not applicable `|` DN = Do not use

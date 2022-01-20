@@ -3,7 +3,7 @@
 # Rules or conventions
 | Fonds 	| Series 	| Files 	| Items 	|
 |:-----:	|:------:	|:-----:	|:-----:	|
-|   MA    |   NR    |   NR  	|   NR  	|
+|   MA    |   DN    |   DN  	|   DN  	|
 
 Not a RAD element.
 
@@ -18,4 +18,4 @@ Rationale for using:
 ###### [<< Previous: Institution identifier](institution-identifier.md) `|` [Next: Status >>](status.md)
 ---
 ###### Last updated: Jan 18, 2022
-###### MA = Mandatory `|` RE = Recommended `|` OP = Optional `|` NA = Not applicable `|` NR = Not recommended
+###### MA = Mandatory `|` RE = Required for full description `|` IA = Required if applicable `|` OP = Optional `|` NA = Not applicable `|` DN = Do not use

@@ -3,9 +3,10 @@
 # Finding aids [RAD 1.8B17]
 | Fonds 	| Series 	| Files 	| Items 	|
 |:-----:	|:------:	|:-----:	|:-----:	|
-|   OP    |   OP    |   OP  	|   OP  	|
+|   IA    |   IA    |   IA  	|   IA  	|
 
-**Optional** at all levels.
+**Required if applicable** at all levels.
+- But for **files** and **items** use only if you are intend to prepare a full description (not typically required).
 
 Use only if there is something to say.
 - Past practice was to include reference to file or item lists created by the Archives – discontinued.
@@ -28,4 +29,4 @@ The pdf version of this finding aid includes XXX appendices:
 ###### [<< Previous: Terms governing use, reproduction, and publication](terms-governing-use.md) `|` [Next: Associated materials >>](associated-materials.md)
 ---
 ###### Last updated: Jan 17, 2022
-###### MA = Mandatory `|` RE = Recommended `|` OP = Optional `|` NA = Not applicable `|` NR = Not recommended
+###### MA = Mandatory `|` RE = Required for full description `|` IA = Required if applicable `|` OP = Optional `|` NA = Not applicable `|` DN = Do not use

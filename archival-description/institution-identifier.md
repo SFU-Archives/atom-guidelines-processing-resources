@@ -3,7 +3,7 @@
 # Institution identifier
 | Fonds 	| Series 	| Files 	| Items 	|
 |:-----:	|:------:	|:-----:	|:-----:	|
-|   NR    |   NR    |   NR  	|   NR  	|
+|   DN    |   DN    |   DN  	|   DN  	|
 
 Not a RAD element.
 
@@ -16,5 +16,4 @@ Not used by SFU Archives.
 ---
 ###### [<< Previous: Description identifier](description-identifier.md) `|` [Next: Rules or conventions >>](rules-or-conventions.md)
 ---
-###### Last updated: Jan 18, 2022
-###### MA = Mandatory `|` RE = Recommended `|` OP = Optional `|` NA = Not applicable `|` NR = Not recommended
+###### MA = Mandatory `|` RE = Required for full description `|` IA = Required if applicable `|` OP = Optional `|` NA = Not applicable `|` DN = Do not use

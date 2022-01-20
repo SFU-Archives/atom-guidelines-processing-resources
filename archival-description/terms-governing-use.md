@@ -3,11 +3,14 @@
 # Terms governing use, reproduction, and publication [RAD 1.8B16c/d]
 | Fonds 	| Series 	| Files 	| Items 	|
 |:-----:	|:------:	|:-----:	|:-----:	|
-|   MA    |   OP    |   OP  	|   OP  	|
+|   RE    |   RE    |   RE  	|   RE  	|
 
 Use for information relating to copyright in the materials under description.
 
-**Mandatory** at the **fonds** level. Use elsewhere only to give more specific information at the appropriate level.
+**Required** at the **fonds** and **series** level.
+
+Only include at the **file** and **item** levels if you are aiming at a **full** description.
+- The Archives does not typically include it at these lower levels (partial description)
 
 ## Template text / examples
 ### University records
@@ -34,4 +37,4 @@ Use for information relating to copyright in the materials under description.
 
 ---
 ###### Last updated: Jan 17, 2022
-###### MA = Mandatory `|` RE = Recommended `|` OP = Optional `|` NA = Not applicable `|` NR = Not recommended
+###### MA = Mandatory `|` RE = Required for full description `|` IA = Required if applicable `|` OP = Optional `|` NA = Not applicable `|` DN = Do not use
