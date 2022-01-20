@@ -1,8 +1,6 @@
 ###### [SFU AtoM Guidelines](../README.md) `>` [Archival description](overview.md) `>` [Rights area area](overview.md#rights-area)
 
 # Rights area
-<img align="right" width="350" src="../screenshots/create-rights-statement.png">
-
 | Fonds 	| Series 	| Files 	| Items 	|
 |:-----:	|:------:	|:-----:	|:-----:	|
 |   OP    |   OP    |   IA  	|   IA  	|
@@ -21,6 +19,8 @@ It is **optional** to create `Rights statements` at parent `fonds` or `series` l
 The `Rights area` can also be used for other purposes but currently this is the only use by SFU Archives. For previous practice (ca. 2016-2021), see the [Background and legacy data](#background-and-legacy-data) section below.
 
 # Create a Rights statement
+<img align="right" width="350" src="../screenshots/create-rights-statement.png">
+
 Click the `More` at the bottom of the description and from the pop-up menu select `Create new rights`. Enter the following settings.
 - `Basis` = "Copy"
 - `Copyright status` = "Under copyright"
