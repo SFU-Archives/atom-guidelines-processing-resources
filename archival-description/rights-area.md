@@ -41,7 +41,10 @@ Once these settings are applied, users clicking the description's `digital objec
 - Users may download copies for their own private study, research purposes, or other purpose permitted under fair dealing.
 - Any other use of the materials may require the permission of the copyright owner, and it is the user's responsibility to obtain such permissions.
 
-The screen also provides links to the Archives take-down procedures and take-down request form (both in pdf form).
+The user must click the `Agree` button to access the full `digital object`.
+
+The screen also provides links to the Archives' take-down procedures and take-down request form (both in pdf form).
+- The Archives will respect requests from copyright owners to remove their materials from online dissemination.
 
 ## Background and legacy data
 The AtoM `Rights area` provides a set of fields drawn from the [PREMIS Data Dictionary for Preservation Metadata](https://www.loc.gov/standards/premis/). SFU Archives was one of the original sponsors of development of this feature in AtoM, and we began using it ca. 2016.
