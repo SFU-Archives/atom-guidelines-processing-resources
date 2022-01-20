@@ -34,7 +34,6 @@ Only include at the **file** and **item** levels if you are aiming at a **full**
 
 ---
 ###### [<< Previous: Restrictions on access](restrictions-on-access.md) `|` [Next: Finding aids >>](finding-aids.md)
-
 ---
 ###### Last updated: Jan 17, 2022
 ###### MA = Mandatory `|` RE = Required for full description `|` IA = Required if applicable `|` OP = Optional `|` NA = Not applicable `|` DN = Do not use
