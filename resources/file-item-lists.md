@@ -16,7 +16,7 @@ The Archives has developed two different utilities for this purpose: the [Online
 - Description / instructions (in preparation)
 - Excel import template (in preparation)
 - Link to online app (on the Archives' shinyapps site (in preparation)
-- [Developer's GitHub page](https://github.com/kpoloney/atom_import_template)
+- Developer's GitHub page
 
 ### FileMaker Excel2AtoM Utility
 - Descripton / instructions (in preparation)
