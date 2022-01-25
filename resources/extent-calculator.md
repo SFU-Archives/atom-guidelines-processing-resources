@@ -1,7 +1,7 @@
 ###### [SFU AtoM and Archival Processing Guidelines](../README.md)
 
 # Extent Calculator
-<img align="right" width="300" src="../screenshots/extent-calculator.png">
+<img align="right" width="400" src="../screenshots/extent-calculator.png">
 
 The [Extent Calculator](https://sfuarchives.shinyapps.io/extent_calculator/) is an online app created in `R` by Kelsey Poloney, hosted on the Archives' `shinyapps` site.
 - For code documentation, see the [developer's Github page]()
