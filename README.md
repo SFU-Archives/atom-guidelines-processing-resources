@@ -22,7 +22,7 @@ This site provides guidelines for the use of [SFU AtoM](https://atom.archives.sf
 ### Other resources for arrangement and description
 - [Archival Processing Checklist (SFU Archives)](resources/archival-processing-checklist.md).
 - [Extent Calculator – description page](resources/extent-calculator.md) | [Link (online app)](https://sfuarchives.shinyapps.io/extent_calculator/)
-- [Admin History Data template – description page](resources/admin-history-data-templat.md) | [Template (Word doc)](downloads/admin-history-data-template.docx) | [Example (pdf](downloads/admin-history-data-example.pdf)
+- [Admin History Data template – description page](resources/admin-history-data-template.md) | [Template (Word doc)](downloads/admin-history-data-template.docx) | [Example (pdf](downloads/admin-history-data-example.pdf)
 - [Finding aid appendices – description page](resources/finding-aid-appendices.md) | [Template (Word doc))](downloads/finding-aid-appdenices.docx)
 
 ### AIS database documentation
