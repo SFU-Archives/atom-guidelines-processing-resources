@@ -21,16 +21,16 @@ This site provides guidelines for the use of [SFU AtoM](https://atom.archives.sf
 
 ### Other resources for arrangement and description
 - [Archival Processing Checklist (SFU Archives)](resources/archival-processing-checklist.md).
-- [Extent Calculator](resources/extent-calculator.md)
-- Admin History Data template – description page | [Word doc](downloads/admin-history-data-template.docx) | [pdf example](downloads/admin-history-data-example.pdf)
-- [Finding aid appendices – description page](resources/finding-aid-appendices.md) | [Word template](downloads/finding-aid-appdenices.docx)
+- [Extent Calculator – description page](resources/extent-calculator.md) | [Link (online app)](https://sfuarchives.shinyapps.io/extent_calculator/)
+- [Admin History Data template – description page](resources/admin-history-data-templat.md) | [Template (Word doc)](downloads/admin-history-data-template.docx) | [Example (pdf](downloads/admin-history-data-example.pdf)
+- [Finding aid appendices – description page](resources/finding-aid-appendices.md) | [Template (Word doc))](downloads/finding-aid-appdenices.docx)
 
 ### AIS database documentation
 The Archives' AIS (Archives Information System) is a custom FileMaker database to support the department's programs and functions. User and technical documentation is maintained on the department's internal wiki, accessible only to SFU Archives' staff (links below will only work if you are logged in on the wiki).
 
 The `Processing Projects` table in the `Archives module` supports activities involved in arrangement and description, e.g. removal of processed boxes from the storage system; creation of new containers, objects, and AIPs; creation of standardized statistical and project reports.
-- [AIS Documentation](https://wiki.its.sfu.ca/departments/archives/index.php/AIS_User_Documentation).
-- [Processing Projects](https://wiki.its.sfu.ca/departments/archives/index.php/Processing_Projects).
+- [AIS Documentation](https://wiki.its.sfu.ca/departments/archives/index.php/AIS_User_Documentation)
+- [Processing Projects](https://wiki.its.sfu.ca/departments/archives/index.php/Processing_Projects)
 
 ###### Last updated: Jan 22, 2022
 
