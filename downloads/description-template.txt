@@ -147,12 +147,23 @@ GMD is located in series XX
 
 
 ***** Rights *****
-[file level]
-File reviewed for access: MMM DD, YYYY (initials). File includes records containing the personal information of identifiable individuals (employment history). File restricted in whole.`
+Open:
+File reviewed for access (Jan 25, 2022). File is open, no restricted information identified.
 
-File reviewed for access: MMM DD, YYYY (initials). File includes records containing the personal information of identifiable individuals (TYPE_PI). Restricted documents enclosed; the rest of the file is open.
+Open, reading room only:
+File reviewed for access (Jan 25, 2022). File includes records that contain some individuals' personal contact information. File can be accessed onsite in the Archives reading room, but documents containing contact information cannot be photographed and will be redacted in any digital access copies made by Archives.
 
-File reviewed for access: MMM DD, YYYY (initials). No restricted information identified.
+Open with enclosures / readactions:
+File reviewed for access (Jan 25, 2022). The bulk of the file is open. However, a small number of documents (3) contain the personal information of identifiable individuals (student number, social insurance number, personal contact information) or confidential information (legal advice). Restricted documents removed (enclosed) or redacted; the rest of the file is open. Some enclosed / redacted records may be accessed under a Research Agreement, but the confidential materials are closed; consult the reference archivist for more information.
+
+Restricted:
+File reviewed for access (Jan 25, 2022). File includes records that contain the personal information of identifiable individuals (student number, social insurance number, personal contact information). File restricted in whole, but may be accessed under a Research Agreement; consult the reference archivist for more information.
+
+Restricted with enclosures:
+File reviewed for access (Jan 25, 2022). File includes records that contain the personal information of identifiable individuals (student number, social insurance number, personal contact information), as well as restricted confidential information (legal advice). File is restricted in whole. Some parts may be accessed under a Research Agreement, but the records containing confidential information are closed; consult the reference archivist for more information.
+
+Closed:
+File reviewed for access (Jan 25, 2022). File comprises records that contain confidential information (legal advice). File is closed.
 
 
 ***** Rules or conventions *****
