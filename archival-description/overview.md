@@ -48,7 +48,7 @@ Note that the Archives typically aims a **full** description only at the fonds a
 | - [Source of title proper](title-notes.md#source-of-title-proper) 	| MA 	| MA 	| IA 	| IA 	|
 | - [Statements of responsibility](title-notes.md#statements-of-responsibility) 	| NA 	| NA 	| NA 	| DN 	|
 | - [Variations in title](title-notes.md#variations-in-title) 	| IA 	| IA 	| IA 	| IA 	|
-| [Level of description (*)](level-of-description.md) 	| MA 	| MA 	| MA 	| MA 	|
+| [Level of description](level-of-description.md) 	| MA 	| MA 	| MA 	| MA 	|
 | [Repository](repository.md) 	| MA 	| DN 	| DN 	| DN 	|
 | [Identifier](identifier.md) 	| MA 	| MA 	| IA 	| IA 	|
 | [Alternative identifier](alternative-identifier.md) 	| IA 	| IA 	| IA 	| IA 	|
@@ -136,7 +136,7 @@ Note that the Archives typically aims a **full** description only at the fonds a
 | <br>
 | <a name="administration-area"><b>Administration area</b></a>| <b>Fonds</b> | <b>Series</b> | <b>File</b> | <b>Item</b> |
 | [Display standard](administration-area.md#display-standard) 	| DN 	|  DN	| DN 	|  DN	|
-| [Publication status] (administration-area.md#publication-status) 	| MA 	|  MA	| MA 	|  MA	|
+| [Publication status](administration-area.md#publication-status) 	| MA 	|  MA	| MA 	|  MA	|
 
 ---
-###### Last updated: Jan 25, 2022
+###### Last updated: Jan 27, 2022
