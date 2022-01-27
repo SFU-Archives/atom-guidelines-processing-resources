@@ -3,15 +3,14 @@ This site provides guidelines for the use of [SFU AtoM](https://atom.archives.sf
 
 [Access-to-Memory (AtoM)](https://www.accesstomemory.org/en/) is an open-source application for archival description and access. [SFU Archives](https://www.sfu.ca/archives.html) and the [Special Collections and Rare Books](https://www.lib.sfu.ca/about/branches-depts/special-collections) division of [SFU Library](https://www.lib.sfu.ca) maintain a shared AtoM site ([SFU AtoM](https://atom.archives.sfu.ca)), providing a single platform for public access to archival holdings at the university.
 
- SFU Archives and SFU Special Collections are separate institutions. As joint users of a shared resource, we try to align our practices to ensure consistency throughout SFU AtoM. But practices may sometimes diverge, and some documentation may pertain more to one unit than the other.
+ SFU Archives and SFU Special Collections are separate institutions. As joint users of a shared resource, we try to broadly align our practices to ensure consistency throughout SFU AtoM. Most of the documentation on this site was created by the Archives, and Special Collections' practices may sometimes diverge.
 
- This site is a work-in-progress and a number of pages / links are still in preparation.
+ This site is a work-in-progress and pages / links will be added as they are prepared.
 
 ### AtoM data entry guidelines
 - [Archival descriptions](archival-description/overview.md)
 - Authority records (in progress)
 - [Description template and boilerplate text (text file)](downloads/description-template.txt)
-- Note that neither Archives nor Special Collections currently use the AtoM **Accessions module**.
 
 ### Import file / item lists
 - [AtoM csv import templates (link)](https://wiki.accesstomemory.org/wiki/Resources/CSV_templates)
@@ -32,7 +31,7 @@ The `Processing Projects` table in the `Archives module` supports activities inv
 - [AIS Documentation](https://wiki.its.sfu.ca/departments/archives/index.php/AIS_User_Documentation)
 - [Processing Projects](https://wiki.its.sfu.ca/departments/archives/index.php/Processing_Projects)
 
-###### Last updated: Jan 22, 2022
+###### Last updated: Jan 27, 2022
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
