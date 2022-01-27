@@ -90,7 +90,7 @@ With born-digital records, the Archives' practice is to retain the materials in 
 Digitized and born-digital materials may or may not be directly available from the associated description in SFU AtoM, depending on access or copyright restrictions. Materials not directly available online may be delivered by off-line methods. Consult the reference archivist for more information about access to offline digital materials.
 
 
-***** Restrictions on access ***** 
+***** Restrictions on access *****
 The records of DEPARTMENT are university records subject to British Columbia's Freedom of Information and Protection of Privacy Act (FIPPA), and access restrictions may apply to records containing personal information or confidential information (e.g. legal advice). Files marked "pending review" must be reviewed by an archivist prior to release. See the file lists and consult the reference archivist for more information.
 
 Series with known restrictions include XXX.
@@ -129,7 +129,7 @@ The pdf version of this finding aid includes XXX appendices:
 ***** Associated materials *****
 For other records relating to XXXX, see XXXX
 
-For other records held by SFU relating to XXXX, see the links below in Related materials: DESCRPTION.
+For other records held by SFU relating to XXXX, see the links below in Related materials: DESCRIPTION.
 
 ***** Related materials *****
 
@@ -179,7 +179,7 @@ Full [at fonds / series levels]
 
 
 ***** Dates of creation, revision and deletion *****
-Month YYYY : first arrangement and description completed (initials).
+Month YYYY : first arrangement and description completed (Name).
 
 
 ***** Language of description *****
