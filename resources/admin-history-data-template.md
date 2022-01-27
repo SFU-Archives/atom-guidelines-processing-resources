@@ -19,6 +19,6 @@ The Archives will also create a compilation of available forms as a single SFU A
 
 **Downloads:**
 - [Word template](../downloads/admin-history-data-template.docx)
-- [PDF example](../downlods/admin-history-data-example.pdf)
+- [PDF example](../downloads/admin-history-data-example.pdf)
 
-###### Last updated: Jan 25, 2022
+###### Last updated: Jan 27, 2022
