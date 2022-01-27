@@ -3,7 +3,7 @@ This site provides guidelines for the use of [SFU AtoM](https://atom.archives.sf
 
 [Access-to-Memory (AtoM)](https://www.accesstomemory.org/en/) is an open-source application for archival description and access. [SFU Archives](https://www.sfu.ca/archives.html) and the [Special Collections and Rare Books](https://www.lib.sfu.ca/about/branches-depts/special-collections) division of [SFU Library](https://www.lib.sfu.ca) maintain a shared AtoM site ([SFU AtoM](https://atom.archives.sfu.ca)), providing a single platform for public access to archival holdings at the university.
 
- SFU Archives and SFU Special Collections are separate institutions. As joint users of a shared resource, we try to broadly align our practices to ensure consistency throughout SFU AtoM. Most of the documentation on this site was created by the Archives, and Special Collections' practices may sometimes diverge.
+ SFU Archives and SFU Special Collections are separate institutions. As joint users of a shared resource, we try to broadly align our practices to ensure consistency throughout SFU AtoM. Most of the documentation on this site, however, was created by Archives; Special Collections' practices may sometimes diverge.
 
  This site is a work-in-progress and pages / links will be added as they are prepared.
 
