@@ -1,8 +1,6 @@
 ###### [SFU AtoM Guidelines and Processing Resources](../README.md)
 
 # AtoM Importer
-<img align="right" width="400" src="../screenshots/atom-importer-standard.png">
-
 The Archives typically requires only minimal description at the `file` and `item` levels – simple lists giving only `Reference code`, `Title`, `Dates`, `Access status`, and `Container number`. It is time-consuming to enter these lists manually in AtoM, record-by-record. But AtoM's [csv import template](https://wiki.accesstomemory.org/wiki/Resources/CSV_templates), with its 80+ columns for every database field, is unwieldy for quick data entry. The Archives' preferred solution is to use our own custom Excel template for listing files / items (with a small number of columns), then transform it via script into a csv format that can be uploaded to AtoM.
 
 The [AtoM Importer app](https://sfuarchives.shinyapps.io/atom_import/) is a web application developed for this purpose. It was written in `R` by Kelsey Poloney and hosted on the Archives' `shinyapps` site. It takes the Archives' custom file list and transforms it into a standard `AtoM csv import file` ready for upload to AtoM. The app allows users to add new templates by providing an interface to map a custom template's column to AtoM fields (see [Add new templates](#add-new-templates) below).
@@ -23,6 +21,8 @@ Note that there are separate templates for SFU Archives and SFU Special Collecti
 - [GitHub developer page (Kelsey Poloney](https://github.com/kpoloney/atom_import_template)
 
 ## From Excel to AtoM
+<img align="right" width="400" src="../screenshots/atom-importer-standard.png">
+
 1. Download and complete the [SFU Archives standard AtoM Importer data entry template (Excel)](../downloads/atom-importer-standard.xlsx).
 2. Save the file as `csv`.
 3. Open the online app in any web browser at https://sfuarchives.shinyapps.io/atom_import/.
@@ -112,7 +112,7 @@ When you have completed data entry, delete the last greyed-out line and save the
 
 ## Custom templates
 <img align="right" width="400" src="../screenshots/atom-importer-mapping.png">
-<br>
+<br/>
 <img align="right" width="400" src="../screenshots/atom-importer-custom.png">
 
 The standard template covers the typical `file` or `item` list SFU Archives requires. But for special cases that use other fields, you can create custom templates.
