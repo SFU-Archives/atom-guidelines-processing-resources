@@ -111,10 +111,6 @@ When saving the Excel file as csv with a Mac, `character encoding` and `line end
 When you have completed data entry, delete the last greyed-out line and save the file as `csv`.
 
 ## Custom templates
-<img align="right" width="400" src="../screenshots/atom-importer-mapping.png">
-
-<br/>
-
 <img align="right" width="400" src="../screenshots/atom-importer-custom.png">
 
 The standard template covers the typical `file` or `item` list SFU Archives requires. But for special cases that use other fields, you can create custom templates.
@@ -126,6 +122,8 @@ Possible use cases:
 - Retroactive addition of data or revision to existing AtoM descriptions.
 
 **How to use:**
+<img align="right" width="400" src="../screenshots/atom-importer-mapping.png">
+
 1. Create and complete your custom template.
 2. Save as `csv`.
 3. Complete the [AtoM Importer Mapping Template](../downloads/atom-importer-mapping.csv) to map the columns of the custom template to the AtoM fields.
