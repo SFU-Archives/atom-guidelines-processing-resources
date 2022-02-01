@@ -124,6 +124,8 @@ Possible use cases:
 **How to use:**
 <img align="right" width="400" src="../screenshots/atom-importer-mapping.png">
 
+<br clear="both">
+
 1. Create and complete your custom template.
 2. Save as `csv`.
 3. Complete the [AtoM Importer Mapping Template](../downloads/atom-importer-mapping.csv) to map the columns of the custom template to the AtoM fields.
