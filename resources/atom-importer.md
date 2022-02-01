@@ -112,7 +112,7 @@ When you have completed data entry, delete the last greyed-out line and save the
 
 ## Custom templates
 <img align="right" width="400" src="../screenshots/atom-importer-mapping.png">
-
+<br>
 <img align="right" width="400" src="../screenshots/atom-importer-custom.png">
 
 The standard template covers the typical `file` or `item` list SFU Archives requires. But for special cases that use other fields, you can create custom templates.
