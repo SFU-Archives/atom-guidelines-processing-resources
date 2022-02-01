@@ -1,4 +1,4 @@
-###### [SFU AtoM and Archival Processing Guidelines](../README.md)
+###### [SFU AtoM Guidelines and Processing Resources](../README.md)
 
 # Archival Processing Checklist
 Use this checklist to help manage arrangement and description projects ([also available as a pdf](../downloads/archival-processing-checklist.pdf)).

@@ -1,4 +1,4 @@
-###### [SFU AtoM and Archival Processing Guidelines](../README.md)
+###### [SFU AtoM Guidelines and Processing Resources](../README.md)
 
 # Administrative History Data Template
 <img align="right" width="300" src="../screenshots/admin-history-data.png">

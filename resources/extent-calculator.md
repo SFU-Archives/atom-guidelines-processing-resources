@@ -1,4 +1,4 @@
-###### [SFU AtoM and Archival Processing Guidelines](../README.md)
+###### [SFU AtoM Guidelines and Processing Resources](../README.md)
 
 # Extent Calculator
 <img align="right" width="400" src="../screenshots/extent-calculator.png">

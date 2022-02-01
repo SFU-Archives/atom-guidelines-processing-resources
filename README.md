@@ -12,14 +12,9 @@ This site provides guidelines for the use of [SFU AtoM](https://atom.archives.sf
 - Authority records (in progress)
 - [Description template and boilerplate text (text file)](downloads/description-template.txt)
 
-### Import file / item lists
-- [AtoM csv import templates (link)](https://wiki.accesstomemory.org/wiki/Resources/CSV_templates)
-- [Apps for converting Excel file lists to AtoM csv templates](resources/file-item-lists.md)
-    - Online AtoM Import app (web-based app written in R)
-    - Excel2AtoM FileMaker utility (standalone FileMaker app)
-
 ### Other resources for arrangement and description
 - [Archival Processing Checklist (SFU Archives)](resources/archival-processing-checklist.md)
+- [AtoM Importer – description page](resources/atom-importer.md) | [Link – online app](https://sfuarchives.shinyapps.io/atom_import/)
 - [Extent Calculator – description page](resources/extent-calculator.md) | [Link – online app](https://sfuarchives.shinyapps.io/extent_calculator/)
 - [Admin History Data template – description page](resources/admin-history-data-template.md) | [Template – Word doc](downloads/admin-history-data-template.docx) | [Example – pdf](downloads/admin-history-data-example.pdf)
 - [Finding aid appendices – description page](resources/finding-aid-appendices.md) | [Template – Word doc](downloads/finding-aid-appdenices.docx)
@@ -31,7 +26,7 @@ The `Processing Projects` table in the `Archives module` supports activities inv
 - [AIS Documentation](https://wiki.its.sfu.ca/departments/archives/index.php/AIS_User_Documentation)
 - [Processing Projects](https://wiki.its.sfu.ca/departments/archives/index.php/Processing_Projects)
 
-###### Last updated: Jan 27, 2022
+###### Last updated: Feb 1, 2022
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
