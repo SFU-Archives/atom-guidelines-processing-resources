@@ -121,10 +121,9 @@ Possible use cases:
 - Descriptive data stored in legacy systems.
 - Retroactive addition of data or revision to existing AtoM descriptions.
 
+<br clear="both">
 **How to use:**
 <img align="right" width="400" src="../screenshots/atom-importer-mapping.png">
-
-<br clear="both">
 
 1. Create and complete your custom template.
 2. Save as `csv`.
