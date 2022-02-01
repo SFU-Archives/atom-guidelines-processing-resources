@@ -52,6 +52,8 @@ When saving the Excel file as csv with a Mac, `line endings` and `character enco
 - Open the csv file in BBEdit and change these to XXXXXX.
 
 ## Guide to SFU Archives' standard template
+<img align="right" width="400" src="../screenshots/atom-importer-template.png">
+
 [Download the Archives' standard Excel template here.](../downloads/atom-importer-standard.xlxs). The template is an Excel document with 2 tabs. The `FilesItems` tab is for data entry. The `Taxonomies` tab contains the set of controlled terms that generate the drop-down lists on the `FilesItems` tab; terms can be edited here.
 
 **Important:**
@@ -109,6 +111,8 @@ When saving the Excel file as csv with a Mac, `line endings` and `character enco
 When you have completed data entry, delete the last greyed-out line and save the file as `csv`.
 
 ## Custom templates
+<img align="right" width="400" src="../screenshots/atom-importer-mapping.png">
+
 <img align="right" width="400" src="../screenshots/atom-importer-custom.png">
 
 The standard template covers the typical `file` or `item` list SFU Archives requires. But for special cases that use other fields, you can create custom templates.
