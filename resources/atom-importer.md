@@ -138,5 +138,7 @@ Possible use cases:
 7. Under `Upload Mapping` select the csv mapping document you created in step 3.
 8. When upload is complete, a `Download` button appears; click to create and download the data as a `AtoM csv import file`.
 
+<br clear="both">
+
 ---
 ###### Last updated: Feb 1, 2022
