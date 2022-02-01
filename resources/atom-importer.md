@@ -48,8 +48,8 @@ AtoM will import the data and create new description records linked to their exi
 The Excel template is mainly intended for listing `files` and `items` but can be used for `series`.
 - Alternatively, use a [custom template](#custom-templates) specifically designed for `series`.
 
-When saving the Excel file as csv with a Mac, `line endings` and `character encoding` settings may need to be adjusted.
-- Open the csv file in BBEdit and change these to XXXXXX.
+When saving the Excel file as csv with a Mac, `character encoding` and `line endings` settings may need to be adjusted.
+- Open the csv file in BBEdit and change these to `Unicode (UTF-8)` and `Unix (LF)`.
 
 ## Guide to SFU Archives' standard template
 <img align="right" width="400" src="../screenshots/atom-importer-template.png">
@@ -112,7 +112,9 @@ When you have completed data entry, delete the last greyed-out line and save the
 
 ## Custom templates
 <img align="right" width="400" src="../screenshots/atom-importer-mapping.png">
+
 <br/>
+
 <img align="right" width="400" src="../screenshots/atom-importer-custom.png">
 
 The standard template covers the typical `file` or `item` list SFU Archives requires. But for special cases that use other fields, you can create custom templates.
