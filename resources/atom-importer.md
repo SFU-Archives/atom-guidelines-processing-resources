@@ -122,6 +122,7 @@ Possible use cases:
 - Retroactive addition of data or revision to existing AtoM descriptions.
 
 <br clear="both">
+
 **How to use:**
 <img align="right" width="400" src="../screenshots/atom-importer-mapping.png">
 
