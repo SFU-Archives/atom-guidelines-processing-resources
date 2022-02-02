@@ -8,25 +8,45 @@ This site provides guidelines for the use of [SFU AtoM](https://atom.archives.sf
  This site is a work-in-progress and pages / links will be added as they are prepared.
 
 ### AtoM data entry guidelines
+Field-by-field guidance to data entry in SFU AtoM.
 - [Archival descriptions](archival-description/overview.md)
 - Authority records (in progress)
 - [Description template and boilerplate text (text file)](downloads/description-template.txt)
 
-### Other resources for arrangement and description
-- [Archival Processing Checklist (SFU Archives)](resources/archival-processing-checklist.md)
-- [AtoM Importer – description page](resources/atom-importer.md) | [Link – online app](https://sfuarchives.shinyapps.io/atom_import/)
-- [Extent Calculator – description page](resources/extent-calculator.md) | [Link – online app](https://sfuarchives.shinyapps.io/extent_calculator/)
-- [Admin History Data template – description page](resources/admin-history-data-template.md) | [Template – Word doc](downloads/admin-history-data-template.docx) | [Example – pdf](downloads/admin-history-data-example.pdf)
-- [Finding aid appendices – description page](resources/finding-aid-appendices.md) | [Template – Word doc](downloads/finding-aid-appdenices.docx)
+### Checklists
+Guidance for managing arrangement and description projects.
+- [Processing Project Checklist (SFU Archives)](resources/archival-processing-checklist.md)
+- [Description Checklist: Obligation Status by Level of Description](download/checklist-obligation-status.pdf)
+
+### AtoM Importer
+Online utility for transforming a custom file / item list into a csv file ready for AtoM upload.
+- [Description](resources/atom-importer.md)
+- [Online app](https://sfuarchives.shinyapps.io/atom_import/)
+- [Standard template (Excel)](downloads/atom-importer-standard.xlsx)
+- [Mapping for custom templates (csv)](downloads/atom-importer-mapping.csv)
+
+### Extent Calculator
+Online utitity for calculating extents by box type at `fonds` and `series` levels.
+- [Description](resources/extent-calculator.md)
+- [Online app](https://sfuarchives.shinyapps.io/extent_calculator/)
+
+### Admin history data template
+Template for presenting basic admin history data in visual, table format.
+- [Description](resources/admin-history-data-template.md)
+- [Example (pdf)](downloads/admin-history-data-example.pdf)
+- [Template (Word doc)](downloads/admin-history-data-template.docx) | [Example – pdf]
+
+### Finding aid appendices
+Finding aid dividers and headers for appendix materials.
+- [Description](resources/finding-aid-appendices.md)
+- [Template (Word doc)](downloads/finding-aid-appdenices.docx)
 
 ### AIS database documentation
-The Archives' AIS (Archives Information System) is a custom FileMaker database to support the department's programs and functions. User and technical documentation is maintained on the department's internal wiki, accessible only to SFU Archives' staff (links below will only work if you are logged in on the wiki).
-
-The `Processing Projects` table in the `Archives module` supports activities involved in arrangement and description, e.g. removal of processed boxes from the storage system; creation of new containers, objects, and AIPs; creation of standardized statistical and project reports.
+Links to Archives' internal wiki (staff access only) for documentation relating to the Archives' AIS database.
 - [AIS Documentation](https://wiki.its.sfu.ca/departments/archives/index.php/AIS_User_Documentation)
 - [Processing Projects](https://wiki.its.sfu.ca/departments/archives/index.php/Processing_Projects)
 
-###### Last updated: Feb 1, 2022
+###### Last updated: Feb 2, 2022
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
