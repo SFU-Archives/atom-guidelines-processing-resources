@@ -7,41 +7,41 @@ This site provides guidelines for the use of [SFU AtoM](https://atom.archives.sf
 
  This site is a work-in-progress and pages / links will be added as they are prepared.
 
-### AtoM data entry guidelines
+## AtoM data entry guidelines
 Field-by-field guidance to data entry in SFU AtoM.
 - [Archival descriptions](archival-description/overview.md)
 - Authority records (in progress)
 - [Description template and boilerplate text (text file)](downloads/description-template.txt)
 
-### Checklists
+## Checklists
 Guidance for managing arrangement and description projects.
 - [Processing Project Checklist (SFU Archives)](resources/archival-processing-checklist.md)
 - [Description Checklist: Obligation Status by Level of Description](download/checklist-obligation-status.pdf)
 
-### AtoM Importer
+## AtoM Importer
 Online utility for transforming a custom file / item list into a csv file ready for AtoM upload.
 - [Description](resources/atom-importer.md)
 - [Online app](https://sfuarchives.shinyapps.io/atom_import/)
 - [Standard template (Excel)](downloads/atom-importer-standard.xlsx)
 - [Mapping for custom templates (csv)](downloads/atom-importer-mapping.csv)
 
-### Extent Calculator
+## Extent Calculator
 Online utitity for calculating extents by box type at `fonds` and `series` levels.
 - [Description](resources/extent-calculator.md)
 - [Online app](https://sfuarchives.shinyapps.io/extent_calculator/)
 
-### Admin history data template
+## Admin history data template
 Template for presenting basic admin history data in visual, table format.
 - [Description](resources/admin-history-data-template.md)
 - [Example (pdf)](downloads/admin-history-data-example.pdf)
-- [Template (Word doc)](downloads/admin-history-data-template.docx) | [Example – pdf]
+- [Template (Word doc)](downloads/admin-history-data-template.docx)
 
-### Finding aid appendices
+## Finding aid appendices
 Finding aid dividers and headers for appendix materials.
 - [Description](resources/finding-aid-appendices.md)
 - [Template (Word doc)](downloads/finding-aid-appdenices.docx)
 
-### AIS database documentation
+## AIS database documentation
 Links to Archives' internal wiki (staff access only) for documentation relating to the Archives' AIS database.
 - [AIS Documentation](https://wiki.its.sfu.ca/departments/archives/index.php/AIS_User_Documentation)
 - [Processing Projects](https://wiki.its.sfu.ca/departments/archives/index.php/Processing_Projects)
