@@ -37,17 +37,17 @@ Note that the Archives typically aims a **full** description only at the fonds a
 |---	|:---:	|:---:	|:---:	|:---:	|
 | <a name="title-area"><b>Title and statement of responsibility area</b></a>| <b>Fonds</b> | <b>Series</b> | <b>File</b> | <b>Item</b> |
 | [Title proper](title-proper.md) 	| MA 	| MA 	| MA 	| MA 	|
-| [GMD](gmd.md) 	| MA 	| MA 	| MA 	| MA 	|
+| [GMD](gmd.md) 	| MA 	| MA 	| RE 	| RE 	|
 | [Parallel titles](parallel-titles.md) 	| DN 	| DN 	| DN 	| IA 	|
 | [Other title information](other-title-information.md) 	| DN 	| DN 	| DN 	| DN 	|
 | [Statement of responsibility](statement-of-responsibility.md) 	| NA 	| NA 	| NA 	| DN 	|
 | [Title notes](title-notes.md) 	| MA 	| MA 	| IA 	| IA 	|
-| - [Attribution and conjectures](title-notes.md#attribution-and-conjectures)	| DN 	| DN 	| DN 	| DN 	|
-| - [Continuation of title](title-notes.md#continuation-of-title) 	| NA 	| NA 	| NA 	| DN 	|
+| - [Attribution and conjectures](title-notes.md#attribution-and-conjectures-rad-18b6)	| DN 	| DN 	| DN 	| DN 	|
+| - [Continuation of title](title-notes.md#continuation-of-title-rad-18b4) 	| NA 	| NA 	| NA 	| DN 	|
 | - [Parallel titles and other title information](title-notes.md#parallel-titles-and-other-title-information) 	| NA 	| NA 	| NA 	| IA 	|
-| - [Source of title proper](title-notes.md#source-of-title-proper) 	| MA 	| MA 	| IA 	| IA 	|
-| - [Statements of responsibility](title-notes.md#statements-of-responsibility) 	| NA 	| NA 	| NA 	| DN 	|
-| - [Variations in title](title-notes.md#variations-in-title) 	| IA 	| IA 	| IA 	| IA 	|
+| - [Source of title proper](title-notes.md#source-of-title-proper-rad-18b2) 	| RE 	| RE 	| IA 	| IA 	|
+| - [Statements of responsibility](title-notes.md#statements-of-responsibility-rad-18b5) 	| NA 	| NA 	| NA 	| DN 	|
+| - [Variations in title](title-notes.md#variations-in-title-rad-18b1) 	| IA 	| IA 	| IA 	| IA 	|
 | [Level of description](level-of-description.md) 	| MA 	| MA 	| MA 	| MA 	|
 | [Repository](repository.md) 	| MA 	| DN 	| DN 	| DN 	|
 | [Identifier](identifier.md) 	| MA 	| MA 	| IA 	| IA 	|
@@ -58,21 +58,21 @@ Note that the Archives typically aims a **full** description only at the fonds a
 | [Statement of responsibility relating to the edition](edition-area.md#statement-of-responsibility-relating-to-the-edition-rad-12c) 	| NA 	| NA 	| NA 	| DN 	|
 | <br>
 | <a name="class-of-material-area"><b>Class of material specific details area</b></a>| <b>Fonds</b> | <b>Series</b> | <b>File</b> | <b>Item</b> |
-| [Statement of scale (cartographic)](class-material-specific-details.md#statement-of-scale-cartographic) | NA 	| NA 	| NA 	| OP 	|
-| [Statement of projection (cartographic)](class-material-specific-details.md#statement-of-project) 	| NA 	| NA 	| NA 	| OP 	|
-| [Statement of coordinates (cartographic)](class-material-specific-detalils..md#statement-of-coordinates) 	| NA 	| NA 	| NA 	| OP 	|
-| [Statement of scale (architectural)](class-material-specific-details.md#statement-of-scale-architectural) 	| NA 	| NA 	| NA 	| OP 	|
-| [Issuing jurisdiction and denomination (philatelic)](class-material-specific-details.md#issuing-jurisdication) 	| NA 	| NA 	| NA 	| OP 	|
+| [Statement of scale (cartographic)](class-material-specific-details.md | NA 	| NA 	| NA 	| OP 	|
+| [Statement of projection (cartographic)](class-material-specific-details.md) 	| NA 	| NA 	| NA 	| OP 	|
+| [Statement of coordinates (cartographic)](class-material-specific-detalils.md) 	| NA 	| NA 	| NA 	| OP 	|
+| [Statement of scale (architectural)](class-material-specific-details.md) 	| NA 	| NA 	| NA 	| OP 	|
+| [Issuing jurisdiction and denomination (philatelic)](class-material-specific-details.md) 	| NA 	| NA 	| NA 	| OP 	|
 | <br>
 | <a name="dates-of-creation-area"><b>Dates of creation area</b></a>| <b>Fonds</b> | <b>Series</b> | <b>File</b> | <b>Item</b> |
 | [Date entry](dates-of-creation-area.md) 	| MA 	| MA 	| MA 	| MA 	|
 | - [Actor name](dates-of-creation-area.md#actor-name) 	| IA 	| IA 	| IA 	| IA 	|
 | - [Event type](dates-of-creation-area.md#event-type) 	| MA 	| MA 	| MA 	| MA 	|
 | - [Place](dates-of-creation-area.md#place) 	| DN 	| DN 	| DN 	| DN 	|
-| - [Date](dates-of-creation-area.md#date) 	| MA 	| MA 	| MA 	| MA 	|
-| - [Start](dates-of-creation-area.md#start-end) 	| MA 	| MA 	| MA 	| MA 	|
-| - [End](dates-of-creation-area.md#start-end) 	| MA 	| MA 	| MA 	| MA 	|
-| - [Event note](dates-of-creation-area.md#event-note) 	| OP 	| OP 	| OP 	| OP 	|
+| - [Date](dates-of-creation-area.md#date-rad-14b) 	| MA 	| MA 	| MA 	| MA 	|
+| - [Start](dates-of-creation-area.md#startend) 	| MA 	| MA 	| MA 	| MA 	|
+| - [End](dates-of-creation-area.md#startend) 	| MA 	| MA 	| MA 	| MA 	|
+| - [Event note](dates-of-creation-area.md#event-note-rad-18b8) 	| OP 	| OP 	| OP 	| OP 	|
 | <br>
 | <a name="physical-description-area"><b>Physical description area</b></a>| <b>Fonds</b> | <b>Series</b> | <b>File</b> | <b>Item</b> |
 | [Physical description](physical-description-area.md) 	| RE 	| RE 	| RE 	| RE 	|
@@ -87,35 +87,35 @@ Note that the Archives typically aims a **full** description only at the fonds a
 | [Physical condition](physical-condition.md) 	| OP 	| OP 	| OP 	| OP 	|
 | [Immediate source of acquisition](immediate-source-of-acquisition.md) 	| DN 	| DN 	| DN 	| DN 	|
 | [Arrangement](arrangement.md) 	| IA 	| IA 	| OP 	| OP 	|
-| [Language of material](language-of-material.md) 	| MA 	| MA 	| MA 	| MA 	|
+| [Language of material](language-of-material.md) 	| MA 	| MA 	| RE 	| RE 	|
 | [Script of material](script-of-material.md) 	| OP 	| OP 	| OP 	| OP 	|
 | [Language and script notes](language-and-script-notes.md) 	| IA 	| IA 	| OP 	| OP 	|
 | [Location of originals](location-of-originals.md) 	| OP 	| OP 	| OP 	| OP 	|
 | [Availability of other formats](availability-of-other-formats.md) 	| IA 	| IA 	| OP 	| OP 	|
 | [Restrictions on access](restrictions-on-access.md) 	| MA 	| MA 	| MA 	| MA 	|
-| [Terms governing use, reproduction, and   publication](terms-governing-use,-reproduction,-and-publication.md) 	| RE 	| RE 	| RE 	| RE 	|
+| [Terms governing use, reproduction, and   publication](terms-governing-use.md) 	| RE 	| RE 	| RE 	| RE 	|
 | [Finding aids](finding-aids.md) 	| IA 	| IA 	| IA 	| IA 	|
 | [Associated materials](associated-materials.md) 	| IA 	| IA 	| OP 	| OP 	|
 | [Related materials](related-materials.md) 	| IA 	| IA 	| OP 	| OP 	|
 | [Accruals](accruals.md) 	| RE 	| RE 	| DN 	| DN 	|
 | [Other notes](other-notes.md) 	|  	|  	|  	| 	|
-| - [Accompanying material](accompanying-material.md) 	| OP 	| OP 	| OP 	| IA 	|
-| - [Alpha-numeric designations](alpha-numeric-designations.md) 	| IA 	| IA 	| IA 	| IA 	|
-| - [Conservation](conservation.md) 	| IA 	| IA 	| IA 	| IA 	|
-| - [Edition](edition.md) 	| DN 	| DN 	| DN 	| DN 	|
-| - [General note](general-note.md) 	| OP 	| OP 	| OP 	| OP 	|
-| - [Physical description](physical-description-note.md) 	| IA 	| IA 	| OP 	| OP 	|
-| - [Publisher's series](publishers-series.md) 	| DN 	| DN 	| DN 	| DN 	|
-| - [Rights](rights.md) 	| DN 	| DN 	| IA 	| IA 	|
+| - [Accompanying material](other-notes.md#accompanying-materials-rad-18b9c) 	| OP 	| OP 	| OP 	| IA 	|
+| - [Alpha-numeric designations](other-notes.md#alpha-numeric-designations-rad-18b11) 	| IA 	| IA 	| IA 	| IA 	|
+| - [Conservation](other-notes.md#conservation-rad-18b9) 	| IA 	| IA 	| IA 	| IA 	|
+| - [Edition](other-notes.md#edition-rad-18b7) 	| DN 	| DN 	| DN 	| DN 	|
+| - [General note](other-notes.md#general-note-rad-18b21) 	| OP 	| OP 	| OP 	| OP 	|
+| - [Physical description](other-notes.md#physical-description-note-rad-18b9) 	| IA 	| IA 	| OP 	| OP 	|
+| - [Publisher's series](other-notes.md#publishers-series-rad-18b10) 	| DN 	| DN 	| DN 	| DN 	|
+| - [Rights](other-notes.md#rights-rad-18b16b) 	| DN 	| DN 	| IA 	| IA 	|
 | <br>
 | <a name="standard-number-area"><b>Standard number area</b></a>| <b>Fonds</b> | <b>Series</b> | <b>File</b> | <b>Item</b> |
-| [Standard number](standard-number.md) 	| NA 	| NA 	| NA 	| DN 	|
+| [Standard number](standard-number-area.md) 	| NA 	| NA 	| NA 	| DN 	|
 | <br> |
 | <a name="access-points"><b>Access points</b></a>| <b>Fonds</b> | <b>Series</b> | <b>File</b> | <b>Item</b> |
-| [Subject access points](access-points.md#subject-access-points.md) 	| MA 	| DN 	| DN 	| DN 	|
-| [Place access points](access-points.md#place-access-points.md) 	| IA 	| IA 	| IA 	| IA 	|
-| [Genre access points](access-points.md#genre-access-points.md) 	| OP 	| OP 	| OP 	| OP 	|
-| [Name access points](naccess-points.md#ame-access-points.md) 	| IA 	| IA 	| IA 	| IA 	|
+| [Subject access points](access-points.md#subject-access-points) 	| MA 	| DN 	| DN 	| DN 	|
+| [Place access points](access-points.md#place-access-points) 	| IA 	| IA 	| IA 	| IA 	|
+| [Genre access points](access-points.md#genre-access-points) 	| OP 	| OP 	| OP 	| OP 	|
+| [Name access points](naccess-points.md#ame-access-points) 	| IA 	| IA 	| IA 	| IA 	|
 | <br> |
 | <a name="control-area"><b>Control area</b></a>| <b>Fonds</b> | <b>Series</b> | <b>File</b> | <b>Item</b> |
 | [Description identifier](description-identifier.md) 	| DN 	| DN 	| DN 	| DN 	|

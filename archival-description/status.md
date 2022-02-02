@@ -7,17 +7,17 @@
 
 Not a RAD element.
 
-**Required** at **fonds** and **series** levels, **optional** at lower levels.
+**Required** at `fonds` and `series` levels, **optional** at lower levels.
 
 Select from the list of controlled terms (AtoM `Status` taxonomy):
 - `Provisional` = draft or known to be incomplete
 - `Final` = first finalized iteration
 - `Revised` = revision of previously finalized version.
 
-It is fine to publish a description (via the [Publication status](publication-status.md) field in the **Administration area**) that is still in draft form.
+It is fine to publish a description (via the [Publication status](publication-status.md) field in the `Administration area`) that is still in draft form.
 - E.g. you want to make the description available, but are not able to fully describe material.
 
-**Optional** at the **file** and **item** levels.
+**Optional** at the `file` and `item` levels.
 - When created from Archivematica via DIP upload, this field will be blank; it is not necessary to manually update the records.
 
 ---

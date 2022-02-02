@@ -3,12 +3,12 @@
 # Administrative history / Biographical sketch [RAD 1.7B]
 | Fonds 	| Series 	| Files 	| Items 	|
 |:-----:	|:------:	|:-----:	|:-----:	|
-|   MA    |   OP    |   OP  	|   OP  	|
+|   RE    |   OP    |   OP  	|   OP  	|
 
 This element resides within the creator's [Authority record](../authority-records/overview.md):
 - It will only appear in description record if a [date event](dates-of-creation-area.md) (`Event type` = "Creation") has been registered with an `Actor` designated as the creator.
 
-**Mandatory** for **fonds**, but note that for **collections**,  the collector's history will **not** appear with descriptive record.
+**Mandatory** for `fonds`, but note that for `collections`,  the collector's history will **not** appear with descriptive record.
 - Collection is registered as a [date event](dates-of-creation-area.md), `Event type` = "Collection".
 
 At lower levels, element is **optional** if a creator is different than the registered fonds creator.
@@ -19,6 +19,7 @@ In both [Administrative histories](#administrative-history) and [Biographical sk
 
 ## Administrative history
 Example opening summary paragraph:
+
 `Facilities Services has responsibility for stewardship of buildings and lands at SFU on all three university campuses. For a visual representation of the department's administrative history (name changes, reporting relationships, chief officers), see Appendix A in the pdf version of the finding aid for the Facilities Services fonds (F-11).` (Facilities Services fonds, draft)
 
 In the full narrative, include the following elements:
@@ -43,6 +44,7 @@ Chief officers:
 
 ## Biographical sketch
 Example opening summary paragraph:
+
 `Michael Fellman was Professor Emeritus in the Department of History at Simon Fraser University, best-known for his work on nineteenth-century American history and the American Civil War period. Fellman taught at SFU from 1969 to 2008. He passed away on June 11, 2012 at age 69.` ([Michael Fellman fonds](https://cottonwood.archives.sfu.ca/f-260))
 
 Include the following elements for the full narrative:

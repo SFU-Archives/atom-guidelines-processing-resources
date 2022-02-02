@@ -3,14 +3,17 @@
 # Language [RAD 1.8B14]
 | Fonds 	| Series 	| Files 	| Items 	|
 |:-----:	|:------:	|:-----:	|:-----:	|
-|   MA    |   MA    |   MA  	|   MA  	|
+|   MA    |   MA    |   RE  	|   RE  	|
 
-**Mandatory** at all levels.
+**Mandatory** at the `fonds` and `series` levels. **Required** at `file` and `item` levels if aiming at a `full description` (but not full descriptions are not typical or expected at those levels).
 - Select all applicable languages from the drop-down list.
 - Include `English` even though this applies to most our of holdings.
 
 Rationale:
 - This information will be included in our descriptions that may be eventually exported to multi-language union list databases.
+
+`Files` and `items` uploaded from Archivematica will not have this field entered.
+- It is not necessary to manually enter after the fact.
 
 If the materials includes non-English languages, use [Language and script notes](language-and-script-notes.md) to elaborate (e.g. indicate where the materials are located if not obvious).
 

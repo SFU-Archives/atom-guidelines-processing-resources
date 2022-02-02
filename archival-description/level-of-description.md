@@ -18,7 +18,7 @@ Terms are controlled by AtoM's `Levels of description` taxonomy:
 - Sub-sub-series
 - Item
 
-**Sous-fonds** is used by Special Collections, but not Archives.
+`Sous-fonds` is used by Special Collections, but not Archives.
 - If the Archives were to start using this term, it would impact our reference code numbering conventions (see [Identifier](identifier.md)).
 - If we get a use case for sous-fonds, we will review this decision at that review.
 

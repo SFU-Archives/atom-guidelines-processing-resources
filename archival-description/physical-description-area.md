@@ -1,16 +1,16 @@
 ###### [SFU AtoM Guidelines](../README.md) `>` [Archival description](overview.md) `>` [Physical description area](overview.md#physical-description-area)
 
-# Physical description area [RAD 1.5
+# Physical description area [RAD 1.5]
 | Fonds 	| Series 	| Files 	| Items 	|
 |:-----:	|:------:	|:-----:	|:-----:	|
 |   RE    |   RE    |   RE  	|   RE  	|
 
-**Required** at the **fonds** and **series** levels, where the Archives typically aims at full descriptions.
-- At the **file** and **items** levels, we do not typically provide full descriptions; but if providing, use this field.
+**Required** at the `fonds` and `series` levels, where the Archives typically aims at `full descriptions`.
+- At the `file` and **`items` levels, we do not typically provide full description; but if providing, use this field.
 
-Enter each **physical description** (PD) statement on a separate line (no punctuation between lines).
+Enter each `Physical description` (PD) statement on a separate line (no punctuation between lines).
 
-Use as separate PD statement for each **Specific Material Designation** (SMD).
+Use as separate PD statement for each `Specific Material Designation` (SMD).
 - For a controlled list of SMDs, see the Archives' [Taxonommies page](https://github.com/SFU-Archives/taxonomies/blob/main/README.md) or download the [Carrier types taxonomy (pdf)](https://github.com/SFU-Archives/taxonomies/blob/main/downloads/carrier-types.pdf).
 
 The RAD "rule of 3" (1.5B2) is optional.
@@ -20,11 +20,11 @@ The RAD "rule of 3" (1.5B2) is optional.
 Within each PD statement use RAD punctuation to separate elements:
 - `extent of descriptive unit: other physical details; dimensions + accompanying material`
 
-**Textual records:**
+`Textual records`
 - Express extent as total shelf space
 - E.g. `4.2 m of textual records`
 
-**Non-textual records:**
+`Non-textual records`
 - Express extents as count of items
 - E.g. `ca 500 photographs`
 
@@ -49,5 +49,5 @@ For calculating series textual extents, see the online [Extent calculator](https
 ---
 ###### [<< Previous: Dates of creation area](dates-of-creation-area.md) `|` [Next: Administrative history / Biographical sketch >>](admin-history-bio-sketch.md)
 ---
-###### Last updated: Jan 11, 2022
+###### Last updated: Feb 1, 2022
 ###### MA = Mandatory `|` RE = Required for full description `|` IA = Required if applicable `|` OP = Optional `|` NA = Not applicable `|` DN = Do not use

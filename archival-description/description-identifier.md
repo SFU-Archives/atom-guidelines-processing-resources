@@ -9,9 +9,9 @@ Not a RAD element.
 
 Not used by SFU Archives.
 
-Use the [Identifier](identifier.md) field in the **Title and statement of responsibility area** for the unit's reference code.
+Use the [Identifier](identifier.md) field in the `Title and statement of responsibility area` for the unit's reference code.
 
-Use the [Alpha-numeric designations](other-notes.md#alpha-numberic-designations) field in the **Notes area** for IDs originally assigned by the creator.
+Use the [Alpha-numeric designations](other-notes.md#alpha-numberic-designations) field in the `Notes area` for IDs originally assigned by the creator.
 
 
 ---

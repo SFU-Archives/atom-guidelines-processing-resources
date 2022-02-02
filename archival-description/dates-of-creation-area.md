@@ -7,16 +7,16 @@
 
 At all levels, give at least one date entry.
 
-For a **collection**, make two entries:
+For a `collection`, make two entries:
 - `Event type` = Collection (dates actor collected materials): enter Actor, but leave dates empty if you do not know dates of collecting activity.
 - `Event type` = Document dates (date range of the documents themselves): leave `Actor` empty.
 
 ## Actor name
 | Fonds 	| Series 	| Files 	| Items 	|
 |:-----:	|:------:	|:-----:	|:-----:	|
-|   RE    |   IA    |   IA  	|   IA  	|
+|   IA    |   IA    |   IA  	|   IA  	|
 
-Always enter at the highest level for the date of creation.
+Always enter at the `fonds` level for the date of creation (but can be left blank for `collections`).
 - Use at lower levels only if `Creator` is different than for the fonds as a whole.
 - When left blank at lower levels, unit inherits from the parent level.
 
@@ -27,17 +27,17 @@ Always enter at the highest level for the date of creation.
 
 Values are governed by AtoM taxonomy (`Event types`), but used differently at different levels.
 
-Aggregate levels (fonds, series, files):
+Aggregate levels (`fonds`, `series`, `files`):
 - `Creation` (dates documents were accumulated by the fonds creator).
 - `Collection` (dates documents were collected by the collector).
 - `Custody` (dates materials were in the custody of the custodian).
 - `Document dates` (dates of the actual documents – use only if different than `Creation` dates).
 
-At the item level:
+At the `item` level:
 - Select any of the entries in `Event types` taxonomy.
 
 Note that there is a large volume of item-level legacy data for the Archives:
-- Item-level data relating to production credits for films were handled as events during AIS migration.
+- Item level data relating to production credits for films were handled as events during AIS migration.
 
 ## Place
 | Fonds 	| Series 	| Files 	| Items 	|
@@ -87,5 +87,5 @@ Use for narrative information elaborating on date
 ###### [<< Previous: Class of material specific details area](class-material-specific-details.md) `|` [Next: Phyiscal description area >>](physical-description-area.md)
 
 ---
-###### Last updated: Jan 11, 2022
+###### Last updated: Feb 1, 2022
 ###### MA = Mandatory `|` RE = Required for full description `|` IA = Required if applicable `|` OP = Optional `|` NA = Not applicable `|` DN = Do not use

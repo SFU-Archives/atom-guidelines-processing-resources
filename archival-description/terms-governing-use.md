@@ -7,9 +7,9 @@
 
 Use for information relating to copyright in the materials under description.
 
-**Required** at the **fonds** and **series** level.
+**Required** at the `fonds` and `series` level.
 
-Only include at the **file** and **item** levels if you are aiming at a **full** description.
+Only include at the `file` and `item` levels if you are aiming at a **full** description.
 - The Archives does not typically include it at these lower levels (partial description)
 
 ## Template text / examples

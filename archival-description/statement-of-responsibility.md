@@ -4,14 +4,14 @@
 
 | Fonds 	| Series 	| Files 	| Items 	|
 |:-----:	|:------:	|:-----:	|:-----:	|
-|   DN    |   DN    |   DN  	|   DN  	|
+|   NA    |   NA    |   NA  	|   DN  	|
 
 Not used by SFU Archives.
 
-Use a [Date entry](date-entry.md) in the [Dates of creation area](overview.md#dates-of-creation-area) to register a relationship between an **agent*** (corporate body, person, family) and the unit under description.
+Use a [Date entry](date-entry.md) in the [Dates of creation area](overview.md#dates-of-creation-area) to register a relationship between an `agent` (corporate body, person, family) and the unit under description.
 
 ---
 ###### [<< Previous: Other title information](other-title-information.md) `|` [Next: Title notes >>](title-notes.md)
 ---
-###### Last updated: Dec 22, 2021
+###### Last updated: Feb 1, 2022
 ###### MA = Mandatory `|` RE = Required for full description `|` IA = Required if applicable `|` OP = Optional `|` NA = Not applicable `|` DN = Do not use

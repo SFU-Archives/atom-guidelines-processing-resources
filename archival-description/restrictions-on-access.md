@@ -10,17 +10,17 @@ Use for access restrictions arising from donor, privacy, confidentiality or phys
 **Mandatory** at all levels.
 
 ## Fonds and series level
-At the **fonds** and **series** level, make a narrative note.
+At the `fonds` and `series` level, make a narrative note.
 
 To a certain extent, this violates RAD's "non-repetition" rues, which states not to repeat information at lower levels if it has already been provided at a higher level.
 
 The main rationale here is that awareness of restrictions is critical for researchers. It is likely that many will come to a description directly from AtoM search results rather than proceeding from the "general to the specific" from a parent fonds description. Some repetition on this element therefore seems warranted.
 
-Try to minimize the amount of repetition by referring back to the **fonds** description, e.g. when all files are "pending review." But if there are **known** restrictions at the series level, highlight these specifically.
+Try to minimize the amount of repetition by referring back to the `fonds` description, e.g. when all files are "pending review." But if there are **known** restrictions at the series level, highlight these specifically.
 
 
 ## File and item level
-At the **file** and **item** levels, use the following terms:
+At the `file` and `item` levels, use the following terms:
 - `Open` = no restrictions in the reading room, can be disseminated online.
 - `Open: reading room only`  = file contains non-sensitive personal information (e.g. addresses older than 5 years) that can be accessed in the reading room, but should not be dissemminated online.
 - `Pending review` = file / item must be reviewed by an archivist for access restrictions prior to release.

@@ -5,14 +5,14 @@
 |:-----:	|:------:	|:-----:	|:-----:	|
 |   RE    |   OP    |   OP  	|   OP  	|
 
-**Required** at the **fonds** level, **optional** at lower levels.
+**Required** at the `fonds` level, **optional** at lower levels.
 
 Include any information relating to past custody as well as transfer of the records to Archives.
 - This replaces past practice of using the [Immediate source of acquisition](immediate-source-of-acquisition.md) note for cases where custody of records passed directly from creator to Archives.
 
 For digital records, use this element to discuss issues relating to data migrations, conversions, transformations, corruption prior to or during transfer.
 
-Below the **fonds** level, use this field only if there is significant information that applies to specific records rather than the fonds as a whole.
+Below the `fonds` level, use this field only if there is significant information that applies to specific records rather than the fonds as a whole.
 
 **Template text / examples:**
 

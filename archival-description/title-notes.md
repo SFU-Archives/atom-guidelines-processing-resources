@@ -1,7 +1,7 @@
 ###### [SFU AtoM Guidelines](../README.md) `>` [Archival description](overview.md) `>` [Title and statement of responsibility area](overview.md#title-area)
 
 # Title notes
-At least one **Title note** is required at **fonds** and **series** levels for [Source of title proper](#source-of-title-proper-rad-18b1). Use [Variations in title](#variations-in-title-rad-18b1) for units that have or have been known by more than one name. Use [Parallel titles](#parallel-titles-and-other-information-rad-18b3) only for multi-lingual items that had official titles in multiple languages.
+At least one `Title note` is required at the `fonds` and `series` levels for [Source of title proper](#source-of-title-proper-rad-18b1). Use [Variations in title](#variations-in-title-rad-18b1) for units that have or have been known by more than one name. Use [Parallel titles](#parallel-titles-and-other-information-rad-18b3) only for multi-lingual items that had official titles in multiple languages.
 
 ## Attribution and conjectures [RAD 1.8B6]
 
@@ -25,7 +25,7 @@ Do not use this type.
 |:-----:	|:------:	|:-----:	|:-----:	|
 |   NA    |   NA    |   NA  	|   IA  	|
 
-Use at the **item** level if applicable, typically for publications or grey literature (e.g. reports) that are produced in multi-lingual versions and have different titles in the different languages (e.g. a report issued in both French and English).
+Use at the `item` level if applicable, typically for publications or grey literature (e.g. reports) that are produced in multi-lingual versions and have different titles in the different languages (e.g. a report issued in both French and English).
 
 ## Source of title proper [RAD 1.8B2]
 
@@ -33,11 +33,11 @@ Use at the **item** level if applicable, typically for publications or grey lite
 |:-----:	|:------:	|:-----:	|:-----:	|
 |   RE    |   RE    |   RE  	|   RE  	|
 
-Use at the **fonds** and **series** levels to indicate the basis of the title.
+Use at the `fonds` and `series` levels to indicate the basis of the title.
 - Typically base the [Title](title-proper.md) on the content of the unit or on the creator's original title.
-- Creator's titles are rare above the **file** and **item** levels.
+- Creator's titles are rare above the `file` and `item` levels.
 
-Can be used at the **file** and **item** levels if you are aiming at a **full** description (not typically produced).
+Can be used at the `file` and `item` levels if you are aiming at a `full description` (but not expected / typically these lower levels).
 
 **Template text / examples:**
 
@@ -75,5 +75,5 @@ If changing the creator's file or item title, give the original title in this no
 ---
 ###### [<< Previous: Statement of responsibility](statement-of-responsibility.md) `|` [Next: Level of description >>](level-of-description.md)
 ---
-###### Last updated: Jan 11, 2022
+###### Last updated: Feb 1, 2022
 ###### MA = Mandatory `|` RE = Required for full description `|` IA = Required if applicable `|` OP = Optional `|` NA = Not applicable `|` DN = Do not use

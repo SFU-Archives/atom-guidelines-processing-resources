@@ -9,8 +9,8 @@ Not a RAD element.
 
 Not used by SFU Archives.
 
-**Repository identifier** will be drawn from the **Repository** record of the institution.
-- This link is established via the [Repository](repository.md) field in the **Title and statement of responsibility area**.
+`Repository identifier` will be drawn from the `Repository` record of the institution.
+- This link is established via the [Repository](repository.md) field in the `Title and statement of responsibility area`.
 
 
 ---

@@ -5,11 +5,12 @@
 |:-----:	|:------:	|:-----:	|:-----:	|
 |   DN    |   DN    |   DN  	|   DN  	|
 
-Do not use.
+Not used by SFU Archives (discontinued since 2015).
 
-Discontinued since 2015: record all information relating to custody and transfer in the [Custodial history](custodial-history.md) field.
+Prefer to record all information relating to custody and transfer in the [Custodial history](custodial-history.md) field.
 
 ---
 ###### [<< Previous: Physical condition](physical-condition.md) `|` [Next: Arrangement >>](arrangement.md)
 ---
+###### Last updated: Feb 1, 2022
 ###### MA = Mandatory `|` RE = Required for full description `|` IA = Required if applicable `|` OP = Optional `|` NA = Not applicable `|` DN = Do not use

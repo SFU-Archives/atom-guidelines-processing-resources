@@ -5,9 +5,9 @@
 |:-----:	|:------:	|:-----:	|:-----:	|
 |   RE    |   RE    |   DN  	|   DN  	|
 
-At the **fonds** or **series** levels, indicate whether or not future accruals are expected. At the **fonds** level, indicate if there are backlog accessions not yet processed.
+At the `fonds` or `series` levels, indicate whether or not future accruals are expected. At the `fonds` level, indicate if there are backlog accessions not yet processed.
 
-Do not use at the **file** and **item** levels.
+Do not use at the `file` and `item` levels.
 
 **Template text / examples**
 

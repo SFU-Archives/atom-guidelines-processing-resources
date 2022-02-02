@@ -6,7 +6,7 @@
 |   IA    |   IA    |   IA  	|   IA  	|
 
 **Required if applicable** at all levels.
-- But for **files** and **items** use only if you are intend to prepare a full description (not typically required).
+- But for `files` and `items` use only if you are intend to prepare a full description (not typically expected or required).
 
 Use only if there is something to say.
 - Past practice was to include reference to file or item lists created by the Archives – discontinued.
