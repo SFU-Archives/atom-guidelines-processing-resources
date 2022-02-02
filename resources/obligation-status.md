@@ -7,8 +7,7 @@ Descripiton at the `file` and `item` levels typically **only** provides mandator
 
 | Fonds | Series | Files / Items |
 |---	|---	|---	|
-|     
-- Title proper
+| - Title proper
 - GMD
 - Level of description
 - Repository
@@ -17,24 +16,21 @@ Descripiton at the `file` and `item` levels typically **only** provides mandator
 - Language of materials
 - Restrictions on access
 - Publication status
-|     
-Title proper
-GMD
-Level of description
-Identifier
-Date of creation
-Language of materials
-Restrictions on access
-|
-Title proper
-GMD
-Level of description
-Identifier [if applicable]
-Date of creation
-Language of materials
-Restrictions on access
-Physical storage
-|
+| - Title proper
+- GMD
+- Level of description
+- Identifier
+- Date of creation
+- Language of materials
+- Restrictions on access
+| - Title proper
+- GMD
+- Level of description
+- Identifier [if applicable]
+- Date of creation
+- Language of materials
+- Restrictions on access
+- Physical storage |
 
 ## Required
 
