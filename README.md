@@ -30,6 +30,11 @@ Online utitity for calculating extents by box type at `fonds` and `series` level
 - [Description](resources/extent-calculator.md)
 - [Online app](https://sfuarchives.shinyapps.io/extent_calculator/)
 
+## Resolution Calculator
+Online utility for calculating scanning resolutions.
+- [Description](resources/resolution-calculator.md)
+- [Online app](https://sfuarchives.shinyapps.io/resolution_calculator/)
+
 ## Admin history data template
 Template for presenting basic admin history data in visual, table format.
 - [Description](resources/admin-history-data-template.md)
