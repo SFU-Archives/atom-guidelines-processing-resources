@@ -51,7 +51,7 @@ Links to Archives' internal wiki (staff access only) for documentation relating 
 - [AIS Documentation](https://wiki.its.sfu.ca/departments/archives/index.php/AIS_User_Documentation)
 - [Processing Projects](https://wiki.its.sfu.ca/departments/archives/index.php/Processing_Projects)
 
-###### Last updated: Feb 2, 2022
+###### Last updated: Apr 5, 2022
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
