@@ -1,7 +1,7 @@
 ###### [SFU AtoM Guidelines and Processing Resources](../README.md)
 
 # Resolution Calculator
-<img align="right" width="400" src="../screenshots/extent-calculator.png">
+<img align="right" width="400" src="../screenshots/resolution-calculator.png">
 
 The [Resolution Calculator](https://sfuarchives.shinyapps.io/resolution_calculator/) is an online app created in `R` by Kelsey Poloney, hosted on the Archives' `shinyapps` site.
 - For code documentation, see the [developer's Github page](https://github.com/kpoloney/resolution_calculator).
