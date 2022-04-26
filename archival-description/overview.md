@@ -123,7 +123,7 @@ Note that the Archives typically aims a **full** description only at the fonds a
 | [Rules or conventions](rules-or-conventions.md) 	| RE 	| DN 	| DN 	| DN 	|
 | [Status](status.md) 	| RE 	| RE 	| OP 	| OP 	|
 | [Level of detail](level-of-detail.md) 	| RE 	| RE 	| OP 	| OP 	|
-| [Dates of creation, revision and   deletion](dates-of-creation-revision-and-deletion.md) 	| RE 	| IA 	| OP 	| OP 	|
+| [Dates of creation, revision and   deletion](dates-creation-revision-deletion.md) 	| RE 	| IA 	| OP 	| OP 	|
 | [Language](language.md) 	| RE 	| DN 	| DN 	| DN 	|
 | [Script](script.md) 	| DN 	| DN 	| DN 	| DN 	|
 | [Sources](sources.md) 	| OP 	| OP 	| OP 	| OP 	|
