@@ -16,7 +16,7 @@ Field-by-field guidance to data entry in SFU AtoM.
 ## Checklists
 Guidance for managing arrangement and description projects.
 - [Processing Project Checklist (SFU Archives)](resources/archival-processing-checklist.md)
-- [Description Checklist: Obligation Status by Level of Description](download/checklist-obligation-status.pdf)
+- [Description Checklist: Obligation Status by Level of Description](downloads/checklist-obligation-status.pdf)
 
 ## AtoM Importer
 Online utility for transforming a custom file / item list into a csv file ready for AtoM upload.
