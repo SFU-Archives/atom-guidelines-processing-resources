@@ -15,7 +15,7 @@ Only include at the `file` and `item` levels if you are aiming at a **full** des
 ## Template text / examples
 ### University records
 
-`Copyright in records authored by SFU employees belongs to SFU. The Archives provides access to these materials under a Creative Commons Attribution-NonCommercial license (CC BY-NC). Users are free to copy, share and adapt the materials as they like provided they credit SFU as the creator, indicate any changes they have made, and use the works for a non-commercial purpose. All requests for commercial use should be made in writing to SFU Archives.`
+`XXXX records were authored by SFU employees and copyright in these belongs to SFU. The Archives provides access to these materials under a Creative Commons Attribution-NonCommercial license ([CC BY-NC](https://creativecommons.org/licenses/by-nc/4.0/)). Users are free to copy, share and adapt the materials as they like provided they credit SFU as the creator, indicate any changes they have made, and use the works for a non-commercial purpose. All requests for commercial use should be made in writing to SFU Archives.`
 
 `The LEVEL also includes copyright-protected materials for which SFU does not own copyright (e.g. all incoming records received that were authored by non-SFU third parties). For these materials, the Archives makes copies available for private study or research purposes under the fair dealing provisions of Canada's Copyright Act. Use for any other purpose may require the permission of the copyright owner. SFU Archives can assist researchers in attempting to identify copyright owners, but it is the users' responsibility to contact owners and secure any permissions.`
 
