@@ -15,7 +15,7 @@ Use as separate PD statement for each `Specific Material Designation` (SMD).
 
 The RAD "rule of 3" (1.5B2) is optional.
 - If there are more than three SMDs, use one "and other material".
-- If using, give detail in a [Physical description note](physical-description-note.md)
+- If using, give detail in a [Physical description note](other-notes.md#physical-description-rad-18B9)
 
 Within each PD statement use RAD punctuation to separate elements:
 - `extent of descriptive unit: other physical details; dimensions + accompanying material`
