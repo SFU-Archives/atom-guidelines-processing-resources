@@ -77,6 +77,11 @@ PD = "1.5 m of textual records and other materials"
 PD Note = "Non-textual records include 125 photographs in sub-series 2 (files 3, 5, and 15), and 43 VHS tapes in sub-series 5"
 ```
 
+```
+PD = "85.55 GB of moving images (10 films): mov, mp4"
+PD Note = "Total size (85.55 GB) includes preservation copies (mov) and access copies (mp4).
+```
+
 ## Publisher's series [RAD 1.8B10]
 
 | Fonds 	| Series 	| Files 	| Items 	|
