@@ -143,4 +143,4 @@ Possible use cases:
 <br clear="both">
 
 **Existing mappings:**
-- [Contacts sheets mapping (csv)](../downloads/sfu-archives-contacts-sheets-mapping.csv): use for legacy contact sheets indexing data exported from the AIS for upload to AtoM.
+- [Contacts sheets mapping (csv)](../downloads/sfu-archives-contact-sheets-mapping.csv): use for legacy contact sheets indexing data exported from the AIS for upload to AtoM.
