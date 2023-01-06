@@ -21,11 +21,13 @@ Try to minimize the amount of repetition by referring back to the `fonds` descri
 
 ## File and item level
 At the `file` and `item` levels, use the following terms:
-- `Open` = no restrictions in the reading room, can be disseminated online.
-- `Open: reading room only`  = file contains non-sensitive personal information (e.g. addresses older than 5 years) that can be accessed in the reading room, but should not be dissemminated online.
 - `Pending review` = file / item must be reviewed by an archivist for access restrictions prior to release.
-- `Restricted in part` = file contains some restricted documents (typically 3 or less) that have been removed (enclosed), the rest of the file is open.
-- `Restricted in whole` = file / item can only be accessed via research agreement.
+- `Open, no restrictions` = no restrictions in the reading room, can be disseminated online.
+- `Open, reading room`  = analog material that contains non-sensitive personal information (e.g. addresses older than 5 years) that can be accessed in the reading room, but should not be disseminated online.
+- `Open, offline` = same as `Open, reading room` but for digital materials.
+- `Open with enclosures` = file contains some restricted documents (typically 3 or less) that have been removed (enclosed), the rest of the file is open.
+- `Open with redactions` = digital materials that have been redacted in the access copy.
+- `Restricted` = file / item can only be accessed via research agreement.
 - `Closed` = file / item can only be accessed by SFU staff for an SFU business purpose (typically because it contains legal advice).
 
 Narrative notes on restrictions should be avoided at this level: text will not display attractively in file or item lists in reports and finding aids.
@@ -47,5 +49,5 @@ Reviews of `pending review` files and items should be documented in the general 
 ###### [<< Previous: Availability of other formats](availability-of-other-formats.md) `|` [Next: Terms governing use, reproduction, and publication >>](terms-governing-use.md)
 
 ---
-###### Last updated: Jan 17, 2022
+###### Last updated: Jan 6, 2023
 ###### MA = Mandatory `|` RE = Required for full description `|` IA = Required if applicable `|` OP = Optional `|` NA = Not applicable `|` DN = Do not use
