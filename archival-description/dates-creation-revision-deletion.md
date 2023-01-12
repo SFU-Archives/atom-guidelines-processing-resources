@@ -3,7 +3,7 @@
 # Dates of creation, revision, and deletion
 | Fonds 	| Series 	| Files 	| Items 	|
 |:-----:	|:------:	|:-----:	|:-----:	|
-|   RE    |   IA    |   OP  	|   OP  	|
+|   RE    |   RE    |   OP  	|   OP  	|
 
 Not a RAD element.
 

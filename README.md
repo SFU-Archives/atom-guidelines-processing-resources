@@ -6,6 +6,7 @@ This site provides guidelines for the use of [SFU AtoM](https://atom.archives.sf
  SFU Archives and SFU Special Collections are separate institutions. As joint users of a shared resource, we try to broadly align our practices to ensure consistency throughout SFU AtoM. Most of the documentation on this site, however, was created by Archives; Special Collections' practices may sometimes diverge.
 
  This site is a work-in-progress and pages / links will be added as they are prepared.
+- [Recent changes and additions](recent-changes-additions.md)
 
 ## AtoM data entry guidelines
 Field-by-field guidance to data entry in SFU AtoM.

@@ -19,8 +19,10 @@ Use in addition the [Restrictions on access](restrictions-on-access.md) field if
 
 `Digitized and born-digital materials may or may not be directly available from the associated description in SFU AtoM, depending on access or copyright restrictions. Materials not directly available online may be delivered by off-line methods. Consult the reference archivist for more information about access to offline digital materials.`
 
+`The Archives is in the process (as of DATE) of digitizing its film and video holdings. Some of the items in this series may have been digitized but not yet fully processed (ingested to the digital preservation system with preservation and access copies generated). Consult the reference archivist for more information.`
+
 ---
 ###### [<< Previous: Location of originals](location-of-originals.md) `|` [Next: Restrictions on access >>](restrictions-on-access.md)
 ---
-###### Last updated: Jan 17, 2022
+###### Last updated: Jan 12, 2023
 ###### MA = Mandatory `|` RE = Required for full description `|` IA = Required if applicable `|` OP = Optional `|` NA = Not applicable `|` DN = Do not use
