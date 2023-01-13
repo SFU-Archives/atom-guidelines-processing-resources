@@ -10,7 +10,12 @@ Use for information relating to copyright in the materials under description.
 **Required** at the `fonds` and `series` level.
 
 Only include at the `file` and `item` levels if you are aiming at a **full** description.
-- The Archives does not typically include it at these lower levels (partial description)
+- The Archives does not typically include it at these lower levels (partial description).
+
+For assistance in determining copyright term, see the [Canadian Copyright Term and Public Domain Flowchart](https://www.ualberta.ca/faculty-and-staff/copyright/intro-to-copyright-law/licensed-royalty-free-content/pd-flowchart---types.html) created and maintained by the [University of Alberta Copyright Office](https://www.ualberta.ca/faculty-and-staff/copyright/index.html).
+
+The Archives has created static pages in SFU AtoM for information about our practices with respect to [CC Licenses](https://cottonwood.archives.sfu.ca/cc-by-nc) (for SFU and some privately donated records) and for dealing with [mixed copyright ownership](https://cottonwood.archives.sfu.ca/mixed-copyright-ownership) scenarios.
+- Where appropriate, link to these pages in the note field at series levels to avoid lengthy repetition of the same information across multiple levels of description.
 
 ## Template text / examples
 ### University records
@@ -35,5 +40,5 @@ Only include at the `file` and `item` levels if you are aiming at a **full** des
 ---
 ###### [<< Previous: Restrictions on access](restrictions-on-access.md) `|` [Next: Finding aids >>](finding-aids.md)
 ---
-###### Last updated: Jan 17, 2022
+###### Last updated: Jan 13, 2023
 ###### MA = Mandatory `|` RE = Required for full description `|` IA = Required if applicable `|` OP = Optional `|` NA = Not applicable `|` DN = Do not use
