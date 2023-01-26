@@ -18,6 +18,7 @@ The main rationale here is that awareness of restrictions is critical for resear
 
 Try to minimize the amount of repetition by referring back to the `fonds` description, e.g. when all files are "pending review." But if there are **known** restrictions at the series level, highlight these specifically.
 
+Restrictions for preservation reasons (e.g to AV materials on obsolete or fragile media) should also be mentioned at the appropriate series level.
 
 ## File and item level
 At the `file` and `item` levels, use the following terms:
@@ -45,9 +46,11 @@ Reviews of `pending review` files and items should be documented in the general 
 
 `Access restrictions may apply. See the file / item list and the note on restrictions at the fonds level for more detail.`
 
+`Some items on older physical media may not be accessible in their original format for preservation reasons; access will be provided through digitization of the original. Consult the reference archivist for more information.``
+
 ---
 ###### [<< Previous: Availability of other formats](availability-of-other-formats.md) `|` [Next: Terms governing use, reproduction, and publication >>](terms-governing-use.md)
 
 ---
-###### Last updated: Jan 6, 2023
+###### Last updated: Jan 26, 2023
 ###### MA = Mandatory `|` RE = Required for full description `|` IA = Required if applicable `|` OP = Optional `|` NA = Not applicable `|` DN = Do not use
