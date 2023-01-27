@@ -45,14 +45,14 @@ Template for presenting basic admin history data in visual, table format.
 ## Finding aid appendices
 Finding aid dividers and headers for appendix materials.
 - [Description](resources/finding-aid-appendices.md)
-- [Template (Word doc)](downloads/finding-aid-appdenices.docx)
+- [Template (Word doc)](downloads/finding-aid-appendices-template.docx)
 
 ## AIS database documentation
 Links to Archives' internal wiki (staff access only) for documentation relating to the Archives' AIS database.
 - [AIS Documentation](https://wiki.its.sfu.ca/departments/archives/index.php/AIS_User_Documentation)
 - [Processing Projects](https://wiki.its.sfu.ca/departments/archives/index.php/Processing_Projects)
 
-###### Last updated: Jan 12, 2023
+###### Last updated: Jan 27, 2023
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
