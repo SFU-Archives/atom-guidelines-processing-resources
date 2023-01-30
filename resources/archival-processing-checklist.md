@@ -21,7 +21,7 @@ Use this checklist to help manage arrangement and description projects ([also av
 
 - [ ] Manually create the `Fonds` record in SFU AtoM (if required).
 
-- [ ] Transform the Excel file / item list to AtoM csv via the [Online AtoM Import app](online-atom-import-app.md).
+- [ ] Transform the Excel file / item list to AtoM csv via the [Online AtoM Import app](atom-importer.md).
 
 - [ ] Import AtoM csv file to AtoM: **first series, then files, then items**.
 
