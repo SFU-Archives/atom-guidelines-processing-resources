@@ -11,21 +11,22 @@ This site provides guidelines for the use of [SFU AtoM](https://atom.archives.sf
 - [Recent changes and additions](recent-changes-additions.md)
 
 ## Contents
-- **AtoM data entry guidelines** | [Archival descriptions](archival-description/overview.md) |Authority records (in progress)
+- **AtoM data entry guidelines** – [Archival descriptions](archival-description/overview.md) | Authority records (in progress)
 
-- **Checklists** | [Processing Project Checklist (SFU Archives)](resources/archival-processing-checklist.md) | [Description Checklist: Obligation Status by Level of Description](downloads/checklist-obligation-status.pdf)
+- **Checklists** – [Processing Project Checklist (SFU Archives)](resources/archival-processing-checklist.md) | [Description Checklist: Obligation Status by Level of Description](downloads/checklist-obligation-status.pdf)
 
-- **AtoM Importer** | [Description](resources/atom-importer.md) | [Online app](https://sfuarchives.shinyapps.io/atom_import/) | [Standard template (Excel)](downloads/atom-importer-standard.xlsx) | [AtoM field mapping](downloads/atom-importer-mapping.csv)
+- **AtoM Importer** – [Description](resources/atom-importer.md) | [Online app](https://sfuarchives.shinyapps.io/atom_import/) | [Standard template (Excel)](downloads/atom-importer-standard.xlsx) | [AtoM field mapping](downloads/atom-importer-mapping.csv)
 
-- **Extent Calculator** | [Description](resources/extent-calculator.md) | [Online app](https://sfuarchives.shinyapps.io/extent_calculator/)
+- **Extent Calculator** – [Description](resources/extent-calculator.md) | [Online app](https://sfuarchives.shinyapps.io/extent_calculator/)
 
-- **Resolution Calculator** | [Description](resources/resolution-calculator.md) | [Online app](https://sfuarchives.shinyapps.io/resolution_calculator/)
+- **Resolution Calculator** – [Description](resources/resolution-calculator.md) | [Online app](https://sfuarchives.shinyapps.io/resolution_calculator/)
 
-- **Admin history data template** | [Description](resources/admin-history-data-template.md) | [Example (pdf)](downloads/admin-history-data-example.pdf) | [Template (Word doc)](downloads/admin-history-data-template.docx)
+- **Admin history data template** – [Description](resources/admin-history-data-template.md) | [Example (pdf)](downloads/admin-history-data-example.pdf) | [Template (Word doc)](downloads/admin-history-data-template.docx)
 
-- **Finding aid appendices** | [Description](resources/finding-aid-appendices.md) | [Template (Word doc)](downloads/finding-aid-appendices-template.docx)
+- **Finding aid appendices** – [Description](resources/finding-aid-appendices.md) | [Template (Word doc)](downloads/finding-aid-appendices-template.docx)
 
 - **Guidelines for processing digital records** (forthcoming)
+
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
