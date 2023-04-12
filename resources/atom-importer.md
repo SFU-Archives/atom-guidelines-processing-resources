@@ -1,18 +1,99 @@
 ###### [SFU AtoM Guidelines and Processing Resources](../README.md)
 
 # AtoM Importer
-###### Last updated: Sep 15, 2022
-The Archives typically requires only minimal description at the `file` and `item` levels – simple lists giving only `Reference code`, `Title`, `Dates`, `Access status`, and `Container number`. It is time-consuming to enter these lists manually in AtoM, record-by-record. But AtoM's [csv import template](https://wiki.accesstomemory.org/wiki/Resources/CSV_templates), with its 80+ columns for every database field, is unwieldy for quick data entry. The Archives' preferred solution is to use our own custom Excel template for listing files / items (with a small number of columns), then transform it via script into a csv format that can be uploaded to AtoM.
-
-The [AtoM Importer app](https://sfuarchives.shinyapps.io/atom_import/) is a web application developed for this purpose. It was written in `R` by Kelsey Poloney and hosted on the Archives' `shinyapps` site. It takes the Archives' custom file list and transforms it into a standard `AtoM csv import file` ready for upload to AtoM. The app allows users to add new templates by providing an interface to map a custom template's column to AtoM fields (see [Add new templates](#add-new-templates) below).
-
-Note that there are separate templates for SFU Archives and SFU Special Collections; the documentation on this page is for the Archives' version.
+###### Last updated: Apr 12, 2023
+The Archives typically requires only minimal description at the **file** and **item** levels – simple lists giving only `Reference code`, `Title`, `Dates`, `Access status`, and `Container number`. It is time-consuming to enter these lists manually in AtoM, record-by-record. As an alternative, you can use either the standard AtoM csv import template or SFU Archives' own custom import templates.
 
 **Contents:**
-- [From Excel to AtoM](#from-excel-to-atom)
-- [Notes on usage](#notes-on-usage)
-- [Guide to SFU Archives' standard template](#guide-to-the-sfu-archives-standard-template)
-- [Custom templates](#custom-templates)
+- [Standard AtoM import template](#atom-import-template)
+- [SFU Archives custom import templates](#sfu-archives-import-template)
+- [Customize the Archives' templates](#customize-the-archives-templates)
+- [Data entry guidance - series](#data-entry-guidance-series)
+- [Data entry guidance - files / items](#data-entry-guidance-files-items)
+- [Field mapping guidance](#field-mapping-guidance)
+
+## Standard AtoM import template
+The AtoM import template is a csv file with columns for each AtoM field (there are about 80 columns). Once completed, it can be uploaded directly to AtoM.
+1. Download [the AtoM csv import template](https://wiki.accesstomemory.org/wiki/Resources/CSV_templates) from the AtoM documentation site.
+2. Delete any columns not required.
+3. Enter data, save the csv file.
+4. Open the SFU AtoM production site, log in, and navigate to `Import` > `CSV`.
+5. On the `Import CSV` page, use the following settings (these are the defaults, they do not need to be changed):
+    - `Type` = "Archival description"
+    - `Update behaviours` = "Ignore matches and create new records on import"
+    - `Skip matched records` = UNCHECKED
+    - `Do not index records` = UNCHECKED
+    - Use the `Select file` button to navigate to / select the csv file you created in step 6.
+
+AtoM will import the data and create new description records linked to their existing parent AtoM records.
+
+See AtoM documentation for more information on this process.
+
+## SFU Archives custom import templates
+The Archives has its own custom import templates. These differ from the standard AtoM template in that they are in Excel rather than csv format. They allow you to:
+- Use calculation fields in the template (e.g. for reference codes).
+- Use controlled vocabularies to ensure consistent data entry (drop-down menus).
+- Easily set default values for specific fields.
+
+The main drawback is that the import process is more complicated with the SFU templates. With these you must:
+- Complete both a data-entry template and an AtoM field-mapping document and save both as csv.
+- Use the online [AtoM Import Converter app](https://sfuarchives.shinyapps.io/atom_import/) to transform the Archives' template into the standard AtoM csv template for upload to AtoM.
+
+### Complete the data-entry template
+Download the Excel [Data entry template](../downloads/atom-importer-data-entry.xlsx).
+- It includes separate tabs for listing series, files, and items, as well as a tab for taxonomies (controlled terms used on the other data in the form of drop-down menus).
+
+**It is critical that all descriptions listed on your import template ALREADY have parent records in AtoM.**
+- Make sure the **fonds** and all **series**, **sub-series**, and **sub-sub-series** already exist in AtoM before importing **files**.
+- Import all **files** before you import **items**.
+- Only with the **series** tab can you include both parent and child series on the same spreadsheet.
+
+See below ([Data entry guidance](#data-entry-guidance)) for more detail on completing the template.
+
+When data entry is complete, save the tab as a csv file.
+
+### Save the field-mapping document
+Download the Excel [Field mapping document](../downloads/atom-importer-field-mapping.xlsx). This maps the columns in your data entry csv file to the corresponding AtoM field.
+- It also includes separate tabs for series, files, and items.
+
+See below ([Field mapping guidance](#field-mapping-guidance) for more about editing AtoM field mapppings.
+
+Save the appropriate tab as a csv file, e.g. use the `Files` for a file list, `Items` for an item list, etc.
+
+### Adjust formatting
+When saving the both Excel files as csv with a Mac, `character encoding` and `line endings` settings will need to be adjusted.
+- Open the csv file in BBEdit and change these to `Unicode (UTF-8)` and `Unix (LF)` respectively.
+
+### Use the online AtoM Import Converter app
+The [AtoM Import Converter app](https://sfuarchives.shinyapps.io/atom_import/) is a web application, written in `R` by Kelsey Poloney and hosted on the Archives' `shinyapps` site. It takes the two csv files (data-entry and field-mapping) to create a standard AtoM csv import file ready for upload to AtoM.
+
+Under `Institution` select "Other".
+
+Under `Upload descriptions (csv)`, click the `Browse` button and navigate to / select your `data-entry.csv` file.
+
+Under `Upload mapping (csv)`, click the `Browse` button and navigate to / select you `field-mapping.csv` file.
+
+The app will create a new csv file called `atom_import.csv` and save it to your `Downloads` folder.
+- This file is ready for upload to AtoM following the same steps above described under [AtoM import template](#atom-import-template).
+
+Note that in earlier versions of the app, you could specify the institution (either SFU Archives or SFU Special Collections) and upload an institution-specific template, omitting the need to upload the `field-mapping` file.
+- This is no longer supported; you must ALWAYS select "Other" as the `Institution` and upload a `field-mapping` file.
+
+## Customize the Archives' templates
+You can further customize the templates in a number of ways:
+- Add new columns for entering data in additional AtoM fields.
+- Edit existing taxonomies or add new ones on the `Taxonomies` tab.
+- Add / edit default values on the `field-mapping` file.
+
+If you add new columns to the `data entry` file, you need to update the `field-mapping` file by indicating which AtoM field the new columns map to.
+
+If you do not need a column one a specific template, you can simply delete it; you do not need to make any changes to the `field-mapping` file.
+
+## Data entry guidance - series
+
+## Data entry guidance - files / items
+
+## Field mapping guidance
 
 **Downloads:**
 - [SFU Archives standard AtoM Importer data entry template (Excel)](../downloads/atom-importer-standard.xlsx)
