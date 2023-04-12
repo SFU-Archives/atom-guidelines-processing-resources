@@ -3,6 +3,10 @@
 # Recent Changes and Additions
 This page documents recent changes and additions to the Guidelines.
 
+## April 2023
+[AtoM Importer](resources/atom-importer.md)
+- Updated instructions with new data-entry templates and field-mapping files.
+
 ## January 2023
 [Terms governing use, reproduction, and publication](archival-description/terms-governing-use.md)
 - Add link to University of Alberta's Public Domain Flowchart.
@@ -15,4 +19,4 @@ This page documents recent changes and additions to the Guidelines.
 [Availability of other formats](archival-description/availability-of-other-formats.md)
 - Add template text for on-going digitization work.
 
-###### Last updated: Jan 12, 2022
+###### Last updated: Apr 12, 2022
