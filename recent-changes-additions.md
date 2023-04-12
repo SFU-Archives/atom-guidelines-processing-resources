@@ -19,4 +19,4 @@ This page documents recent changes and additions to the Guidelines.
 [Availability of other formats](archival-description/availability-of-other-formats.md)
 - Add template text for on-going digitization work.
 
-###### Last updated: Apr 12, 2022
+###### Last updated: Apr 12, 2023
