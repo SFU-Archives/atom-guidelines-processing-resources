@@ -5,12 +5,17 @@
 The Archives typically requires only minimal description at the **file** and **item** levels – simple lists giving only `Reference code`, `Title`, `Dates`, `Access status`, and `Container number`. It is time-consuming to enter these lists manually in AtoM, record-by-record. As an alternative, you can use either the standard AtoM csv import template or SFU Archives' own custom import templates.
 
 **Contents:**
-- [Standard AtoM import template](#atom-import-template)
-- [SFU Archives custom import templates](#sfu-archives-import-template)
+- [Standard AtoM import template](#standard-atom-import-template)
+- [SFU Archives custom import templates](#sfu-archives-custom-mport-template)
+  - [Complete the data-entry template](#complete-the-data-entry-template)
+  - [Save the field-mapping document](#save-the-field-mapping-document)
+  - [Adjust formatting](#adjust-formatting)
+  - [Use the online AtoM Import Converter app](#use-the-online-atom-import-converter-app)
 - [Customize the Archives' templates](#customize-the-archives-templates)
 - [Data entry guidance - series](#data-entry-guidance-series)
 - [Data entry guidance - files / items](#data-entry-guidance-files-items)
 - [Field mapping guidance](#field-mapping-guidance)
+- [Links and downloads](#links-and-downloads)
 
 ## Standard AtoM import template
 The AtoM import template is a csv file with columns for each AtoM field (80+ columns). Once completed, it can be uploaded directly to AtoM.
@@ -209,9 +214,13 @@ When you have completed data entry, delete the last greyed-out line (row 101) an
 ## Field mapping guidance
 
 ## Links and downloads
-- [SFU Archives standard AtoM Importer data entry template (Excel)](../downloads/atom-importer-standard.xlsx)
-- [Custom AtoM Importer mapping template (csv)](../downloads/atom-importer-mapping.csv)
-- [Contacts sheets mapping (csv)](../downloads/sfu-archives-contacts-sheets-mapping.csv)
+**AtoM template**
+- [Standard AtoM csv import template](https://sfuarchives.shinyapps.io/atom_import/)
+- [AtoM documentation](https://www.accesstomemory.org/en/docs/2.7/user-manual/import-export/csv-import/#csv-import)
 
-**Code and developer documentation:**
+**SFU Archives custom template (Excel)**
+- [Data entry template](../downloads/atom-importer-data-entry.xlsx)
+- [Field mapping document](../downloads/atom-importer-field-mapping.xlsx)
+
+**AtoM Import Converter developer documentation**
 - [GitHub developer page (Kelsey Poloney](https://github.com/kpoloney/atom_import_template)
