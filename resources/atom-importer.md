@@ -212,20 +212,23 @@ Do not enter below row 101; add new rows above this line as needed (drop-down me
 When you have completed data entry, delete the last greyed-out line (row 101) and any empty lines above and save the file as `csv`.
 
 ## Field mapping guidance
-<img align="right" width="400" src="../screenshots/data-entry-files.png">
+<img align="right" width="400" src="../screenshots/field-mapping.png">
 
 Each tab on the `field-mapping` Excel document has two columns:
 - `atom` = the name of the AtoM field.
 - `origin_fields` = the column name on the spread-sheet.
 
 Any column on the `data-entry` file must be mapped to an AtoM field if it is to be imported.
-- The `Note` column on the template is not mapped: it is meant only for temporary reference.
+- Columns intended for temporary reference and not for import can be left unmapped.
+- An example is the `Note` column on the custom templates; intended only for temporary reference when later writing descriptions.
 
 **Column names CANNOT include blank spaces.**
+- Correct: `RefCode`.
+- Incorrect: `Ref Code`.
 
-To set default text (will be imported into every record):
-- Use square brackets (`[]`) + the equals sign (`=`) + the default text (without quotation marks).
-- E.g. `[=Final]` in the `descriptionStatus`.
+To set default text that will be imported into every record:
+- Enter a value in the `origin_fields` column using square brackets (`[]`) + the equals sign (`=`) + the default text (without quotation marks).
+- E.g. `[=Final]` in the `descriptionStatus` row will set "Final" as the value in the `Restrictions on access` field on import.
 
 <br clear="all">
 
