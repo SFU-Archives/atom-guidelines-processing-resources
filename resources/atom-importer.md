@@ -12,8 +12,8 @@ The Archives typically requires only minimal description at the **file** and **i
   - [Adjust formatting](#adjust-formatting)
   - [Use the online AtoM Import Converter app](#use-the-online-atom-import-converter-app)
 - [Customize the Archives' templates](#customize-the-archives-templates)
-- [Data entry guidance - series](#data-entry-guidance-series)
-- [Data entry guidance - files / items](#data-entry-guidance-files-items)
+- [Data entry guidance - series](#data-entry-guidance---series)
+- [Data entry guidance - files / items](#data-entry-guidance---files--items)
 - [Field mapping guidance](#field-mapping-guidance)
 - [Links and downloads](#links-and-downloads)
 
@@ -212,6 +212,22 @@ Do not enter below row 101; add new rows above this line as needed (drop-down me
 When you have completed data entry, delete the last greyed-out line (row 101) and any empty lines above and save the file as `csv`.
 
 ## Field mapping guidance
+<img align="right" width="400" src="../screenshots/data-entry-files.png">
+
+Each tab on the `field-mapping` Excel document has two columns:
+- `atom` = the name of the AtoM field.
+- `origin_fields` = the column name on the spread-sheet.
+
+Any column on the `data-entry` file must be mapped to an AtoM field if it is to be imported.
+- The `Note` column on the template is not mapped: it is meant only for temporary reference.
+
+**Column names CANNOT include blank spaces.**
+
+To set default text (will be imported into every record):
+- Use square brackets (`[]`) + the equals sign (`=`) + the default text (without quotation marks).
+- E.g. `[=Final]` in the `descriptionStatus`.
+
+<br clear="all">
 
 ## Links and downloads
 **AtoM template**
