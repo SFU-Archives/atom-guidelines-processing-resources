@@ -15,7 +15,7 @@ This site provides guidelines for the use of [SFU AtoM](https://atom.archives.sf
 
 - **Checklists** – [Processing Project Checklist (SFU Archives)](resources/archival-processing-checklist.md) | [Description Checklist: Obligation Status by Level of Description](downloads/checklist-obligation-status.pdf)
 
-- **AtoM Importer** – [Description](resources/atom-importer.md) | [Online app](https://sfuarchives.shinyapps.io/atom_import/) | [Standard template (Excel)](downloads/atom-importer-standard.xlsx) | [AtoM field mapping](downloads/atom-importer-mapping.csv)
+- **AtoM Importer** – [Description](resources/atom-importer.md) | [Data entry template](downloads/atom-importer-data-entry.xlsx) | [AtoM field mapping file](downloads/atom-importer-field-mapping.xlsx) | [Online converter app](https://sfuarchives.shinyapps.io/atom_import/)
 
 - **Extent Calculator** – [Description](resources/extent-calculator.md) | [Online app](https://sfuarchives.shinyapps.io/extent_calculator/)
 
