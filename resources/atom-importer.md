@@ -19,7 +19,7 @@ The Archives typically requires only minimal description at the **file** and **i
 
 ## Standard AtoM import template
 The AtoM import template is a csv file with columns for each AtoM field (80+ columns). Once completed, it can be uploaded directly to AtoM.
-1. Download [the AtoM csv import template](https://wiki.accesstomemory.org/wiki/Resources/CSV_templates) from the AtoM documentation site.
+1. Download [the AtoM csv import template](https://wiki.accesstomemory.org/Resources/CSV_templates) from the AtoM documentation site.
 2. Delete any columns not required.
 3. Enter data, save the csv file.
 4. Open the SFU AtoM production site, log in, and navigate to `Import` > `CSV`.
