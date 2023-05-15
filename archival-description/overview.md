@@ -58,7 +58,7 @@ Note that the Archives typically aims a **full** description only at the fonds a
 | [Statement of responsibility relating to the edition](edition-area.md#statement-of-responsibility-relating-to-the-edition-rad-12c) 	| NA 	| NA 	| NA 	| DN 	|
 | <br>
 | <a name="class-of-material-area"><b>Class of material specific details area</b></a>| <b>Fonds</b> | <b>Series</b> | <b>File</b> | <b>Item</b> |
-| [Statement of scale (cartographic)](class-material-specific-details.md | NA 	| NA 	| NA 	| OP 	|
+| [Statement of scale (cartographic)](class-material-specific-details.md) | NA 	| NA 	| NA 	| OP 	|
 | [Statement of projection (cartographic)](class-material-specific-details.md) 	| NA 	| NA 	| NA 	| OP 	|
 | [Statement of coordinates (cartographic)](class-material-specific-detalils.md) 	| NA 	| NA 	| NA 	| OP 	|
 | [Statement of scale (architectural)](class-material-specific-details.md) 	| NA 	| NA 	| NA 	| OP 	|
