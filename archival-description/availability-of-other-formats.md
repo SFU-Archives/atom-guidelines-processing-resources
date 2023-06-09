@@ -21,7 +21,9 @@ Use in addition the [Restrictions on access](restrictions-on-access.md) field if
 
 `The Archives is in the process (as of DATE) of digitizing its film and video holdings. Some of the items in this series may have been digitized but not yet fully processed (ingested to the digital preservation system with preservation and access copies generated). Consult the reference archivist for more information.`
 
- Files are available in their original file formats. Some older Microsoft formats (doc, xls) may not open in the current versions of those softwares. During processing, the archivist used a script to batch-convert all files to create a set of pdf access copies and these are available alongside the originals. Researchers should be aware that not all file formats could convert to pdf by this method; and in some cases (e.g. Excel) conversion to pdf may result in loss or significant distortion of original document formatting and functionality. Consult the reference archivist for more information.
+```
+Files are available in their original file formats. Some older Microsoft formats (doc, xls) may not open in the current versions of those softwares. During processing, the archivist used a script to batch-convert all files to create a set of pdf access copies and these are available alongside the originals. Researchers should be aware that not all file formats could convert to pdf by this method; and in some cases (e.g. Excel) conversion to pdf may result in loss or significant distortion of original document formatting and functionality. Consult the reference archivist for more information.
+```
 
 ---
 ###### [<< Previous: Location of originals](location-of-originals.md) `|` [Next: Restrictions on access >>](restrictions-on-access.md)
