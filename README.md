@@ -1,5 +1,5 @@
 # SFU AtoM Guidelines and Processing Resources
-###### Last updated: Mar 9, 2023
+###### Last updated: Jun 22, 2023
 
 This site provides guidelines for the use of [SFU AtoM](https://atom.archives.sfu.ca). It also includes links and information about other resources to support archival arrangement and description more generally.
 
@@ -15,7 +15,7 @@ This site provides guidelines for the use of [SFU AtoM](https://atom.archives.sf
 
 - **Checklists** – [Processing Project Checklist (SFU Archives)](resources/archival-processing-checklist.md) | [Description Checklist: Obligation Status by Level of Description](downloads/checklist-obligation-status.pdf)
 
-- **AtoM Importer** – [Description](resources/atom-importer.md) | [Data entry template](downloads/atom-importer-data-entry.xlsx) | [AtoM field mapping file](downloads/atom-importer-field-mapping.xlsx) | [Online converter app](https://sfuarchives.shinyapps.io/atom_import/)
+- **AtoM Importer** – [Description](resources/atom-importer.md) | [Standard AtoM import template](downloads/atom-import-template.xlsx) | [SFU custom import template](downloads/sfu-atom-import-list.xlsx) | [AtoM field mapping file](downloads/sfu-atom-import-mapping.xlsx) | [Online converter app](https://sfuarchives.shinyapps.io/atom_import/)
 
 - **Extent Calculator** – [Description](resources/extent-calculator.md) | [Online app](https://sfuarchives.shinyapps.io/extent_calculator/)
 

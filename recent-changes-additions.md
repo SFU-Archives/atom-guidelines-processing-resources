@@ -3,7 +3,7 @@
 # Recent Changes and Additions
 This page documents recent changes and additions to the Guidelines.
 
-## April 2023
+## Jun 2023
 [AtoM Importer](resources/atom-importer.md)
 - Updated instructions with new data-entry templates and field-mapping files.
 
@@ -19,4 +19,4 @@ This page documents recent changes and additions to the Guidelines.
 [Availability of other formats](archival-description/availability-of-other-formats.md)
 - Add template text for on-going digitization work.
 
-###### Last updated: Apr 12, 2023
+###### Last updated: Jun 22, 2023
