@@ -23,10 +23,11 @@ The main advantages of the SFU template are when / if you want to:
 Otherwise, it is easier to use the standard template. You can also create your own [project-specific import template](#project-specific-custom-template) in conjunction with the online conversion app.
 
 ## Standard AtoM import template
-The AtoM import template is a csv file with columns for each AtoM field (80+ columns). Once completed, it can be uploaded directly to AtoM. SFU has adapted it as an Excel file, with separate tabs for `Series`, `Files` and `Items`, deleting columns not typically needed at a particular level of description. You can use either the full or adapted version.
+The AtoM import template is a csv file with columns for each AtoM field (80+ columns). Once completed, it can be uploaded directly to AtoM. SFU has adapted it as an Excel file, with separate tabs for **series**, **files** and **items**, deleting columns not typically needed at a particular level of description. You can use either the full or adapted version.
 - [Full AtoM csv import template (with all 80+ columns)](https://wiki.accesstomemory.org/Resources/CSV_templates) - from the AtoM documentation site.
 - [SFU adaptation (Excel)](../downloads/atom-import-template.xlsx) - includes guidelines to column data-entry.
 
+### How to use
 1. Create your series / file / item list.
 - If using the SFU adaptation, use the appropriate tab and save that tab as csv.
 - If using the full AtoM csv template, you can just delete any columns not required.
@@ -44,32 +45,41 @@ The AtoM import template is a csv file with columns for each AtoM field (80+ col
 AtoM will import the data and create new description records linked to their existing parent AtoM records.
 
 ### Notes
-Always enter a unique value in the `legacyID` column: simplest is to use serial numbers, `1, 2, 3, 4 ...`
+Always enter a unique value in the `legacyID` column: simplest is to use serial numbers, "1, 2, 3, 4 ..."
 
 Do not rename or re-order column headers; it is ok to leave columns blank or delete columns not required.
 
-Always create the `fonds` record manually in AtoM before importing any lower-level descriptions.
+Always create the **fonds** record manually in AtoM before importing any lower-level descriptions.
 
-Always upload `series` before `files` and `items` to ensure the child descriptions link to the parent series.
-- It is fine to include `series` and child `sub-` and `sub-sub-series` on the same tab.
-- It is fine to include `files` and child `items` on the same tab.
-- Do not include `series` and `files/items` on the same tab.
+Always upload **series** before **files** and **items** to ensure the child descriptions link to the parent series.
+- It is fine to include **series** and child **sub-** and **sub-sub-series** on the same tab.
+- It is fine to include **files** and child **items** on the same tab.
+- Do not include **series** and **files/items** on the same tab.
 
-All entries on the import template **must be linked to a parent description**; how to do this depends on whether the parent describe does or does not already exist in AtoM.
-- **If the parent already exists in AtoM** (e.g. you are importing files and the `series` records already exist in AtoM): enter the parent's reference code (all lowercase) in the `qubitParentSlug` column cell (e.g. `f-318-1-1`); leave the `parentID` cell blank.
-- **If the parent does NOT already exist in AtoM** (e.g. you are importing `files` and their child `items` on the same csv document): use the `legacyID` value from the parent description in the `parentID` column cell and leave the `qubitParentSlug` cell blank.
+All entries on the import template must be linked to a parent description; how to do this depends on whether the parent describe does or does not already exist in AtoM.
+
+**If the parent already exists in AtoM:**
+- E.g. you are importing **files** and the **series** records already exist in AtoM.
+- Enter the parent's reference code (all lowercase) in the `qubitParentSlug` column cell (e.g. `f-318-1-1`).
+- Leave the `parentID` cell blank.
+
+**If the parent does NOT already exist in AtoM:**
+- E.g. you are importing **files** and their child **items** on the same csv document.
+- Use the `legacyID` value from the parent description in the `parentID` column cell.
+- Leave the `qubitParentSlug` cell blank.
 
 See [AtoM documentation](https://www.accesstomemory.org/en/docs/2.7/user-manual/import-export/csv-import/#csv-import) for more information on the AtoM csv import process.
 
 ## SFU Archives custom import templates
 The [SFU custom import template](../downloads/sfu-atom-import-list.xlsx) (`sfu-atom-import-list.xlsx`) must be used in conjunction with a [field-mapping  file](../downloads/sfu-atom-import-mapping.xlsx) (`sfu-atom-import-mapping.xlsx`).
-- The import template includes separate tabs for listing `series`, `files`, and `items`, as well as a tab for `taxonomies` (controlled terms used on the other data in the form of drop-down menus).
+
+The import template includes separate tabs for listing `series`, `files`, and `items`, as well as a tab for `taxonomies` (controlled terms used on the other data in the form of drop-down menus).
 - The mapping file lists all AtoM fields in the `atom` column and gives the corresponding column name in the `origin_fields` column.
 
 **It is critical that all descriptions listed on your import template ALREADY have parent records in AtoM.**
-- Make sure the `fonds` and all `series`, `sub-series`, and `sub-sub-series` already exist in AtoM before importing `files`.
-- Import all `files` before you import `items`.
-- Only with the `series` tab can you include both parent and child series on the same spreadsheet.
+- Make sure the **fonds** and all **series**, **sub-series**, and **sub-sub-series** already exist in AtoM before importing **files**.
+- Import all **files** before you import **items**.
+- Only one the `Series` tab can you include both parent and child series on the same spreadsheet.
 
 See the `Guidelines` tab on the spreadsheet for guidance on particular columns.
 
@@ -77,11 +87,12 @@ When data entry is complete, save the tab as a csv file.
 
 ### Save the field-mapping document
 Download the Excel [Field mapping document](../downloads/atom-importer-field-mapping.xlsx). This maps the columns in your `data-entry` csv file to the corresponding AtoM field.
-- It includes separate tabs for `series`, `files`, and `items`.
 
-See below ([Field mapping guidance](#field-mapping-guidance)) for more about editing AtoM field mapppings.
+The spreadsheet includes separate tabs for `series`, `files`, and `items`.
+- Save the appropriate tab as a csv file, e.g. use `Files` for a file list, `Items` for an item list, etc.
 
-Save the appropriate tab as a csv file, e.g. use `Files` for a file list, `Items` for an item list, etc.
+If you have not made any changes to the column headers (e.g. added new ones) you should not have to edit the mapping file.
+- See below ([Field mapping guidance](#field-mapping-guidance)) for more about editing AtoM field mapppings.
 
 ### Adjust formatting
 When saving the both Excel files as csv with a Mac, `character encoding` and `line endings` settings will need to be adjusted.
