@@ -1,5 +1,5 @@
 # SFU AtoM Guidelines and Processing Resources
-###### Last updated: Jun 22, 2023
+###### Last updated: Jul 21, 2023
 
 This site provides guidelines for the use of [SFU AtoM](https://atom.archives.sfu.ca). It also includes links and information about other resources to support archival arrangement and description more generally.
 
@@ -21,7 +21,7 @@ This site provides guidelines for the use of [SFU AtoM](https://atom.archives.sf
 
 - **Resolution Calculator** – [Description](resources/resolution-calculator.md) | [Online app](https://sfuarchives.shinyapps.io/resolution_calculator/)
 
-- **Admin history data template** – [Description](resources/admin-history-data-template.md) | [Example (pdf)](downloads/admin-history-data-example.pdf) | [Template (Word doc)](downloads/admin-history-data-template.docx)
+- **Admin history data template** – [Description](resources/admin-history-data.md) | [Example (pdf)](downloads/admin-history-data-example.pdf) | [Template (Word doc)](downloads/admin-history-data-template.docx)
 
 - **Finding aid appendices** – [Description](resources/finding-aid-appendices.md) | [Template (Word doc)](downloads/finding-aid-appendices-template.docx)
 
