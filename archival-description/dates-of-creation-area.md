@@ -80,12 +80,14 @@ Enter 4-digit numbers.
 |:-----:	|:------:	|:-----:	|:-----:	|
 |   OP    |   OP    |   OP  	|   OP  	|
 
-Use for narrative information elaborating on date
+Use for narrative information elaborating on date, especially where dates of accumulation and dates of document creation are different.
 - Represents RAD note 1.8B8.
+
+`Records were accumulated between 1963 and 2021 but include (in series X-X) some older original documents that date back to <<DATE>>.`
 
 ---
 ###### [<< Previous: Class of material specific details area](class-material-specific-details.md) `|` [Next: Phyiscal description area >>](physical-description-area.md)
 
 ---
-###### Last updated: Feb 1, 2022
+###### Last updated: Jul 28, 2023
 ###### MA = Mandatory `|` RE = Required for full description `|` IA = Required if applicable `|` OP = Optional `|` NA = Not applicable `|` DN = Do not use

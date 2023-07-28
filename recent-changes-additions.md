@@ -7,6 +7,12 @@ This page documents recent changes and additions to the Guidelines.
 [Home page](README.md)
 - Fixed broken links.
 
+[Terms governing use, reproduction, and publication](archival-description/terms-governing-use.md)
+- Added sample language.
+
+[Dates of creation](archival-description/dates-of-creation-area.md)
+- Added sample language.
+
 ## Jun 2023
 [AtoM Importer](resources/atom-importer.md)
 - Updated instructions with new data-entry templates and field-mapping files.
@@ -23,4 +29,4 @@ This page documents recent changes and additions to the Guidelines.
 [Availability of other formats](archival-description/availability-of-other-formats.md)
 - Add template text for on-going digitization work.
 
-###### Last updated: Jul 23, 2023
+###### Last updated: Jul 28, 2023
