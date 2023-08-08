@@ -3,6 +3,10 @@
 # Recent Changes and Additions
 This page documents recent changes and additions to the Guidelines.
 
+## Aug 2023
+[General Material Designation (GMD)](archival-description/gmd.md)
+- Use plural forms of GMD terms.
+
 ## Jul 2023
 [Home page](README.md)
 - Fixed broken links.
@@ -29,4 +33,4 @@ This page documents recent changes and additions to the Guidelines.
 [Availability of other formats](archival-description/availability-of-other-formats.md)
 - Add template text for on-going digitization work.
 
-###### Last updated: Jul 28, 2023
+###### Last updated: Aug 8, 2023
