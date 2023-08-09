@@ -31,12 +31,12 @@ The Archives has created static pages in SFU AtoM for information about our prac
 
 `The donor (NAME) transferred copyright in records he / she authored to SFU Archives, and the Archives makes these materials available under a Creative Commons Attribution-NonCommercial license (CC BY-NC).`
 
-`Copyright applies to the records in the fonds and copyright ownership is mixed. <<DONOR>> retains copyright in works he himself authored, but agreed to make these available under a Creative Commons Attribution-NonCommercial license ([CC BY-NC](cc-by-nc)). The fonds also includes copyright-protected works created by third parties, e.g. incoming correspondence and works collected by <<DONOR>> that were authored by other individuals or groups. For these materials, the Archives may make copies available for private study or research purposes under the fair dealing provisions of Canada's Copyright Act. Use for any other purpose may require the permission of the copyright owner. SFU Archives can assist researchers in attempting to identify copyright owners, but it is the user's responsibility to contact owners and secure any required permissions or assume all risks arising from not so doing.`
+`Copyright applies to the records in the fonds and copyright ownership is mixed. <<DONOR>> retains copyright in works he himself authored, but agreed to make these available under a Creative Commons Attribution-NonCommercial license ([CC BY-NC](cc-by-nc)). The fonds also includes copyright-protected works created by third parties, e.g. incoming correspondence and works collected by <<DONOR>> that were authored by other individuals or groups. For these materials, the Archives may make copies available for private study or research purposes under the fair dealing provisions of Canada's Copyright Act. Use for any other purpose may require the permission of the copyright owner. SFU Archives can assist researchers in attempting to identify copyright owners, but it is the user's responsibility to contact owners and secure any required permissions.`
 
 `See individual series descriptions for more information about the application of copyright to specific sets of records.`
 
 ---
 ###### [<< Previous: Restrictions on access](restrictions-on-access.md) `|` [Next: Finding aids >>](finding-aids.md)
 ---
-###### Last updated: Jul 28, 2023
+###### Last updated: Aug 9, 2023
 ###### MA = Mandatory `|` RE = Required for full description `|` IA = Required if applicable `|` OP = Optional `|` NA = Not applicable `|` DN = Do not use
