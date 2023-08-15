@@ -7,6 +7,9 @@ This page documents recent changes and additions to the Guidelines.
 [General Material Designation (GMD)](archival-description/gmd.md)
 - Use plural forms of GMD terms.
 
+[Restrictions on access](archival-description/restrictions-on-access.md)
+- Revised sample language.
+
 ## Jul 2023
 [Home page](README.md)
 - Fixed broken links.
@@ -33,4 +36,4 @@ This page documents recent changes and additions to the Guidelines.
 [Availability of other formats](archival-description/availability-of-other-formats.md)
 - Add template text for on-going digitization work.
 
-###### Last updated: Aug 8, 2023
+###### Last updated: Aug 15, 2023

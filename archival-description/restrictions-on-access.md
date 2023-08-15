@@ -38,7 +38,7 @@ Reviews of `pending review` files and items should be documented in the general 
 
 ## Template text / examples
 
-`The records of DEPARTMENT_NAME are university records subject to British Columbia's Freedom of Information and Protection of Privacy Act (FIPPA), and access restrictions may apply to records containing personal information or confidential information (e.g. legal advice). Files marked "pending review" must be reviewed by an archivist prior to release. See the file lists and consult the reference archivist for more information.`
+`Records are subject to British Columbia's Freedom of Information and Protection of Privacy Act (FIPPA). Access restrictions may apply to records containing personal information or confidential information (e.g. legal advice). Files marked "pending review" must be reviewed by an archivist prior to release. See the file lists and consult the reference archivist for more information.`
 
 `Series with known restrictions include XXX.`
 
@@ -48,9 +48,11 @@ Reviews of `pending review` files and items should be documented in the general 
 
 `Some items on older physical media may not be accessible in their original format for preservation reasons; access will be provided through digitization of the original. Consult the reference archivist for more information.``
 
+`Records are subject to British Columbia's Freedom of Information and Protection of Privacy Act (FIPPA). See the note on *Restrictions on access* in the [fonds-level description](f-x) for more information.`
+
 ---
 ###### [<< Previous: Availability of other formats](availability-of-other-formats.md) `|` [Next: Terms governing use, reproduction, and publication >>](terms-governing-use.md)
 
 ---
-###### Last updated: Jan 26, 2023
+###### Last updated: Aug 15, 2023
 ###### MA = Mandatory `|` RE = Required for full description `|` IA = Required if applicable `|` OP = Optional `|` NA = Not applicable `|` DN = Do not use
