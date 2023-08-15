@@ -46,7 +46,7 @@ Reviews of `pending review` files and items should be documented in the general 
 
 `Access restrictions may apply. See the file / item list and the note on restrictions at the fonds level for more detail.`
 
-`Some items on older physical media may not be accessible in their original format for preservation reasons; access will be provided through digitization of the original. Consult the reference archivist for more information.``
+`Some items on older physical media may not be accessible in their original format for preservation reasons; access will be provided through digitization of the original. Consult the reference archivist for more information.`
 
 `Records are subject to British Columbia's Freedom of Information and Protection of Privacy Act (FIPPA). See the note on *Restrictions on access* in the [fonds-level description](f-x) for more information.`
 
