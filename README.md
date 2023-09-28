@@ -1,5 +1,5 @@
 # SFU AtoM Guidelines and Processing Resources
-###### Last updated: Jul 21, 2023
+###### Last updated: Sep 28, 2023
 
 This site provides guidelines for the use of [SFU AtoM](https://atom.archives.sfu.ca). It also includes links and information about other resources to support archival arrangement and description more generally.
 

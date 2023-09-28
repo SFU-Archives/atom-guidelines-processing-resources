@@ -47,7 +47,7 @@ Born-digital materials:
 6.14 GB of textual records and other materials
 
 Digitized copies:
-3 moving images (85.55 GB): mov, mp4
+3 moving images (85.55 GB): mov (preservation copies), mp4 (access copies)
 ```
 
 **Digitized copies:**
@@ -59,5 +59,5 @@ For calculating series textual extents, see the online [Extent calculator](https
 ---
 ###### [<< Previous: Dates of creation area](dates-of-creation-area.md) `|` [Next: Administrative history / Biographical sketch >>](admin-history-bio-sketch.md)
 ---
-###### Last updated: Apr 27, 2022
+###### Last updated: Sep 28, 2023
 ###### MA = Mandatory `|` RE = Required for full description `|` IA = Required if applicable `|` OP = Optional `|` NA = Not applicable `|` DN = Do not use

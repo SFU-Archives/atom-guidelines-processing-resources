@@ -3,6 +3,13 @@
 # Recent Changes and Additions
 This page documents recent changes and additions to the Guidelines.
 
+## Sep 2023
+[Availability of other format](archival-description/availability-of-other-formats.md)
+- Added to sample language.
+
+[Physical description area](archival-description/physical-description-area.md)
+- Minor revisions to examples.
+
 ## Aug 2023
 [General Material Designation (GMD)](archival-description/gmd.md)
 - Use plural forms of GMD terms.
@@ -36,4 +43,4 @@ This page documents recent changes and additions to the Guidelines.
 [Availability of other formats](archival-description/availability-of-other-formats.md)
 - Add template text for on-going digitization work.
 
-###### Last updated: Aug 15, 2023
+###### Last updated: Sep 28, 2023
