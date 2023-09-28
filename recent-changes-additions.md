@@ -7,6 +7,9 @@ This page documents recent changes and additions to the Guidelines.
 [Availability of other format](archival-description/availability-of-other-formats.md)
 - Added to sample language.
 
+[Phyiscal condition](archival-description/physical-condition.md)
+- Added new sample language.
+
 [Physical description area](archival-description/physical-description-area.md)
 - Minor revisions to examples.
 
