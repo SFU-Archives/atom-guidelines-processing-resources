@@ -13,11 +13,11 @@ This site provides guidelines for the use of [SFU AtoM](https://atom.archives.sf
 ## Contents
 - **AtoM data entry guidelines** – [Archival descriptions](archival-description/overview.md) | Authority records (in progress)
 
-- **Checklists** – [Processing Project Checklist (SFU Archives)](resources/archival-processing-checklist.md) | [Description Checklist: Obligation Status by Level of Description](downloads/checklist-obligation-status.pdf)
+- **Checklists** – [Processing Project Checklist (SFU Archives)](downloads/archival-processing-checklist.pdf) | [Description Checklist: Obligation Status by Level of Description](downloads/checklist-obligation-status.pdf)
 
 - **AtoM Import Template** – [Description](resources/atom-importer.md) | [Standard AtoM import template (from AtoM documentation](https://wiki.accesstomemory.org/Resources/CSV_templates) | [SFU adaptation (Excel)](downloads/atom-import-template.xlsx)
 
-- **Extent Calculator** – [Description](resources/extent-calculator.md) | [Online app](https://sfuarchives.shinyapps.io/extent_calculator/) 
+- **Extent Calculator** – [Description](resources/extent-calculator.md) | [Online app](https://sfuarchives.shinyapps.io/extent_calculator/)
 
 - **Resolution Calculator** – [Description](resources/resolution-calculator.md) | [Online app](https://sfuarchives.shinyapps.io/resolution_calculator/)
 
