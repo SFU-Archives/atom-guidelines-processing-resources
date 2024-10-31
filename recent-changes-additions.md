@@ -3,6 +3,13 @@
 # Recent Changes and Additions
 This page documents recent changes and additions to the Guidelines.
 
+## Oct 2024
+[Dates of creation area](archival-description/dates-of-creation-area.md)
+- Dates of creation vs. accumulation clarified.
+
+[AtoM Import Template](resources/atom-importer.md)
+- Import process simplified, online AtoM Importer app retired (this was a R-based app available on the Archives shinyapps site).
+
 ## Sep 2023
 [Availability of other format](archival-description/availability-of-other-formats.md)
 - Added to sample language.
@@ -46,4 +53,4 @@ This page documents recent changes and additions to the Guidelines.
 [Availability of other formats](archival-description/availability-of-other-formats.md)
 - Add template text for on-going digitization work.
 
-###### Last updated: Sep 28, 2023
+###### Last updated: Oct 31, 2024

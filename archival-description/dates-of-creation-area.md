@@ -25,16 +25,15 @@ Always enter at the `fonds` level for the date of creation (but can be left blan
 |:-----:	|:------:	|:-----:	|:-----:	|
 |   MA    |   MA    |   MA  	|   MA  	|
 
-Values are governed by AtoM taxonomy (`Event types`), but used differently at different levels.
+Values are governed by AtoM taxonomy (`Event types`):
+- `Creation` = dates of the documents.
+- `Accumulation` = dates documents were accumulated by the fonds creator
+- `Collection` = dates documents were collected by a collector.
+- `Custody` = dates materials were in the custody of the custodian.
 
-Aggregate levels (`fonds`, `series`, `files`):
-- `Creation` (dates documents were accumulated by the fonds creator).
-- `Collection` (dates documents were collected by the collector).
-- `Custody` (dates materials were in the custody of the custodian).
-- `Document dates` (dates of the actual documents – use only if different than `Creation` dates).
-
-At the `item` level:
-- Select any of the entries in `Event types` taxonomy.
+`Creation` vs `Accumulation`
+- Only use `Dates of accumulation` if they are different than `Dates of creation`, e.g. a donor's research files from the 1990s that contain documents or copies of documents dating back to the 1800s.
+- Use the `Event note` field to explain the difference between the dates.
 
 Note that there is a large volume of item-level legacy data for the Archives:
 - Item level data relating to production credits for films were handled as events during AIS migration.
@@ -85,9 +84,13 @@ Use for narrative information elaborating on date, especially where dates of acc
 
 `Records were accumulated between 1963 and 2021 but include (in series X-X) some older original documents that date back to <<DATE>>.`
 
+`Date of accumulation reflects the dates of record-keeping, i.e. the dates files opened / closed.`
+
+`Files include copies of records that Evans obtained from various repositories. Dates of creation reflect the dates of the originals.`
+
 ---
 ###### [<< Previous: Class of material specific details area](class-material-specific-details.md) `|` [Next: Phyiscal description area >>](physical-description-area.md)
 
 ---
-###### Last updated: Jul 28, 2023
+###### Last updated: Oct 31, 2024
 ###### MA = Mandatory `|` RE = Required for full description `|` IA = Required if applicable `|` OP = Optional `|` NA = Not applicable `|` DN = Do not use
