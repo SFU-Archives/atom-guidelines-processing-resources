@@ -10,24 +10,25 @@ The [Standard AtoM import template](https://wiki.accesstomemory.org/Resources/CS
 
 Note that from 2021-2024 the Archives also had an online conversion app to transform an SFU-specific Import template (Excel) to the standard AtoM csv. This was retired in 2024, as the Archives shifted to a simpler import process using the current adaptation of the AtoM import template.
 
-## Standard AtoM import template
-1. Create your series / file / item list.
-- If using the SFU adaptation, use the appropriate tab and save that tab as csv.
+## Use the SFU Excel template
+1. Create your series / file / item list on the appropriate tab.
 
-2. Open the csv file with BBEdit and change the settings for character encoding and line endings:
+2. From the tab you want to import, save the file as csv (csv file will only include data from that tab).
+
+3. Open the csv file with BBEdit and change the settings for character encoding and line endings:
 - `Character encoding` = Unicode (UTF-8)
 - `Line endings` = Unix (LF)
 
-3. Open the SFU AtoM edit site and log in.
+4. Open the SFU AtoM edit site and log in.
 
-4. In the `AtoM header bar` select `Import` > `Validate CSV`.
+5. In the `AtoM header bar` select `Import` > `Validate CSV`.
 
-5. Test your import csv file (`Type` = "Archival descrption").
-- If there are errors, make corrections on the csv file and re-test until there are no error.
+6. Test your import csv file (`Type` = "Archival descrption").
+- If there are errors, make corrections on the csv file and re-test until there are no errors.
 
-6. In the `AtoM header bar` select `Import` > `CSV`.
+7. In the `AtoM header bar` select `Import` > `CSV`.
 
-7. On the `Import CSV` page, use the following settings (these are the defaults, they do not need to be changed):
+8. On the `Import CSV` page, use the following settings (these are the defaults, they do not need to be changed):
     - `Type` = "Archival description"
     - `Update behaviours` = "Ignore matches and create new records on import"
     - `Skip matched records` = UNCHECKED
@@ -36,7 +37,7 @@ Note that from 2021-2024 the Archives also had an online conversion app to trans
 
 AtoM will import the data and create new description records linked to their existing parent AtoM records.
 
-### Notes
+## Notes
 Always enter a unique value in the `legacyID` column: simplest is to use serial numbers, "1, 2, 3, 4 ..."
 
 Do not rename or re-order column headers; it is ok to leave columns blank or delete columns not required.
