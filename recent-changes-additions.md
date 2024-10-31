@@ -10,6 +10,9 @@ This page documents recent changes and additions to the Guidelines.
 [AtoM Import Template](resources/atom-importer.md)
 - Import process simplified, online AtoM Importer app retired (this was a R-based app available on the Archives shinyapps site).
 
+[Archival Processing Checklist](downloads/archival-processing-checklist.pdf)
+- Updated, exists only as pdf.
+
 ## Sep 2023
 [Availability of other format](archival-description/availability-of-other-formats.md)
 - Added to sample language.
