@@ -17,7 +17,7 @@ This site provides guidelines for the use of [SFU AtoM](https://atom.archives.sf
 
 - **AtoM Import Template** – [Description](resources/atom-importer.md) | [Standard AtoM import template (from AtoM documentation](https://wiki.accesstomemory.org/Resources/CSV_templates) | [SFU adaptation (Excel)](downloads/atom-import-template.xlsx)
 
-- **Extent Calculator** – [Description](resources/extent-calculator.md) | [Online app](https://sfuarchives.shinyapps.io/extent_calculator/)
+- **Extent Calculator** – [Description](resources/extent-calculator.md) | [Online app](https://sfuarchives.shinyapps.io/extent_calculator/) 
 
 - **Resolution Calculator** – [Description](resources/resolution-calculator.md) | [Online app](https://sfuarchives.shinyapps.io/resolution_calculator/)
 
