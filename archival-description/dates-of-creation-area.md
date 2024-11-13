@@ -9,7 +9,7 @@ At all levels, give at least one date entry.
 
 For a `collection`, make two entries:
 - `Event type` = Collection (dates actor collected materials): enter Actor, but leave dates empty if you do not know dates of collecting activity.
-- `Event type` = Document dates (date range of the documents themselves): leave `Actor` empty.
+- `Event type` = Creation (date range of the documents themselves): leave `Actor` empty.
 
 ## Actor name
 | Fonds 	| Series 	| Files 	| Items 	|
