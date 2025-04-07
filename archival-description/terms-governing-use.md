@@ -19,7 +19,6 @@ The Archives has created static pages in SFU AtoM for information about our prac
 
 ## Template text / examples
 ### University records
-
 `Copyright applies to the records in the fonds and copyright ownership is mixed. Copyright in records authored by SFU employees typically belongs to SFU. The Archives provides access to these materials under a Creative Commons Attribution-NonCommercial license ([CC BY-NC](https://creativecommons.org/licenses/by-nc/4.0/)). Users are free to copy, share and adapt the materials as they like provided they credit SFU as the creator, indicate any changes they have made, and use the works for a non-commercial purpose. All requests for commercial use should be made in writing to SFU Archives.`
 
 `The fonds also includes copyright-protected materials for which SFU does not own copyright (e.g. incoming correspondence authored by non-SFU third parties). For these materials, the Archives makes copies available for private study or research purposes under the fair dealing provisions of Canada's Copyright Act. Use for any other purpose may require the permission of the copyright owner. SFU Archives can assist researchers in attempting to identify copyright owners, but it is the users' responsibility to contact owners and secure any permissions.`
@@ -36,10 +35,10 @@ The Archives has created static pages in SFU AtoM for information about our prac
 `See individual series descriptions for more information about the application of copyright to specific sets of records.`
 
 ### Photographs
-
 `All photographs were made prior to January 1, 1949 and are accordingly in the public domain, following the rules set out in Canada's Copyright Act for photographs made by individual authors.`
+
 ---
 ###### [<< Previous: Restrictions on access](restrictions-on-access.md) `|` [Next: Finding aids >>](finding-aids.md)
 ---
-###### Last updated: Aug 15, 2023
+###### Last updated: Apr 7, 2025
 ###### MA = Mandatory `|` RE = Required for full description `|` IA = Required if applicable `|` OP = Optional `|` NA = Not applicable `|` DN = Do not use
