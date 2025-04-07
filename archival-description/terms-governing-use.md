@@ -35,6 +35,9 @@ The Archives has created static pages in SFU AtoM for information about our prac
 
 `See individual series descriptions for more information about the application of copyright to specific sets of records.`
 
+### Photographs
+
+`All photographs were made prior to January 1, 1949 and are accordingly in the public domain, following the rules set out in Canada's Copyright Act for photographs made by individual authors.`
 ---
 ###### [<< Previous: Restrictions on access](restrictions-on-access.md) `|` [Next: Finding aids >>](finding-aids.md)
 ---
